@@ -20,8 +20,9 @@ const GenericContentList: React.FC<GenericContentListProps> = ({ items, onSelect
   const filteredItems = useMemo(() => {
     if (!searchTerm) return items;
     const lowercasedFilter = searchTerm.toLowerCase();
+    // FIX: Add type guard to ensure value is a string before calling .toLowerCase()
     return items.filter(item => 
-        Object.values(item.title).some(t => t.toLowerCase().includes(lowercasedFilter))
+        Object.values(item.title).some(t => typeof t === 'string' && t.toLowerCase().includes(lowercasedFilter))
     );
   }, [items, searchTerm]);
   

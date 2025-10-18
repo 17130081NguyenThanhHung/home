@@ -42,9 +42,10 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
     if (!searchTerm) return feastsByType;
     
     const lowercasedFilter = searchTerm.toLowerCase();
+    // FIX: Add type guards to ensure values are strings before calling .toLowerCase()
     return feastsByType.filter(feast => 
-        Object.values(feast.title).some(t => t.toLowerCase().includes(lowercasedFilter)) ||
-        (feast.subtitle && Object.values(feast.subtitle).some(s => s.toLowerCase().includes(lowercasedFilter)))
+        Object.values(feast.title).some(t => typeof t === 'string' && t.toLowerCase().includes(lowercasedFilter)) ||
+        (feast.subtitle && Object.values(feast.subtitle).some(s => typeof s === 'string' && s.toLowerCase().includes(lowercasedFilter)))
     );
   }, [feasts, searchTerm, selectedType]);
 
