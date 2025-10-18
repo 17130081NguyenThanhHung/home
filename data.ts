@@ -85,48 +85,275 @@ Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ
 Đức Giê-su nói: “Tôi là ánh sáng thế gian. Ai theo tôi, sẽ không phải đi trong bóng tối, nhưng sẽ nhận được ánh sáng đem lại sự sống”.
 <strong>Lời nguyện hiệp lễ</strong>
 Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý. Chúng con cầu xin.`,
-        en: `[English Mass Readings coming soon...]`,
-        es: `[Spanish Mass Readings coming soon...]`,
-        fr: `[French Mass Readings coming soon...]`,
-        la: `[Latin Mass Readings coming soon...]`
+        en: `<strong>MASS</strong>
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+Blessed is the one who trusts in the Lord, whose hope is the Lord. He is like a tree planted beside the waters that stretches out its roots to the stream.
+<strong>Collect</strong>
+O God, who crowned with the gift of true faith your holy one Elizabeth Ann Seton, grant us, we pray, that, by her example and intercession, we may grow in love for you and devote ourselves with zeal to the service of those in need. Through our Lord Jesus Christ, your Son.
+<strong>Reading (1 Jn 3:14-18)</strong>
+<em>A reading from the first Letter of Saint John.</em>
+Beloved, we know that we have passed from death to life, because we love our brothers. Whoever does not love remains in death. Everyone who hates his brother is a murderer, and you know that no murderer has eternal life remaining in him. The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers. If someone who has worldly means sees a brother in need and refuses him compassion, how can the love of God remain in him? Children, let us not love in word or speech but in deed and truth.
+<strong>Responsorial Psalm (Ps 16)</strong>
+<strong>R. You are my inheritance, O Lord!</strong>
+Keep me, O God, for in you I take refuge. I say to the LORD, “My Lord are you. Apart from you I have no good.” <strong>R.</strong>
+I bless the LORD who counsels me; even in the night my heart exhorts me. I set the LORD ever before me; with him at my right hand I shall not be disturbed. <strong>R.</strong>
+You will show me the path to life, abounding joy in your presence, the delights at your right hand forever. <strong>R.</strong>
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+Alleluia, alleluia. I chose you from the world, to go and bear fruit that will remain, says the Lord. Alleluia, alleluia.
+<strong>Gospel (Jn 15:9-17)</strong>
+<strong>A reading from the holy Gospel according to John.</strong>
+Jesus said to his disciples: “As the Father loves me, so I also love you. Remain in my love. If you keep my commandments, you will remain in my love, just as I have kept my Father’s commandments and remain in his love. I have told you this so that my joy may be in you and your joy might be complete. This is my commandment: love one another as I love you. No one has greater love than this, to lay down one’s life for one’s friends. You are my friends if you do what I command you. I no longer call you slaves, because a slave does not know what his master is doing. I have called you friends, because I have told you everything I have heard from my Father. It was not you who chose me, but I who chose you and appointed you to go and bear fruit that will remain, so that whatever you ask the Father in my name he may give you. This I command you: love one another.”
+<strong>Prayer over the Offerings</strong>
+Lord God, may the sacrifice we offer you on this memorial of Saint Elizabeth Ann Seton be a sign of our loving service to you and our neighbor. We ask this through Christ our Lord.
+<strong>Communion Antiphon (Jn 8:12)</strong>
+The Lord says: I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.
+<strong>Prayer after Communion</strong>
+Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.`,
+        es: `<strong>MISA</strong>
+<strong>Antífona de entrada (Jer 17, 7-8)</strong>
+Bendito el hombre que confía en el Señor y pone en el Señor su confianza. Será como un árbol plantado junto al agua, que junto a la corriente echa sus raíces.
+<strong>Oración colecta</strong>
+Oh, Dios, que coronaste con el don de la verdadera fe a santa Isabel Ana Seton, concédenos, te rogamos, que, por su ejemplo e intercesión, crezcamos en amor por ti y nos dediquemos con celo al servicio de los necesitados. Por nuestro Señor Jesucristo, tu Hijo.
+<strong>Lectura (1 Jn 3, 14-18)</strong>
+<em>Lectura de la primera carta del apóstol san Juan.</em>
+Queridos hermanos, nosotros sabemos que hemos pasado de la muerte a la vida, porque amamos a los hermanos. El que no ama permanece en la muerte. Todo el que odia a su hermano es un homicida. Y sabéis que ningún homicida tiene vida eterna permanente en él. En esto hemos conocido el amor: en que él dio su vida por nosotros. Así también nosotros debemos dar la vida por los hermanos. Si alguno que posee bienes del mundo ve a su hermano que está necesitado y le cierra sus entrañas, ¿cómo puede permanecer en él el amor de Dios? Hijitos, no amemos de palabra ni de boca, sino de obra y de verdad.
+<strong>Salmo responsorial (Sal 16)</strong>
+<strong>R. ¡Tú eres mi heredad, Señor!</strong>
+Protégeme, Dios mío, que me refugio en ti. Yo digo al Señor: «Tú eres mi bien». <strong>R.</strong>
+Bendeciré al Señor, que me aconseja, hasta de noche me instruye internamente. Tengo siempre presente al Señor, con él a mi derecha no vacilaré. <strong>R.</strong>
+Me enseñarás el sendero de la vida, me saciarás de gozo en tu presencia, de alegría perpetua a tu derecha. <strong>R.</strong>
+<strong>Aclamación del Evangelio (Jn 15, 16)</strong>
+Aleluya, aleluya. Yo os he elegido del mundo —dice el Señor—, para que vayáis y deis fruto, y vuestro fruto permanezca. Aleluya, aleluya.
+<strong>Evangelio (Jn 15, 9-17)</strong>
+<strong>Lectura del santo Evangelio según san Juan.</strong>
+En aquel tiempo, dijo Jesús a sus discípulos: «Como el Padre me ha amado, así os he amado yo; permaneced en mi amor. Si guardáis mis mandamientos, permaneceréis en mi amor; lo mismo que yo he guardado los mandamientos de mi Padre y permanezco en su amor. Os he hablado de esto para que mi alegría esté en vosotros, y vuestra alegría llegue a plenitud. Este es mi mandamiento: que os améis unos a otros como yo os he amado. Nadie tiene amor más grande que el que da la vida por sus amigos. Vosotros sois mis amigos, si hacéis lo que yo os mando. Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor: a vosotros os llamo amigos, porque todo lo que he oído a mi Padre os lo he dado a conocer. No sois vosotros los que me habéis elegido, soy yo quien os he elegido y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca. De modo que lo que pidáis al Padre en mi nombre os lo dé. Esto os mando: que os améis unos a otros».
+<strong>Oración sobre las ofrendas</strong>
+Señor, que el sacrificio que te ofrecemos en esta memoria de santa Isabel Ana Seton sea un signo de nuestro amoroso servicio a ti y a nuestro prójimo. Te lo pedimos por Cristo nuestro Señor.
+<strong>Antífona de comunión (Jn 8, 12)</strong>
+Dice el Señor: Yo soy la luz del mundo; el que me sigue no caminará en tinieblas, sino que tendrá la luz de la vida.
+<strong>Oración después de la comunión</strong>
+Señor, que esta Eucaristía, que hemos compartido en memoria de santa Isabel Ana Seton, nos llene del espíritu de tu amor. Que aprendamos a amarte y a servirte en nuestros hermanos. Te lo pedimos por Cristo nuestro Señor.`,
+        fr: `<strong>MESSE</strong>
+<strong>Antienne d'ouverture (Jr 17, 7-8)</strong>
+Béni soit l'homme qui met sa foi dans le Seigneur, dont le Seigneur est la confiance. Il est comme un arbre planté près des eaux, qui étend ses racines vers le courant.
+<strong>Prière d'ouverture</strong>
+Dieu qui as comblé sainte Élisabeth-Ann Seton du don de la vraie foi, accorde-nous, nous t'en prions, par son exemple et son intercession, de grandir dans ton amour et de nous dévouer avec zèle au service des nécessiteux. Par Jésus Christ, ton Fils, notre Seigneur.
+<strong>Lecture (1 Jn 3, 14-18)</strong>
+<em>Lecture de la première lettre de saint Jean.</em>
+Bien-aimés, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n'aime pas demeure dans la mort. Quiconque a de la haine pour son frère est un meurtrier, et vous savez que pas un meurtrier n'a la vie éternelle demeurant en lui. Voici comment nous avons connu l'amour : il a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères. Si quelqu'un, qui a les biens de ce monde, voit son frère dans le besoin et lui ferme ses entrailles, comment l'amour de Dieu demeurerait-il en lui ? Petits enfants, n'aimons pas en paroles ni par des discours, mais par des actes et en vérité.
+<strong>Psaume responsorial (Ps 16)</strong>
+<strong>R. Tu es, Seigneur, le partage de mon héritage !</strong>
+Garde-moi, mon Dieu : j'ai fait de toi mon refuge. J'ai dit au Seigneur : « Tu es mon Dieu ! Je n'ai pas d'autre bonheur que toi. » <strong>R.</strong>
+Je bénis le Seigneur qui me conseille : même la nuit mon cœur m'avertit. Je garde le Seigneur devant moi sans relâche ; il est à ma droite, je suis inébranlable. <strong>R.</strong>
+Tu m'apprendras le chemin de la vie : devant ta face, débordement de joie ! À ta droite, éternité de délices ! <strong>R.</strong>
+<strong>Acclamation de l'Évangile (Jn 15, 16)</strong>
+Alléluia, alléluia. C'est moi qui vous ai choisis du milieu du monde, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure, dit le Seigneur. Alléluia, alléluia.
+<strong>Évangile (Jn 15, 9-17)</strong>
+<strong>Lecture du saint Évangile selon saint Jean.</strong>
+En ce temps-là, Jésus disait à ses disciples : « Comme le Père m'a aimé, moi aussi je vous ai aimés. Demeurez dans mon amour. Si vous gardez mes commandements, vous demeurerez dans mon amour, comme moi, j'ai gardé les commandements de mon Père, et je demeure dans son amour. Je vous ai dit cela pour que ma joie soit en vous, et que votre joie soit parfaite. Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aimés. Il n’y a pas de plus grand amour que de donner sa vie pour ceux qu’on aime. Vous êtes mes amis si vous faites ce que je vous commande. Je ne vous appelle plus serviteurs, car le serviteur ne sait pas ce que fait son maître ; je vous appelle mes amis, parce que tout ce que j'ai entendu de mon Père, je vous l'ai fait connaître. Ce n'est pas vous qui m'avez choisi, c'est moi qui vous ai choisis et établis, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure. Alors, tout ce que vous demanderez au Père en mon nom, il vous le donnera. Ce que je vous commande, c'est de vous aimer les uns les autres. »
+<strong>Prière sur les offrandes</strong>
+Seigneur notre Dieu, que le sacrifice que nous t'offrons en cette mémoire de sainte Élisabeth-Ann Seton soit un signe de notre service aimant envers toi et notre prochain. Nous te le demandons par le Christ notre Seigneur.
+<strong>Antienne de la communion (Jn 8, 12)</strong>
+Le Seigneur dit : Je suis la lumière du monde. Celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie.
+<strong>Prière après la communion</strong>
+Seigneur, que cette Eucharistie, que nous avons partagée en mémoire de sainte Élisabeth-Ann Seton, nous remplisse de l'esprit de ton amour. Puissions-nous apprendre à t'aimer et à te servir en nos frères et sœurs. Nous te le demandons par le Christ notre Seigneur.`,
+        la: `<strong>MISSA</strong>
+<strong>Antiphona ad introitum (Ier 17, 7-8)</strong>
+Benedictus vir qui confidit in Domino, et erit Dominus fiducia eius. Et erit quasi lignum quod transplantatur super aquas, quod ad humorem mittit radices suas.
+<strong>Collecta</strong>
+Deus, qui sanctam Elisabeth Annam Seton verae fidei dono coronavisti, concede, quaesumus, ut, eius exemplo et intercessione, in tui amore crescamus et egentium servitio ardenter nos impendamus. Per Dominum nostrum Iesum Christum Filium tuum.
+<strong>Lectio (1 Io 3, 14-18)</strong>
+<em>Lectio Epistulae primae beati Ioannis Apostoli.</em>
+Carissimi, nos scimus quoniam transivimus de morte in vitam, quoniam diligimus fratres. Qui non diligit, manet in morte. Omnis qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam aeternam in se manentem. In hoc cognovimus caritatem, quoniam ille animam suam pro nobis posuit; et nos debemus pro fratribus animas ponere. Qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem habere, et clauserit viscera sua ab eo, quomodo caritas Dei manet in eo? Filioli, non diligamus verbo nec lingua, sed opere et veritate.
+<strong>Psalmus responsorius (Ps 16)</strong>
+<strong>R. Tu es, Domine, pars hereditatis meae.</strong>
+Conserva me, Deus, quoniam speravi in te. Dixi Domino: «Dominus meus es tu, bonum mihi non est sine te». <strong>R.</strong>
+Benedicam Dominum, qui tribuit mihi intellectum; insuper et usque ad noctem increpuerunt me renes mei. Providebam Dominum in conspectu meo semper; quoniam a dextris est mihi, non commovebor. <strong>R.</strong>
+Notas mihi facies vias vitae, adimpletionem laetitiae cum vultu tuo, delectationes in dextera tua usque in finem. <strong>R.</strong>
+<strong>Acclamatio ad Evangelium (Io 15, 16)</strong>
+Alleluia, alleluia. Ego vos elegi de mundo, ut eatis et fructum afferatis, et fructus vester maneat, dicit Dominus. Alleluia, alleluia.
+<strong>Evangelium (Io 15, 9-17)</strong>
+<strong>Lectio sancti Evangelii secundum Ioannem.</strong>
+In illo tempore, dixit Iesus discipulis suis: «Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea. Si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego Patris mei praecepta servavi, et maneo in eius dilectione. Haec locutus sum vobis, ut gaudium meum in vobis sit, et gaudium vestrum impleatur. Hoc est praeceptum meum, ut diligatis invicem, sicut dilexi vos. Maiorem hac dilectionem nemo habet, ut animam suam ponat quis pro amicis suis. Vos amici mei estis, si feceritis quae ego praecipio vobis. Iam non dico vos servos, quia servus nescit quid faciat dominus eius; vos autem dixi amicos, quia omnia quaecumque audivi a Patre meo, nota feci vobis. Non vos me elegistis, sed ego elegi vos, et posui vos ut eatis, et fructum afferatis, et fructus vester maneat; ut quodcumque petieritis Patrem in nomine meo, det vobis. Haec mando vobis, ut diligatis invicem».
+<strong>Oratio super oblata</strong>
+Domine Deus, sacrificium quod tibi offerimus in hac memoria sanctae Elisabeth Annae Seton, sit signum nostri amoris et servitii erga te et proximum. Per Christum Dominum nostrum.
+<strong>Antiphona ad communionem (Io 8, 12)</strong>
+Dicit Dominus: Ego sum lux mundi. Qui sequitur me, non ambulabit in tenebris, sed habebit lumen vitae.
+<strong>Post communionem</strong>
+Domine, haec Eucharistia, quam in memoriam sanctae Elisabeth Annae Seton sumpsimus, nos spiritu tui amoris impleat. Discamus te diligere et tibi in fratribus nostris servire. Per Christum Dominum nostrum.`
       },
       officeOfReadings: placeholder,
       lauds: placeholder,
       middayPrayer: placeholder,
       vespers: placeholder,
       compline: placeholder,
-    },
+    }
   },
   {
-    id: 'blessed-lindalva-justa-de-oliveira',
-    date: '01-07',
+    id: 'bl-rosalie-rendu',
+    date: '02-07',
     title: {
-      vi: 'Chân Phước Lin-đan-va Giút-ta Ô-li-bây-ra',
-      en: 'Blessed Lindalva Justa de Oliveira',
-      es: 'Beata Lindalva Justa de Oliveira',
-      fr: 'Bienheureuse Lindalva Justa de Oliveira',
-      la: 'Beata Lindalva Iusta de Oliveira'
+      vi: 'Chân phước Rô-sa-li Ren-đu',
+      en: 'Bl. Rosalie Rendu',
+      es: 'Beata Rosalía Rendu',
+      fr: 'Bienheureuse Rosalie Rendu',
+      la: 'Beata Rosalia Rendu'
     },
     subtitle: {
-      vi: 'Nữ tu, Tử đạo',
-      en: 'Virgin, Martyr',
-      es: 'Virgen y Mártir',
-      fr: 'Vierge et Martyre',
-      la: 'Virgo et Martyr'
+      vi: 'Nữ Tử Bác Ái',
+      en: 'Daughter of Charity',
+      es: 'Hija de la Caridad',
+      fr: 'Fille de la Charité',
+      la: 'Filia Caritatis'
     },
     type: 'Lễ nhớ',
     sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'st-francis-regis-clet',
+    date: '02-18',
+    title: {
+      vi: 'Thánh Phan-xi-cô Rê-gi-xê Cờ-lê',
+      en: 'St. Francis Regis Clet',
+      es: 'San Francisco Régis Clet',
+      fr: 'Saint François-Régis Clet',
+      la: 'Sanctus Franciscus Regis Clet'
+    },
+    subtitle: {
+      vi: 'Linh mục, Tử đạo',
+      en: 'Priest, Martyr',
+      es: 'Sacerdote, Mártir',
+      fr: 'Prêtre, Martyr',
+      la: 'Sacerdos, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-pierre-rene-rogue',
+    date: '03-03',
+    title: {
+      vi: 'Chân phước Pi-e Rơ-nê Rô-gơ',
+      en: 'Bl. Pierre-René Rogue',
+      es: 'Beato Pedro Renato Rogue',
+      fr: 'Bienheureux Pierre-René Rogue',
+      la: 'Beatus Petrus Renatus Rogue'
+    },
+    subtitle: {
+      vi: 'Linh mục, Tử đạo',
+      en: 'Priest, Martyr',
+      es: 'Sacerdote, Mártir',
+      fr: 'Prêtre, Martyr',
+      la: 'Sacerdos, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-lindalva-justo-de-oliveira',
+    date: '04-09',
+    title: {
+        vi: 'Chân phước Lindalva Justo de Oliveira',
+        en: 'Bl. Lindalva Justo de Oliveira',
+        es: 'Beata Lindalva Justo de Oliveira',
+        fr: 'Bienheureuse Lindalva Justo de Oliveira',
+        la: 'Beata Lindalva Justo de Oliveira'
+    },
+    subtitle: {
+        vi: 'Nữ Tử Bác Ái, Tử đạo',
+        en: 'Daughter of Charity, Martyr',
+        es: 'Hija de la Caridad, Mártir',
+        fr: 'Fille de la Charité, Martyre',
+        la: 'Filia Caritatis, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-marguerite-rutan',
+    date: '04-09',
+    title: {
+        vi: 'Chân phước Mác-ga-ri-ta Ru-tan',
+        en: 'Bl. Marguerite Rutan',
+        es: 'Beata Margarita Rutan',
+        fr: 'Bienheureuse Marguerite Rutan',
+        la: 'Beata Margarita Rutan'
+    },
+    subtitle: {
+        vi: 'Nữ Tử Bác Ái, Tử đạo',
+        en: 'Daughter of Charity, Martyr',
+        es: 'Hija de la Caridad, Mártir',
+        fr: 'Fille de la Charité, Martyre',
+        la: 'Filia Caritatis, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'founding-cm',
+    date: '04-17',
+    title: {
+      vi: 'Kỷ niệm Thành lập Tu hội Truyền giáo',
+      en: 'Commemoration of the Founding of the Congregation of the Mission',
+      es: 'Conmemoración de la Fundación de la Congregación de la Misión',
+      fr: 'Commémoration de la Fondation de la Congrégation de la Mission',
+      la: 'Commemoratio Fundationis Congregationis Missionis'
+    },
+    subtitle: {
+      vi: 'Ngày 17 tháng 4 năm 1625',
+      en: 'April 17, 1625',
+      es: '17 de abril de 1625',
+      fr: '17 avril 1625',
+      la: '17 Aprilis 1625'
+    },
+    type: 'Kỷ niệm',
+    sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-Chân phước Lin-đan-va Giút-ta Ô-li-bây-ra sinh ngày 20/10/1953, tại Sitio Maihada de Areira, Acu, ở Brasil. Từ thời thơ ấu, chân phước đã trau dồi một tình yêu mến đặc biệt đối với người nghèo. Khi trở thành Nữ Tử Bác Ái Thánh Vinh Sơn Phaolô, chị phục vụ người nghèo và người già cả tại một viện Dưỡng Lão… Sơ là tấm gương tuyệt vời trong công việc, trong sự dấn thân để tạo tinh thần hiệp thông với mọi người, nhất là với các chị em trong tu hội. Công việc bác ái của chị đã không ngừng phát triển cho tới ngày chị bảo vệ sự trinh khiết của mình cho đến chết. Được ơn tử đạo, chân phước chết tử đạo ngày 09 tháng 4 năm 1993. Chị được phong chân phước ngày 2 tháng 12 năm 1993, tại Salvador-Bahia, ở Brasil.`,
-        en: `<strong>Biography</strong>
-Blessed Lindalva Justa de Oliveira was born on October 20, 1953, in Sitio Malhada de Areia, Acu, in Brazil. From her childhood, she cultivated a special love for the poor. When she became a Daughter of Charity of Saint Vincent de Paul, she served the poor and the elderly in a nursing home. Sister was a wonderful example in her work, in her commitment to creating a spirit of communion with everyone, especially with the sisters in her community. Her work of charity continued to grow until the day she defended her chastity to the death. Having received the grace of martyrdom, she died a martyr on April 9, 1993. She was beatified on December 2, 2007, in Salvador-Bahia, Brazil.`,
-        es: `<strong>Biografía</strong>
-La Beata Lindalva Justa de Oliveira nació el 20 de octubre de 1953, en Sitio Malhada de Areia, Acu, en Brasil. Desde su infancia, cultivó un amor especial por los pobres. Cuando se convirtió en Hija de la Caridad de San Vicente de Paúl, sirvió a los pobres y a los ancianos en un asilo. La hermana fue un ejemplo maravilloso en su trabajo, en su compromiso por crear un espíritu de comunión con todos, especialmente con las hermanas de su comunidad. Su obra de caridad siguió creciendo hasta el día en que defendió su castidad hasta la muerte. Habiendo recibido la gracia del martirio, murió mártir el 9 de abril de 1993. Fue beatificada el 2 de diciembre de 2007, en Salvador-Bahia, Brasil.`,
-        fr: `<strong>Biographie</strong>
-La bienheureuse Lindalva Justa de Oliveira est née le 20 octobre 1953, à Sitio Malhada de Areia, Acu, au Brésil. Dès son enfance, elle a cultivé un amour particulier pour les pauvres. Devenue Fille de la Charité de Saint Vincent de Paul, elle a servi les pauvres et les personnes âgées dans une maison de retraite. Sœur Lindalva était un exemple merveilleux dans son travail, dans son engagement à créer un esprit de communion avec tout le monde, en particulier avec les sœurs de sa communauté. Son travail de charité n'a cessé de croître jusqu'au jour où elle a défendu sa chasteté jusqu'à la mort. Ayant reçu la grâce du martyre, elle est morte en martyre le 9 avril 1993. Elle a été béatifiée le 2 décembre 2007, à Salvador-Bahia, au Brésil.`,
-        la: `<strong>Vita</strong>
-Beata Lindalva Iusta de Oliveira nata est die XX mensis Octobris anno MCMLIII, in Sitio Malhada de Areia, Acu, in Brasilia. A pueritia, specialem amorem erga pauperes coluit. Cum Filia Caritatis Sancti Vincentii a Paulo facta esset, pauperibus et senibus in gerontocomio servivit. Soror exemplum mirabile fuit in opere suo, in studio suo ad spiritum communionis cum omnibus creandum, praesertim cum sororibus in communitate sua. Opus eius caritatis crescere non desiit usque ad diem quo castitatem suam usque ad mortem defendit. Gratiam martyrii adepta, martyr obiit die IX mensis Aprilis anno MCMXCIII. Beatificata est die II mensis Decembris anno MMVII, in Salvator-Bahia, in Brasilia.`
+        vi: '<strong>Lịch sử</strong><br>Thánh Vinh Sơn Phaolô, do lòng trắc ẩn trước sự nghèo đói về mặt thiêng liêng của người dân nông thôn, đã thành lập Tu hội Truyền giáo vào ngày 17 tháng 4 năm 1625, thông qua một hợp đồng với gia đình de Gondi. Cộng đoàn mới gồm các linh mục và tu sĩ đã tự hiến dâng để rao giảng các cuộc đại phúc cho người nghèo ở nông thôn và đào tạo một hàng giáo sĩ đức hạnh. Điều này đã đánh dấu sự khởi đầu của một gia đình thiêng liêng trên toàn thế giới, cam kết loan báo Tin Mừng và phục vụ những người bị bỏ rơi nhất.',
+        en: '<strong>History</strong><br>St. Vincent de Paul, moved by the spiritual poverty of the rural people, established the Congregation of the Mission on April 17, 1625, through a contract with the de Gondi family. The new community of priests and brothers dedicated themselves to preaching missions to the poor in the countryside and forming a virtuous clergy. This marked the beginning of a worldwide spiritual family committed to evangelizing and serving the most abandoned.',
+        es: '<strong>Historia</strong><br>San Vicente de Paúl, movido por la pobreza espiritual de la gente del campo, estableció la Congregación de la Misión el 17 de abril de 1625, mediante un contrato con la familia de Gondi. La nueva comunidad de sacerdotes y hermanos se dedicó a predicar misiones a los pobres del campo y a formar un clero virtuoso. Esto marcó el comienzo de una familia espiritual mundial comprometida con la evangelización y el servicio a los más abandonados.',
+        fr: '<strong>Histoire</strong><br>Saint Vincent de Paul, ému par la pauvreté spirituelle des populations rurales, a fondé la Congrégation de la Mission le 17 avril 1625, par un contrat avec la famille de Gondi. La nouvelle communauté de prêtres et de frères s\'est consacrée à la prédication de missions pour les pauvres dans les campagnes et à la formation d\'un clergé vertueux. Cela a marqué le début d\'une famille spirituelle mondiale engagée dans l\'évangélisation et le service des plus abandonnés.',
+        la: '<strong>Historia</strong><br>Sanctus Vincentius a Paulo, paupertate spirituali populi rustici motus, Congregationem Missionis die 17 Aprilis 1625 condidit, per contractum cum familia de Gondi. Nova communitas sacerdotum et fratrum se dedicaverunt ad missiones praedicandas pauperibus in agris et ad clerum virtuosum formandum. Hoc initium notavit familiae spiritualis per orbem terrarum commissae evangelizandi et serviendi maxime derelictis.'
       },
       massReadings: placeholder,
       officeOfReadings: placeholder,
@@ -137,987 +364,807 @@ Beata Lindalva Iusta de Oliveira nata est die XX mensis Octobris anno MCMLIII, i
     }
   },
   {
-    id: 'st-paul-conversion',
-    date: '01-25',
+    id: 'transfer-relics-st-vincent',
+    date: '04-27',
     title: {
-      vi: 'Thánh Phaolô Tông Đồ Trở Lại',
-      en: 'Conversion of Saint Paul the Apostle',
-      es: 'Conversión de San Pablo Apóstol',
-      fr: 'Conversion de Saint Paul Apôtre',
-      la: 'In conversione S. Pauli, apostoli'
+        vi: 'Lễ Cung nghinh Xương Thánh Vinh Sơn',
+        en: 'Transfer of the Relics of St. Vincent',
+        es: 'Traslación de las Reliquias de San Vicente',
+        fr: 'Translation des Reliques de Saint Vincent',
+        la: 'Translatio Reliquiarum S. Vincentii'
     },
     subtitle: {
-      vi: 'Kỷ niệm ngày thành lập Tu Hội Truyền Giáo',
-      en: 'Anniversary of the foundation of the Congregation of the Mission',
-      es: 'Aniversario de la fundación de la Congregación de la Misión',
-      fr: 'Anniversaire de la fondation de la Congrégation de la Mission',
-      la: 'In anniversario fundationis Congregationis Missionis'
-    },
-    type: 'Lễ kính',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Hôm nay, chúng ta cử hành việc Đức Giêsu Kitô Phục Sinh tỏ mình ra cho Sao-lô, như là Đấng Mêsia vinh hiển nơi Thiên Chúa và đang sống động nơi các môn đệ, và Người còn trở nên một với họ. (Cv 9).
-Chính vào ngày 25 tháng 01 năm 1617, tại Folleville (Somme) “đã diễn ra bài giảng đầu tiên của Tu Hội Truyền Giáo” và Chúa cho Tu Hội “được bắt đầu”, vì thánh Vinh Sơn có nói rõ điều đó (SV XII, 169).
-Thiên Chúa, Đấng kêu gọi Vị Tông đồ dân ngoại, cũng khơi dậy nơi Vinh Sơn Phao-lô việc rao giảng Tin Mừng cho người nghèo khó, “điều mà Chúa cố ý cho xảy ra vào ngày hôm đó” (SV XI, 4).`,
-          en: `<strong>Biography</strong>
-Today, we celebrate the manifestation of the Risen Jesus Christ to Saul, as the glorious Messiah with God and living in his disciples, with whom he becomes one (Acts 9).
-It was on January 25, 1617, in Folleville (Somme), that "the first sermon of the Mission was given" and that God "gave it its beginning," as Saint Vincent specified (SV XII, 169).
-God, who called the Apostle to the Gentiles, also inspired in Vincent de Paul the preaching of the Gospel to the poor, "something He intentionally made happen on that day" (SV XI, 4).`,
-          es: `<strong>Biografía</strong>
-Hoy celebramos la manifestación de Jesucristo Resucitado a Saulo, como el Mesías glorioso junto a Dios y vivo en sus discípulos, con quienes se hace uno (Hch 9).
-Fue el 25 de enero de 1617, en Folleville (Somme), cuando "se dio el primer sermón de la Misión" y Dios "le dio su comienzo", como especificó San Vicente (SV XII, 169).
-Dios, que llamó al Apóstol de los Gentiles, también inspiró en Vicente de Paúl la predicación del Evangelio a los pobres, "algo que Él hizo que sucediera intencionadamente ese día" (SV XI, 4).`,
-          fr: `<strong>Biographie</strong>
-Aujourd'hui, nous célébrons la manifestation de Jésus-Christ Ressuscité à Saul, comme le Messie glorieux auprès de Dieu et vivant dans ses disciples, avec lesquels il ne fait qu'un (Ac 9).
-C'est le 25 janvier 1617, à Folleville (Somme), que « se fit le premier sermon de la Mission » et que Dieu « lui donna commencement », ainsi que le précise saint Vincent (SV XII, 169).
-Dieu qui appelle l'Apôtre des nations, suscite aussi en Vincent de Paul la prédication de l'Évangile aux pauvres, « chose qu'il fit à dessein arriver ce jour-là » (SV XI, 4).`,
-          la: `<strong>Vita</strong>
-Hodie celebramus manifestationem Iesu Christi Resuscitati Saulo, tamquam Messiam gloriosum apud Deum et viventem in discipulis suis, quibuscum unus fit (Act 9).
-Die 25 Ianuarii 1617, in Folleville (Somme), "primus sermo Missionis habitus est" et Deus "ei initium dedit", sicut Sanctus Vincentius specificavit (SV XII, 169).
-Deus, qui Apostolum gentium vocat, etiam in Vincentio a Paulo praedicationem Evangelii pauperibus inspiravit, "quam rem de industria eo die evenire fecit" (SV XI, 4).`
-        },
-        massReadings: {
-          vi: `<strong>THÁNH LỄ</strong>
-
-<strong>Ca nhập lễ (2Tm 1, 12; 4, 8)</strong>
-Tôi biết tôi tin vào ai; và tôi xác tín rằng Chúa là vị Thẩm Phán chí công sẽ trao phần thưởng đó cho tôi trong ngày Người xuất hiện.
-
-<strong>Kinh Vinh Danh</strong>
-
-<strong>Lời nguyện nhập lễ</strong>
-Lạy Thiên Chúa là Cha chúng con, trong ngày chúng con cử hành lễ thánh Phaolô tông đồ trở lại, Chúa đã kêu gọi Thánh Vinh Sơn Phaolô thành lập một gia đình thiêng liêng để rao giảng Tin Mừng cho người nghèo khó và đào tạo hàng giáo sĩ. Xin làm cho chúng con trở nên xứng đáng rao giảng Tin Mừng sự thật và bình an. Chúng con cầu xin.`,
-          en: `[English Mass Readings coming soon...]`,
-          es: `[Spanish Mass Readings coming soon...]`,
-          fr: `[French Mass Readings coming soon...]`,
-          la: `[Latin Mass Readings coming soon...]`
-        },
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-      id: 'blessed-marie-anne-vaillot-odile-baumgarten',
-      date: '02-01',
-      title: {
-        vi: 'Các Chân Phước Ma-ri-a An-na Vai-ô và Ô-đi-la Bôm-gác-tăng',
-        en: 'Blessed Marie-Anne Vaillot and Odile Baumgarten',
-        es: 'Beatas María Ana Vaillot y Odilia Baumgarten',
-        fr: 'Bienheureuses Marie-Anne Vaillot et Odile Baumgarten',
-        la: 'Beatae Maria Anna Vaillot et Odilia Baumgarten'
-      },
-      subtitle: {
-        vi: 'Nữ tu, Tử đạo',
-        en: 'Virgins, Martyrs',
-        es: 'Vírgenes y Mártires',
-        fr: 'Vierges et Martyres',
-        la: 'Virgines et Martyres'
-      },
-      type: 'Lễ nhớ',
-      sections: {
-          biography: {
-            vi: `<strong>Tiểu sử</strong>
-Những năm 1793-1794, ngay giữa thời Cách Mạng, khủng bố hoành hành trên khắp nước Pháp, và đặc biệt ác liệt ở các vùng phía Tây, là nơi nông dân đã cầm vũ khí để bảo vệ đức tin của mình. Hơn 200 linh mục và tu sĩ bị giết hoặc chết trong tù, vì đã từ chối tuyên thệ trung thành với Hiến Chương dân sự của hàng Giáo Sĩ, là văn kiện tách Giáo Hội Pháp ra khỏi Giáo Hội Rôma. Nhiều giáo dân bị kết án tử hình vì muốn trung thành với Chúa Giêsu Kitô trong Giáo Hội. Trong số các vị tử đạo này, có hai Nữ Tử Bác Ái của bệnh viện Thánh Gioan ở Angers: các chị bị xử bắn ngày 1 tháng 2 năm 1794.
-Sơ Ma-ri-a An-na Vai-ô, sinh tại Fontainebleau ngày 13 tháng 5 năm 1734, gia nhập Tu Hội Nữ Tử Bác Ái ngày 25 tháng 9 năm 1761. Sơ giữ chức quản lý ở bệnh viện Angers.
-Sơ Ô-đi-la Bôm-gác-tăng, sinh tại Gondrexange ở Lorraine ngày 15 tháng 11 năm 1750, gia nhập Tu Hội Nữ Tử Bác Ái ngày 4 tháng 8 năm 1775. Sơ phụ trách tủ thuốc ở bệnh viện Angers.
-Vì ảnh hưởng tinh thần và đạo đức của các Chị ở trong Cộng Đoàn, nên người ta chọn hai Sơ làm nạn nhân đầu tiên.
-Sơ Ma-ri-a An-na Vai-ô và Sơ Ô-đi-la Bôm-gác-tăng được Đức Thánh Cha Gioan Phaolô II phong chân phước, cùng với 97 vị tử đạo khác ở Angers, vào ngày 19 tháng 2 năm 1984.`,
-            en: `<strong>Biography</strong>
-In the years 1793-1794, during the French Revolution, terror reigned throughout France, and was particularly fierce in the western regions where peasants had taken up arms to defend their faith. More than 200 priests and religious were killed or died in prison for refusing to swear allegiance to the Civil Constitution of the Clergy, a document that separated the French Church from the Church of Rome. Many lay people were sentenced to death for wanting to remain faithful to Jesus Christ in the Church. Among these martyrs were two Daughters of Charity from the Saint John Hospital in Angers: they were shot on February 1, 1794.
-Sister Marie-Anne Vaillot, born in Fontainebleau on May 13, 1734, joined the Company of the Daughters of Charity on September 25, 1761. She served as the administrator at the Angers hospital.
-Sister Odile Baumgarten, born in Gondrexange in Lorraine on November 15, 1750, joined the Company of the Daughters of Charity on August 4, 1775. She was in charge of the pharmacy at the Angers hospital.
-Because of their spiritual and moral influence in the Community, the two Sisters were chosen as the first victims.
-Sister Marie-Anne Vaillot and Sister Odile Baumgarten were beatified by Pope John Paul II, along with 97 other martyrs of Angers, on February 19, 1984.`,
-            es: `<strong>Biografía</strong>
-En los años 1793-1794, durante la Revolución Francesa, el terror reinó en toda Francia, y fue particularly feroz en las regiones del oeste donde los campesinos se habían levantado en armas para defender su fe. Más de 200 sacerdotes y religiosos fueron asesinados o murieron en prisión por negarse a jurar lealtad a la Constitución Civil del Clero, un documento que separaba a la Iglesia francesa de la Iglesia de Roma. Muchos laicos fueron sentenciados a muerte por querer permanecer fieles a Jesucristo en la Iglesia. Entre estos mártires se encontraban dos Hijas de la Caridad del Hospital de San Juan en Angers: fueron fusiladas el 1 de febrero de 1794.
-Sor Marie-Anne Vaillot, nacida en Fontainebleau el 13 de mayo de 1734, se unió a la Compañía de las Hijas de la Caridad el 25 de septiembre de 1761. Se desempeñó como administradora en el hospital de Angers.
-Sor Odile Baumgarten, nacida en Gondrexange en Lorena el 15 de noviembre de 1750, se unió a la Compañía de las Hijas de la Caridad el 4 de agosto de 1775. Estaba a cargo de la farmacia en el hospital de Angers.
-Debido a su influencia espiritual y moral en la Comunidad, las dos Hermanas fueron elegidas como las primeras víctimas.
-Sor Marie-Anne Vaillot y Sor Odile Baumgarten fueron beatificadas por el Papa Juan Pablo II, junto con otros 97 mártires de Angers, el 19 de febrero de 1984.`,
-            fr: `<strong>Biographie</strong>
-Dans les années 1793-1794, en pleine Révolution, la terreur sévit dans toute la France, et particulièrement dans les régions de l'Ouest où les paysans avaient pris les armes pour défendre leur foi. Plus de 200 prêtres et religieux furent tués ou moururent en prison pour avoir refusé de prêter serment de fidélité à la Constitution civile du clergé, document qui séparait l'Église de France de l'Église de Rome. De nombreux laïcs furent condamnés à mort pour avoir voulu rester fidèles à Jésus-Christ dans l'Église. Parmi ces martyrs, deux Filles de la Charité de l'hôpital Saint-Jean d'Angers : elles furent fusillées le 1er février 1794.
-Sœur Marie-Anne Vaillot, née à Fontainebleau le 13 mai 1734, entra dans la Compagnie des Filles de la Charité le 25 septembre 1761. Elle exerçait la fonction d'économe à l'hôpital d'Angers.
-Sœur Odile Baumgarten, née à Gondrexange en Lorraine le 15 novembre 1750, entra dans la Compagnie des Filles de la Charité le 4 août 1775. Elle était responsable de la pharmacie à l'hôpital d'Angers.
-En raison de leur influence spirituelle et morale dans la Communauté, les deux Sœurs furent choisies comme premières victimes.
-Sœur Marie-Anne Vaillot et Sœur Odile Baumgarten ont été béatifiées par le pape Jean-Paul II, avec 97 autres martyrs d'Angers, le 19 février 1984.`,
-            la: `<strong>Vita</strong>
-Annis 1793-1794, inter Rerum Novarum Francicarum, terror per totam Galliam saeviit, et praesertim in regionibus occidentalibus, ubi rustici arma ceperant ad fidem suam defendendam. Plus quam 200 sacerdotes et religiosi occisi sunt aut in carcere perierunt, quia iuramentum fidelitatis Constitutioni Civili Cleri, quae Ecclesiam Gallicanam ab Ecclesia Romana separabat, recusabant. Multi laici ad mortem damnati sunt, quia Iesu Christo in Ecclesia fideles manere volebant. Inter hos martyres erant duae Filiae Caritatis ex hospitali Sancti Ioannis Andegavensis: sclopetatae sunt die 1 Februarii 1794.
-Soror Maria Anna Vaillot, nata Fontis Bleaudi die 13 Maii 1734, Societatem Filiarum Caritatis intravit die 25 Septembris 1761. Munus oeconomae in hospitali Andegavensi gerebat.
-Soror Odilia Baumgarten, nata Gondrexange in Lotharingia die 15 Novembris 1750, Societatem Filiarum Caritatis intravit die 4 Augusti 1775. Pharmacopolio hospitalis Andegavensis praeerat.
-Propter auctoritatem spiritualem et moralem in Communitate, duae Sorores primae victimae electae sunt.
-Soror Maria Anna Vaillot et Soror Odilia Baumgarten a Papa Ioanne Paulo II beatificatae sunt, una cum 97 aliis martyribus Andegavensibus, die 19 Februarii 1984.`
-          },
-          massReadings: placeholder,
-          officeOfReadings: placeholder,
-          lauds: placeholder,
-          middayPrayer: placeholder,
-          vespers: placeholder,
-          compline: placeholder,
-      },
-  },
-  {
-    id: 'blessed-rosalie-rendu',
-    date: '02-07',
-    title: {
-        vi: 'Chân Phước Rô-sa-li-a Răng-đu',
-        en: 'Blessed Rosalie Rendu',
-        es: 'Beata Rosalía Rendu',
-        fr: 'Bienheureuse Rosalie Rendu',
-        la: 'Beata Rosalia Rendu'
-    },
-    subtitle: {
-        vi: 'Nữ tu',
-        en: 'Religious',
-        es: 'Religiosa',
-        fr: 'Religieuse',
-        la: 'Religiosa'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Sơ Rosalie Rendu, tên thật là Jeanne-Marie Rendu, sinh ngày 9 tháng 9 năm 1786 tại Confort, Pháp. Lớn lên trong thời kỳ Cách mạng Pháp đầy biến động, Sơ đã sớm chứng kiến những đau khổ và bất công trong xã hội. Năm 1802, Sơ gia nhập Tu hội Nữ Tử Bác Ái tại Paris và cống hiến trọn đời mình để phục vụ người nghèo ở khu phố Mouffetard, một trong những khu vực nghèo khổ nhất Paris.
-Sơ Rosalie được biết đến với lòng can đảm, sự khôn ngoan và tình yêu thương vô bờ bến. Sơ đã tổ chức các bếp ăn từ thiện, trường học, nhà trẻ, và các trung tâm chăm sóc y tế cho người nghèo. Sơ không chỉ giúp đỡ về vật chất mà còn mang lại cho họ niềm hy vọng và phẩm giá. Sơ là người hướng dẫn cho nhiều người trẻ, trong đó có Chân phước Frédéric Ozanam, người sáng lập Hội Bác Ái Vinh Sơn.
-Sơ qua đời ngày 7 tháng 2 năm 1856 và được dân chúng Paris vô cùng thương tiếc. Sơ được Đức Thánh Cha Gioan Phaolô II phong chân phước vào ngày 9 tháng 11 năm 2003.`,
-          en: `<strong>Biography</strong>
-Sister Rosalie Rendu, born Jeanne-Marie Rendu, was born on September 9, 1786, in Confort, France. Growing up during the turbulent French Revolution, she witnessed the suffering and injustice in society from an early age. In 1802, she joined the Company of the Daughters of Charity in Paris and dedicated her entire life to serving the poor in the Mouffetard district, one of the poorest areas of Paris.
-Sister Rosalie was known for her courage, wisdom, and boundless love. She organized soup kitchens, schools, nurseries, and medical care centers for the poor. She not only provided material assistance but also brought them hope and dignity. She was a guide to many young people, including Blessed Frédéric Ozanam, the founder of the Society of Saint Vincent de Paul.
-She passed away on February 7, 1856, and was deeply mourned by the people of Paris. She was beatified by Pope John Paul II on November 9, 2003.`,
-          es: `<strong>Biografía</strong>
-Sor Rosalía Rendu, nacida Jeanne-Marie Rendu, nació el 9 de septiembre de 1786 en Confort, Francia. Creciendo durante la turbulenta Revolución Francesa, fue testigo del sufrimiento y la injusticia en la sociedad desde una edad temprana. En 1802, se unió a la Compañía de las Hijas de la Caridad en París y dedicó toda su vida a servir a los pobres en el distrito de Mouffetard, una de las zonas más pobres de París.
-Sor Rosalía era conocida por su valentía, sabiduría y amor ilimitado. Organizó comedores sociales, escuelas, guarderías y centros de atención médica para los pobres. No solo proporcionó asistencia material, sino que también les devolvió la esperanza y la dignidad. Fue una guía para muchos jóvenes, incluido el Beato Frédéric Ozanam, fundador de la Sociedad de San Vicente de Paúl.
-Falleció el 7 de febrero de 1856 y fue profundamente llorada por el pueblo de París. Fue beatificada por el Papa Juan Pablo II el 9 de noviembre de 2003.`,
-          fr: `<strong>Biographie</strong>
-Sœur Rosalie Rendu, née Jeanne-Marie Rendu, est née le 9 septembre 1786 à Confort, en France. Ayant grandi pendant la période troublée de la Révolution française, elle a été très tôt témoin des souffrances et de l'injustice de la société. En 1802, elle entre dans la Compagnie des Filles de la Charité à Paris et consacre toute sa vie au service des pauvres du quartier Mouffetard, l'un des plus pauvres de Paris.
-Sœur Rosalie était connue pour son courage, sa sagesse et son amour sans bornes. Elle a organisé des soupes populaires, des écoles, des crèches et des centres de soins médicaux pour les pauvres. Elle n'a pas seulement apporté une aide matérielle, mais leur a aussi redonné espoir et dignité. Elle fut un guide pour de nombreux jeunes, dont le bienheureux Frédéric Ozanam, fondateur de la Société de Saint-Vincent-de-Paul.
-Elle est décédée le 7 février 1856 et a été profondément pleurée par le peuple de Paris. Elle a été béatifiée par le pape Jean-Paul II le 9 novembre 2003.`,
-          la: `<strong>Vita</strong>
-Soror Rosalia Rendu, nata Ioanna Maria Rendu, die 9 Septembris 1786 in Confort, Gallia, nata est. Crescens per turbulentam Revolutionem Gallicam, ab ineunte aetate passiones et iniustitias in societate vidit. Anno 1802, Societatem Filiarum Caritatis Lutetiae ingressa est et totam vitam suam pauperibus in regione Mouffetard, una ex pauperrimis Lutetiae regionibus, serviens dedicavit.
-Soror Rosalia nota erat ob fortitudinem, sapientiam et amorem infinitum. Coquinas publicas, scholas, infantaria et centra medica pauperibus instituit. Non solum auxilium materiale praebuit, sed etiam spem et dignitatem eis attulit. Dux fuit multis iuvenibus, inter quos Beatus Fridericus Ozanam, conditor Societatis Sancti Vincentii a Paulo.
-Obiit die 7 Februarii 1856 et a populo Lutetiae valde lamentata est. A Papa Ioanne Paulo II die 9 Novembris 2003 beatificata est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-vincent-de-paul-relic-translation',
-    date: '02-13',
-    title: {
-        vi: 'Chuyển Xương Thánh Vinh Sơn Phaolô',
-        en: 'Translation of the Relics of St. Vincent de Paul',
-        es: 'Traslación de las Reliquias de San Vicente de Paúl',
-        fr: 'Translation des Reliques de Saint Vincent de Paul',
-        la: 'In Translatione S. Vincentii a Paulo'
-    },
-    subtitle: {
-        vi: 'Kỷ niệm',
-        en: 'Commemoration',
-        es: 'Conmemoración',
-        fr: 'Commémoration',
-        la: 'Commemoratio'
+        vi: 'Kỷ niệm việc di chuyển thánh tích của Thánh Vinh Sơn Phaolô',
+        en: 'Commemoration of the moving of the relics of St. Vincent de Paul',
+        es: 'Conmemoración del traslado de las reliquias de San Vicente de Paúl',
+        fr: 'Commémoration du transfert des reliques de Saint Vincent de Paul',
+        la: 'Commemoratio translationis reliquiarum S. Vincentii a Paulo'
     },
     type: 'Kỷ niệm',
     sections: {
-        biography: {
-          vi: `<strong>Lịch sử</strong>
-Thánh Vinh Sơn Phaolô qua đời ngày 27 tháng 9 năm 1660. Thi hài của ngài được chôn cất trong nhà nguyện của nhà Saint-Lazare ở Paris. Sau khi được phong chân phước (1729) và phong thánh (1737), hài cốt của ngài được đặt trong một hòm bạc và được tôn kính công khai. Trong cuộc Cách mạng Pháp, nhà Saint-Lazare bị cướp phá và hài cốt của ngài bị phân tán, nhưng may mắn là trái tim và một phần xương cốt đã được các tu sĩ Vinh Sơn và Nữ Tử Bác Ái cứu giữ.
-Sau Cách mạng, các di tích được thu thập lại. Vào ngày 13 tháng 2 năm 1830, thi hài của Thánh Vinh Sơn đã được long trọng chuyển đến nhà nguyện mới của Tu Hội Truyền Giáo tại số 95, đường Sèvres, Paris, nơi ngài được tôn kính cho đến ngày nay. Sự kiện này là một dịp để canh tân lòng sùng kính đối với "Người Cha của người nghèo" và để làm sống lại linh đạo Vinh Sơn.`,
-          en: `<strong>History</strong>
-Saint Vincent de Paul died on September 27, 1660. His body was buried in the chapel of the Saint-Lazare house in Paris. After his beatification (1729) and canonization (1737), his remains were placed in a silver reliquary and publicly venerated. During the French Revolution, the Saint-Lazare house was plundered and his remains were scattered, but fortunately, his heart and some of his bones were saved by the Vincentian priests and the Daughters of Charity.
-After the Revolution, the relics were gathered again. On February 13, 1830, the body of Saint Vincent was solemnly transferred to the new chapel of the Congregation of the Mission at 95, rue de Sèvres, Paris, where it is venerated to this day. This event was an occasion to renew devotion to the "Father of the Poor" and to revive the Vincentian spirit.`,
-          es: `<strong>Historia</strong>
-San Vicente de Paúl murió el 27 de septiembre de 1660. Su cuerpo fue enterrado en la capilla de la casa de San Lázaro en París. Después de su beatificación (1729) y canonización (1737), sus restos fueron colocados en un relicario de plata y venerados públicamente. Durante la Revolución Francesa, la casa de San Lázaro fue saqueada y sus restos fueron dispersados, pero afortunadamente, su corazón y algunos de sus huesos fueron salvados por los sacerdotes vicentinos y las Hijas de la Caridad.
-Después de la Revolución, las reliquias fueron reunidas de nuevo. El 13 de febrero de 1830, el cuerpo de San Vicente fue solemnemente trasladado a la nueva capilla de la Congregación de la Misión en el 95, rue de Sèvres, París, donde es venerado hasta el día de hoy. Este evento fue una ocasión para renovar la devoción al "Padre de los Pobres" y para reavivar el espíritu vicentino.`,
-          fr: `<strong>Histoire</strong>
-Saint Vincent de Paul est décédé le 27 septembre 1660. Son corps fut inhumé dans la chapelle de la maison Saint-Lazare à Paris. Après sa béatification (1729) et sa canonisation (1737), ses restes furent placés dans une châsse en argent et vénérés publiquement. Pendant la Révolution française, la maison Saint-Lazare fut pillée et ses restes dispersés, mais heureusement, son cœur et une partie de ses ossements furent sauvés par les prêtres vincentiens et les Filles de la Charité.
-Après la Révolution, les reliques furent à nouveau rassemblées. Le 13 février 1830, le corps de Saint Vincent fut solennellement transféré dans la nouvelle chapelle de la Congrégation de la Mission au 95, rue de Sèvres, à Paris, où il est vénéré jusqu'à ce jour. Cet événement fut l'occasion de renouveler la dévotion au "Père des Pauvres" et de raviver l'esprit vincentien.`,
-          la: `<strong>Historia</strong>
-Sanctus Vincentius a Paulo obiit die 27 Septembris 1660. Corpus eius in sacello domus Sancti Lazari Lutetiae sepultum est. Post beatificationem (1729) et canonizationem (1737), reliquiae eius in theca argentea positae et publice veneratae sunt. Inter Rerum Novarum Francicarum, domus Sancti Lazari direpta est et reliquiae eius dispersae sunt, sed feliciter cor eius et nonnulla ossa a presbyteris Vincentianis et Fíliabus Caritatis servata sunt.
-Post Revolutionem, reliquiae iterum collectae sunt. Die 13 Februarii 1830, corpus Sancti Vincentii sollemniter translatum est in novum sacellum Congregationis Missionis ad 95, rue de Sèvres, Lutetiae, ubi usque hodie veneratur. Hic eventus fuit occasio renovandae devotionis erga "Patrem Pauperum" et spiritus Vincentiani vivificandi.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-francis-regis-clet',
-    date: '02-18',
-    title: {
-        vi: 'Thánh Phanxicô Regis Clet',
-        en: 'St. Francis Regis Clet',
-        es: 'San Francisco Regis Clet',
-        fr: 'Saint François-Régis Clet',
-        la: 'Sanctus Franciscus Regis Clet'
-    },
-    subtitle: {
-        vi: 'Linh mục, Tử đạo',
-        en: 'Priest, Martyr',
-        es: 'Sacerdote y Mártir',
-        fr: 'Prêtre et Martyr',
-        la: 'Presbyter et Martyr'
-    },
-    type: 'Lễ kính',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Phanxicô Regis Clet sinh năm 1748 tại Grenoble, Pháp. Ngài gia nhập Tu Hội Truyền Giáo năm 1769. Sau khi thụ phong linh mục và làm giáo sư thần học, ngài đã đáp lại tiếng gọi truyền giáo và đến Trung Quốc vào năm 1791.
-Trong gần 30 năm, cha Clet đã làm việc không mệt mỏi tại các tỉnh Giang Tây, Hồ Bắc và Hồ Nam. Ngài sống một cuộc đời khó nghèo, giản dị, rong rổi khắp nơi để rao giảng Tin Mừng, ban các bí tích và củng cố các cộng đoàn tín hữu.
-Trong cuộc bách hại đạo, ngài bị một giáo dân bội phản nộp cho quan quân. Sau nhiều tháng bị giam cầm và tra tấn dã man, ngài đã bị xử tử bằng cách siết cổ cho đến chết vào ngày 18 tháng 2 năm 1820. Gương mặt ngài vẫn bình an và rạng rỡ sau khi chết. Ngài được Đức Giáo Hoàng Piô XII phong thánh vào ngày 1 tháng 10 năm 2000.`,
-          en: `<strong>Biography</strong>
-Saint Francis Regis Clet was born in 1748 in Grenoble, France. He entered the Congregation of the Mission in 1769. After his priestly ordination and serving as a professor of theology, he answered the call to the missions and arrived in China in 1791.
-For nearly 30 years, Father Clet worked tirelessly in the provinces of Jiangxi, Hubei, and Hunan. He lived a life of poverty and simplicity, traveling extensively to preach the Gospel, administer the sacraments, and strengthen the Christian communities.
-During a persecution, he was betrayed by a Christian and handed over to the authorities. After months of imprisonment and cruel torture, he was executed by strangulation on February 18, 1820. His face remained peaceful and radiant after death. He was canonized by Pope John Paul II on October 1, 2000.`,
-          es: `<strong>Biografía</strong>
-San Francisco Regis Clet nació en 1748 en Grenoble, Francia. Entró en la Congregación de la Misión en 1769. Después de su ordenación sacerdotal y de servir como profesor de teología, respondió a la llamada a las misiones y llegó a China en 1791.
-Durante casi 30 años, el Padre Clet trabajó incansablemente en las provincias de Jiangxi, Hubei y Hunan. Vivió una vida de pobreza y sencillez, viajando extensamente para predicar el Evangelio, administrar los sacramentos y fortalecer las comunidades cristianas.
-Durante una persecución, fue traicionado por un cristiano y entregado a las autoridades. Después de meses de prisión y crueles torturas, fue ejecutado por estrangulamiento el 18 de febrero de 1820. Su rostro permaneció pacífico y radiante después de la muerte. Fue canonizado por el Papa Juan Pablo II el 1 de octubre de 2000.`,
-          fr: `<strong>Biographie</strong>
-Saint François-Régis Clet est né en 1748 à Grenoble, en France. Il entra dans la Congrégation de la Mission en 1769. Après son ordination sacerdotale et avoir été professeur de théologie, il répondit à l'appel des missions et arriva en Chine en 1791.
-Pendant près de 30 ans, le Père Clet travailla sans relâche dans les provinces du Jiangxi, du Hubei et du Hunan. Il vécut une vie de pauvreté et de simplicité, voyageant beaucoup pour prêcher l'Évangile, administrer les sacrements et fortifier les communautés chrétiennes.
-Au cours d'une persécution, il fut trahi par un chrétien et livré aux autorités. Après des mois d'emprisonnement et de cruelles tortures, il fut exécuté par strangulation le 18 février 1820. Son visage resta paisible et rayonnant après sa mort. Il a été canonisé par le pape Jean-Paul II le 1er octobre 2000.`,
-          la: `<strong>Vita</strong>
-Sanctus Franciscus Regis Clet natus est anno 1748 Gratianopoli, in Gallia. Congregationem Missionis anno 1769 ingressus est. Post ordinationem presbyteralem et munus professoris theologiae, vocationi missionariae respondit et in Sinas anno 1791 pervenit.
-Per fere 30 annos, Pater Clet indefesse laboravit in provinciis Jiangxi, Hubei et Hunan. Vitam paupertatis et simplicitatis vixit, multum iter faciens ad Evangelium praedicandum, sacramenta ministranda et communitates christianas confirmandas.
-Inter persecutionem, a christiano proditus et auctoritatibus traditus est. Post menses carceris et crudelium tormentorum, strangulatione die 18 Februarii 1820 supplicio affectus est. Vultus eius pacificus et radians post mortem permansit. A Papa Ioanne Paulo II canonizatus est die 1 Octobris 2000.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'blessed-pierre-rene-rogue',
-    date: '03-03',
-    title: {
-        vi: 'Chân Phước Phêrô Rơnê Rôgơ',
-        en: 'Blessed Pierre-René Rogue',
-        es: 'Beato Pedro Renato Rogue',
-        fr: 'Bienheureux Pierre-René Rogue',
-        la: 'Beatus Petrus Renatus Rogue'
-    },
-    subtitle: {
-        vi: 'Linh mục, Tử đạo',
-        en: 'Priest, Martyr',
-        es: 'Sacerdote y Mártir',
-        fr: 'Prêtre et Martyr',
-        la: 'Presbyter et Martyr'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Chân phước Phêrô Rơnê Rôgơ sinh năm 1758 tại Vannes, Pháp. Ngài gia nhập Tu Hội Truyền Giáo và được thụ phong linh mục năm 1786. Ngài nổi tiếng về lòng đạo đức và sự tận tụy trong việc mục vụ.
-Trong cuộc Cách mạng Pháp, ngài từ chối tuyên thệ trung thành với Hiến pháp dân sự của hàng giáo sĩ. Ngài tiếp tục thi hành sứ vụ linh mục một cách bí mật, thăm viếng các bệnh nhân và ban các bí tích. Ngài bị bắt khi đang mang Mình Thánh Chúa cho một người hấp hối.
-Tại tòa án, ngài đã can đảm tuyên xưng đức tin của mình. Ngài bị xử chém bằng máy chém vào ngày 3 tháng 3 năm 1796. Ngài được biết đến như là "Vị tử đạo của Thánh Thể". Ngài được Đức Giáo Hoàng Piô X phong chân phước vào năm 1934.`,
-          en: `<strong>Biography</strong>
-Blessed Pierre-René Rogue was born in 1758 in Vannes, France. He entered the Congregation of the Mission and was ordained a priest in 1786. He was known for his piety and pastoral zeal.
-During the French Revolution, he refused to take the oath of allegiance to the Civil Constitution of the Clergy. He continued his priestly ministry in secret, visiting the sick and administering the sacraments. He was arrested while carrying the Viaticum to a dying person.
-At his trial, he courageously professed his faith. He was executed by guillotine on March 3, 1796. He is known as the "Martyr of the Eucharist". He was beatified by Pope Pius X in 1934.`,
-          es: `<strong>Biografía</strong>
-El Beato Pedro Renato Rogue nació en 1758 en Vannes, Francia. Entró en la Congregación de la Misión y fue ordenado sacerdote en 1786. Era conocido por su piedad y celo pastoral.
-Durante la Revolución Francesa, se negó a prestar el juramento de lealtad a la Constitución Civil del Clero. Continuó su ministerio sacerdotal en secreto, visitando a los enfermos y administrando los sacramentos. Fue arrestado mientras llevaba el Viático a un moribundo.
-En su juicio, profesó valientemente su fe. Fue ejecutado en la guillotina el 3 de marzo de 1796. Es conocido como el "Mártir de la Eucaristía". Fue beatificado por el Papa Pío X en 1934.`,
-          fr: `<strong>Biographie</strong>
-Le bienheureux Pierre-René Rogue est né en 1758 à Vannes, en France. Il entra dans la Congrégation de la Mission et fut ordonné prêtre en 1786. Il était connu pour sa piété et son zèle pastoral.
-Pendant la Révolution française, il refusa de prêter le serment de fidélité à la Constitution civile du clergé. Il continua son ministère sacerdotal en secret, visitant les malades et administrant les sacrements. Il fut arrêté alors qu'il portait le viatique à un mourant.
-Lors de son procès, il professa courageusement sa foi. Il fut exécuté par la guillotine le 3 mars 1796. Il est connu comme le "Martyr de l'Eucharistie". Il a été béatifié par le pape Pie X en 1934.`,
-          la: `<strong>Vita</strong>
-Beatus Petrus Renatus Rogue natus est anno 1758 Venetiis, in Gallia. Congregationem Missionis ingressus est et presbyter anno 1786 ordinatus est. Pietate et zelo pastorali notus erat.
-Inter Rerum Novarum Francicarum, iuramentum fidelitatis Constitutioni Civili Cleri praestare recusavit. Ministerium suum sacerdotale secreto continuavit, aegrotos visitans et sacramenta ministrans. Comprehensus est dum Viaticum ad morientem ferret.
-In iudicio suo, fidem suam fortiter professus est. Guillotina supplicio affectus est die 3 Martii 1796. "Martyr Eucharistiae" appellatur. A Papa Pio X anno 1934 beatificatus est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
   },
   {
     id: 'st-louise-de-marillac',
-    date: '03-15',
+    date: '05-09',
     title: {
-        vi: 'Thánh Nữ Lu-i-sa đờ Ma-ri-lắc',
-        en: 'St. Louise de Marillac',
-        es: 'Santa Luisa de Marillac',
-        fr: 'Sainte Louise de Marillac',
-        la: 'Sancta Ludovica de Marillac'
+      vi: 'Thánh Lu-y-sa đờ Ma-ri-lắc',
+      en: 'St. Louise de Marillac',
+      es: 'Santa Luisa de Marillac',
+      fr: 'Sainte Louise de Marillac',
+      la: 'Sancta Ludovica de Marillac'
     },
     subtitle: {
-        vi: 'Đấng Đồng Sáng Lập Tu Hội Nữ Tử Bác Ái',
-        en: 'Co-Foundress of the Daughters of Charity',
-        es: 'Cofundadora de las Hijas de la Caridad',
-        fr: 'Co-fondatrice des Filles de la Charité',
-        la: 'Confundatrix Filiarum Caritatis'
+      vi: 'Đồng sáng lập Tu hội Nữ Tử Bác Ái',
+      en: 'Co-foundress of the Daughters of Charity',
+      es: 'Cofundadora de las Hijas de la Caridad',
+      fr: 'Co-fondatrice des Filles de la Charité',
+      la: 'Cofundatrix Filiarum Caritatis'
     },
     type: 'Đại lễ',
     sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Lu-i-sa đờ Ma-ri-lắc sinh ngày 12 tháng 8 năm 1591 tại Paris. Mặc dù xuất thân từ một gia đình quý tộc, cuộc đời thời thơ ấu của ngài gặp nhiều khó khăn. Ngài kết hôn với Antoine Le Gras và có một người con trai. Sau khi chồng qua đời, ngài đã gặp Thánh Vinh Sơn Phaolô và cuộc đời ngài đã hoàn toàn thay đổi.
-Dưới sự hướng dẫn của Thánh Vinh Sơn, ngài đã khám phá ra ơn gọi của mình là phục vụ người nghèo. Cùng với Thánh Vinh Sơn, ngài đã sáng lập Tu Hội Nữ Tử Bác Ái vào năm 1633. Ngài đã đi khắp nước Pháp để tổ chức các hội bác ái, thăm viếng và đào tạo các nữ tu đầu tiên. Ngài đã dạy họ phục vụ người nghèo với lòng khiêm tốn, dịu dàng và tận tụy, coi họ như là chủ và là thầy của mình.
-Ngài qua đời ngày 15 tháng 3 năm 1660, chỉ vài tháng trước Thánh Vinh Sơn. Ngài được Đức Giáo Hoàng Piô XI phong thánh vào năm 1934 và được Đức Giáo Hoàng Gioan XXIII đặt làm Bổn mạng của các nhân viên xã hội Công giáo vào năm 1960.`,
-          en: `<strong>Biography</strong>
-Saint Louise de Marillac was born on August 12, 1591, in Paris. Although she came from an aristocratic family, her early life was marked by difficulties. She married Antoine Le Gras and had a son. After the death of her husband, she met Saint Vincent de Paul, and her life was completely transformed.
-Under the guidance of Saint Vincent, she discovered her vocation to serve the poor. Together with Saint Vincent, she founded the Company of the Daughters of Charity in 1633. She traveled throughout France organizing confraternities of charity, visiting and forming the first sisters. She taught them to serve the poor with humility, gentleness, and devotion, seeing them as their lords and masters.
-She died on March 15, 1660, just a few months before Saint Vincent. She was canonized by Pope Pius XI in 1934 and was named Patroness of Christian Social Workers by Pope John XXIII in 1960.`,
-          es: `<strong>Biografía</strong>
-Santa Luisa de Marillac nació el 12 de agosto de 1591 en París. Aunque provenía de una familia aristocrática, su vida temprana estuvo marcada por dificultades. Se casó con Antoine Le Gras y tuvo un hijo. Tras la muerte de su esposo, conoció a San Vicente de Paúl y su vida se transformó por completo.
-Bajo la guía de San Vicente, descubrió su vocación de servir a los pobres. Junto con San Vicente, fundó la Compañía de las Hijas de la Caridad en 1633. Viajó por toda Francia organizando cofradías de la caridad, visitando y formando a las primeras hermanas. Les enseñó a servir a los pobres con humildad, dulzura y devoción, viéndolos como sus señores y amos.
-Murió el 15 de marzo de 1660, solo unos meses antes que San Vicente. Fue canonizada por el Papa Pío XI en 1934 y nombrada Patrona de los Trabajadores Sociales Cristianos por el Papa Juan XXIII en 1960.`,
-          fr: `<strong>Biographie</strong>
-Sainte Louise de Marillac est née le 12 août 1591 à Paris. Bien qu'issue d'une famille aristocratique, sa jeunesse fut marquée par des difficultés. Elle épousa Antoine Le Gras et eut un fils. Après la mort de son mari, elle rencontra saint Vincent de Paul et sa vie fut complètement transformée.
-Sous la direction de saint Vincent, elle découvrit sa vocation au service des pauvres. Avec saint Vincent, elle fonda la Compagnie des Filles de la Charité en 1633. Elle parcourut la France pour organiser les confréries de la charité, visiter et former les premières sœurs. Elle leur apprit à servir les pauvres avec humilité, douceur et dévouement, les considérant comme leurs seigneurs et maîtres.
-Elle mourut le 15 mars 1660, quelques mois seulement avant saint Vincent. Elle fut canonisée par le pape Pie XI en 1934 et proclamée patronne des œuvres sociales chrétiennes par le pape Jean XXIII en 1960.`,
-          la: `<strong>Vita</strong>
-Sancta Ludovica de Marillac nata est die 12 Augusti 1591 Lutetiae. Etsi ex nobili familia orta, prima eius vita difficultatibus notata est. Antonio Le Gras nupsit et filium habuit. Post mortem mariti, Sancto Vincentio a Paulo occurrit, et vita eius funditus mutata est.
-Sub ductu Sancti Vincentii, vocationem suam ad serviendum pauperibus invenit. Una cum Sancto Vincentio, Societatem Filiarum Caritatis anno 1633 condidit. Per Galliam iter fecit confraternitates caritatis ordinans, primas sorores visitans et formans. Eas docuit pauperibus cum humilitate, lenitate et devotione servire, eosque dominos et magistros suos considerare.
-Obiit die 15 Martii 1660, paucis mensibus ante Sanctum Vincentium. A Papa Pio XI anno 1934 canonizata est et a Papa Ioanne XXIII Patrona Operum Socialium Christianorum anno 1960 nominata est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+Thánh Lu-y-sa đờ Ma-ri-lắc sinh ngày 12 tháng 8 năm 1591, có thể là tại Paris, trong một gia đình quý tộc. Ngài không biết mẹ mình là ai. Lớn lên, ngài khao khát dâng mình cho Chúa trong đời sống tu trì nhưng sức khỏe mỏng manh đã ngăn cản ngài. Thay vào đó, ngài kết hôn với Antoine Le Gras, thư ký của hoàng hậu, vào năm 1613. Hai người có một con trai tên là Michel.
+Sau khi chồng qua đời vào năm 1625, Lu-y-sa trải qua một giai đoạn khó khăn về tinh thần. Chính trong thời gian này, ngài đã gặp Thánh Vinh Sơn Phaolô, người đã trở thành linh hướng của ngài. Dưới sự hướng dẫn của Thánh Vinh Sơn, Lu-y-sa đã tìm thấy ơn gọi đích thực của mình trong việc phục vụ người nghèo.
+Năm 1633, cùng với Thánh Vinh Sơn, Lu-y-sa đã quy tụ những thiếu nữ nông thôn đầu tiên để thành lập Tu hội Nữ Tử Bác Ái, một cộng đoàn các nữ tu không có tu viện, sống giữa người nghèo để phục vụ họ. Lu-y-sa đã đào tạo các chị em, tổ chức công việc của họ và đi khắp nước Pháp để thành lập các cộng đoàn phục vụ người nghèo khổ, bệnh tật, trẻ mồ côi và những người bị bỏ rơi.
+Với lòng tin tưởng tuyệt đối vào Chúa Quan Phòng, một trí thông minh sắc sảo và một trái tim đầy yêu thương, Lu-y-sa đã trở thành một nhà tổ chức bác ái vĩ đại. Ngài qua đời tại Paris vào ngày 15 tháng 3 năm 1660, vài tháng trước Thánh Vinh Sơn. Ngài được Đức Giáo Hoàng Piô XI phong thánh năm 1934 và được Đức Giáo Hoàng Gioan XXIII tôn làm bổn mạng của các nhân viên xã hội Công giáo năm 1960.`,
+        en: `<strong>Biography</strong>
+St. Louise de Marillac was born on August 12, 1591, probably in Paris, into a noble family. She never knew her mother. As a young woman, she desired to consecrate herself to God in religious life, but her fragile health prevented her. Instead, she married Antoine Le Gras, secretary to the queen, in 1613. They had one son, Michel.
+After her husband's death in 1625, Louise went through a period of spiritual distress. It was during this time that she met St. Vincent de Paul, who became her spiritual director. Under his guidance, Louise found her true calling in serving the poor.
+In 1633, with St. Vincent, Louise gathered the first country girls to form the Company of the Daughters of Charity, a community of unenclosed sisters who lived among the poor to serve them. Louise trained the sisters, organized their work, and traveled throughout France establishing communities to serve the destitute, the sick, orphans, and the abandoned.
+With immense trust in Providence, a keen intellect, and a heart full of love, Louise became a great organizer of charity. She died in Paris on March 15, 1660, a few months before St. Vincent. She was canonized by Pope Pius XI in 1934 and declared Patroness of Christian Social Workers by Pope John XXIII in 1960.`,
+        es: `<strong>Biografía</strong>
+Santa Luisa de Marillac nació el 12 de agosto de 1591, probablemente en París, en el seno de una familia noble. Nunca conoció a su madre. De joven, deseaba consagrarse a Dios en la vida religiosa, pero su frágil salud se lo impidió. En su lugar, se casó con Antonio Le Gras, secretario de la reina, en 1613. Tuvieron un hijo, Miguel.
+Tras la muerte de su esposo en 1625, Luisa atravesó un período de angustia espiritual. Fue durante este tiempo que conoció a San Vicente de Paúl, quien se convirtió en su director espiritual. Bajo su guía, Luisa encontró su verdadera vocación en el servicio a los pobres.
+En 1633, junto con San Vicente, Luisa reunió a las primeras jóvenes del campo para formar la Compañía de las Hijas de la Caridad, una comunidad de hermanas sin clausura que vivían entre los pobres para servirles. Luisa formó a las hermanas, organizó su trabajo y viajó por toda Francia estableciendo comunidades para servir a los desamparados, los enfermos, los huérfanos y los abandonados.
+Con una inmensa confianza en la Providencia, un intelecto agudo y un corazón lleno de amor, Luisa se convirtió en una gran organizadora de la caridad. Murió en París el 15 de marzo de 1660, pocos meses antes que San Vicente. Fue canonizada por el Papa Pío XI en 1934 y declarada Patrona de los Asistentes Sociales Cristianos por el Papa Juan XXIII en 1960.`,
+        fr: `<strong>Biographie</strong>
+Sainte Louise de Marillac est née le 12 août 1591, probablement à Paris, dans une famille noble. Elle n'a jamais connu sa mère. Jeune femme, elle désirait se consacrer à Dieu dans la vie religieuse, mais sa santé fragile l'en empêcha. À la place, elle épousa Antoine Le Gras, secrétaire de la reine, en 1613. Ils eurent un fils, Michel.
+Après la mort de son mari en 1625, Louise traversa une période de détresse spirituelle. C'est à cette époque qu'elle rencontra saint Vincent de Paul, qui devint son directeur spirituel. Sous sa direction, Louise trouva sa véritable vocation dans le service des pauvres.
+En 1633, avec saint Vincent, Louise rassembla les premières filles de la campagne pour former la Compagnie des Filles de la Charité, une communauté de sœurs non cloîtrées qui vivaient au milieu des pauvres pour les servir. Louise forma les sœurs, organisa leur travail et parcourut la France pour établir des communautés au service des démunis, des malades, des orphelins et des abandonnés.
+Avec une immense confiance en la Providence, une intelligence vive et un cœur plein d'amour, Louise devint une grande organisatrice de la charité. Elle mourut à Paris le 15 mars 1660, quelques mois avant saint Vincent. Elle fut canonisée par le pape Pie XI en 1934 et déclarée patronne des travailleurs sociaux chrétiens par le pape Jean XXIII en 1960.`,
+        la: `<strong>Vita</strong>
+Sancta Ludovica de Marillac nata est die 12 Augusti 1591, verisimiliter Lutetiae Parisiorum, in familia nobili. Matrem suam numquam novit. Iuvenis, Deo se in vita religiosa consecrare cupiebat, sed infirma valetudo eam impedivit. Potius, Antonio Le Gras, reginae secretario, anno 1613 nupsit. Unum filium, Michaelem, habuerunt.
+Post mortem mariti anno 1625, Ludovica tempus angustiae spiritualis transiit. Hoc tempore Sanctum Vincentium a Paulo convenit, qui eius director spiritualis factus est. Sub eius ductu, Ludovica veram suam vocationem in servitio pauperum invenit.
+Anno 1633, cum Sancto Vincentio, Ludovica primas puellas rusticas congregavit ad Societatem Filiarum Caritatis formandam, communitatem sororum non clausuratarum quae inter pauperes vivebant ut eis servirent. Ludovica sorores instituit, opera earum ordinavit et per totam Galliam iter fecit ad communitates instituendas ad egenos, infirmos, orphanos et derelictos adiuvandos.
+Cum immensa fiducia in Providentiam, acuto ingenio et corde pleno amore, Ludovica magna caritatis ordinatrix facta est. Lutetiae Parisiorum obiit die 15 Martii 1660, paucis mensibus ante Sanctum Vincentium. A Pio Papa XI anno 1934 canonizata est et a Ioanne Papa XXIII anno 1960 Patronam Operariorum Socialium Christianorum declarata est.`
+      },
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+<strong>Ca nhập lễ (Cn 31, 20. 26)</strong>
+Bà rộng tay giúp người nghèo khó, và đưa tay cứu kẻ khốn cùng. Miệng bà nói lên lời khôn ngoan, và lưỡi bà dạy điều nhân hậu.
+<strong>Lời nguyện nhập lễ</strong>
+Lạy Thiên Chúa là Cha nhân ái, Chúa đã ban cho thánh nữ Lu-y-sa trở nên người mẹ của những người nghèo khổ. Xin cho chúng con, khi noi gương bắt chước đức ái của ngài, cũng biết phục vụ Đức Kitô nơi những anh chị em thiếu thốn, để mai sau được cùng ngài hưởng phúc Nước Trời. Chúng con cầu xin.
+<strong>Bài đọc (Cn 31, 10-13, 19-20, 30-31)</strong>
+<em>Bài trích sách Châm Ngôn.</em>
+Một người vợ tài đức, ai mà tìm thấy? Nàng quý giá hơn châu ngọc rất nhiều. Chồng nàng hết dạ tin tưởng nàng, chàng sẽ chẳng thiếu chi lợi lộc. Suốt đời, nàng đem lại hạnh phúc chứ không gây tai họa cho chồng. Nàng tìm len và vải gai, rồi vui vẻ ra tay làm việc. Tay nàng cầm con quay và biết dùng xa sợi. Nàng rộng tay giúp người nghèo khó, và đưa tay cứu kẻ khốn cùng. Duyên dáng là giả trá, sắc đẹp là phù vân. Người phụ nữ kính sợ Đức Chúa mới đáng cho người đời ca tụng. Hãy để cho nàng hưởng những thành quả tay nàng đã làm ra. Ước gì nơi cổng thành nàng được mọi người ca ngợi.
+<strong>Đáp ca (Tv 33)</strong>
+<strong>Đ. Kẻ nghèo hèn kêu xin, và Chúa đã nhậm lời.</strong>
+Tôi sẽ không ngừng chúc tụng Chúa, câu hát mừng Người chẳng ngớt trên môi. Linh hồn tôi hãnh diện vì Chúa, xin các bạn nghèo nghe tôi nói mà vui lên. <strong>Đ.</strong>
+Hãy cùng tôi ca ngợi Chúa, ta đồng thanh tán tạ danh Người. Tôi đã tìm kiếm Chúa, và Người đáp lại, giải thoát cho khỏi mọi nỗi kinh hoàng. <strong>Đ.</strong>
+Ai nhìn lên Chúa sẽ vui tươi hớn hở, không bao giờ bẽ mặt hổ ngươi. Kẻ nghèo hèn này kêu xin, và Chúa đã nhậm lời, cứu cho khỏi mọi cơn nguy khốn. <strong>Đ.</strong>
+<strong>Tung hô Tin Mừng (Mt 11, 28)</strong>
+Ha-lê-lu-i-a. Ha-lê-lu-i-a. Chúa nói: “Tất cả những ai đang vất vả mang gánh nặng nề, hãy đến cùng tôi, tôi sẽ cho nghỉ ngơi bồi dưỡng”. Ha-lê-lu-i-a.
+<strong>Tin Mừng (Mt 11, 25-30)</strong>
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu.</strong>
+Khi ấy, Đức Giêsu cất tiếng nói: “Lạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha, vì Cha đã giấu không cho bậc khôn ngoan thông thái biết những điều này, nhưng lại mặc khải cho những người bé mọn. Vâng, lạy Cha, vì đó là điều đẹp ý Cha. Cha tôi đã giao phó mọi sự cho tôi. Và không ai biết rõ người Con, trừ Chúa Cha; cũng như không ai biết rõ Chúa Cha, trừ người Con và kẻ mà người Con muốn mặc khải cho. Tất cả những ai đang vất vả mang gánh nặng nề, hãy đến cùng tôi, tôi sẽ cho nghỉ ngơi bồi dưỡng. Anh em hãy mang lấy ách của tôi, và hãy học với tôi, vì tôi có lòng hiền hậu và khiêm nhường. Tâm hồn anh em sẽ được nghỉ ngơi bồi dưỡng. Vì ách của tôi thì êm ái, và gánh của tôi thì nhẹ nhàng”.
+<strong>Lời nguyện tiến lễ</strong>
+Lạy Chúa, xin thương nhận của lễ chúng con dâng, và cho chúng con được thấm nhuần tinh thần bác ái mà Chúa đã khơi dậy nơi thánh nữ Lu-y-sa, để chúng con biết phụng sự Chúa và phục vụ anh chị em. Chúng con cầu xin.
+<strong>Ca hiệp lễ (Mt 25, 40)</strong>
+Chúa nói: “Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
+<strong>Lời nguyện hiệp lễ</strong>
+Lạy Chúa, chúng con vừa lãnh nhận Mình và Máu Thánh Con Chúa. Xin cho chúng con biết noi gương thánh nữ Lu-y-sa, luôn nhạy bén trước mọi nỗi khổ đau của con người, để có thể trở nên chứng nhân cho tình yêu của Chúa giữa trần gian. Chúng con cầu xin.`,
+        en: `<strong>MASS</strong>
+<strong>Entrance Antiphon (Prov 31:20, 26)</strong>
+She opens her hand to the poor and reaches out her hands to the needy. She opens her mouth with wisdom, and the teaching of kindness is on her tongue.
+<strong>Collect</strong>
+O God, Father of mercies, who made Saint Louise a mother to the poor, grant, we pray, that, imitating her charity, we may serve Christ in our needy brothers and sisters and so merit to be part of your Kingdom. Through our Lord Jesus Christ, your Son.
+<strong>Reading (Prov 31:10-13, 19-20, 30-31)</strong>
+<em>A reading from the Book of Proverbs.</em>
+Who can find a virtuous woman? For her price is far above rubies. The heart of her husband doth safely trust in her, so that he shall have no need of spoil. She will do him good and not evil all the days of her life. She seeketh wool, and flax, and worketh willingly with her hands. She layeth her hands to the spindle, and her hands hold the distaff. She stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy. Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised. Give her of the fruit of her hands, and let her own works praise her in the gates.
+<strong>Responsorial Psalm (Ps 34)</strong>
+<strong>R. The Lord hears the cry of the poor.</strong>
+I will bless the LORD at all times; his praise shall be ever in my mouth. Let my soul glory in the LORD; the lowly will hear me and be glad. <strong>R.</strong>
+Glorify the LORD with me, let us together extol his name. I sought the LORD, and he answered me and delivered me from all my fears. <strong>R.</strong>
+Look to him that you may be radiant with joy, and your faces may not blush with shame. When the poor one called out, the LORD heard, and from all his distress he saved him. <strong>R.</strong>
+<strong>Gospel Acclamation (Mt 11:28)</strong>
+Alleluia, alleluia. Come to me, all you who labor and are burdened, and I will give you rest, says the Lord. Alleluia, alleluia.
+<strong>Gospel (Mt 11:25-30)</strong>
+<strong>A reading from the holy Gospel according to Matthew.</strong>
+At that time Jesus exclaimed: “I give praise to you, Father, Lord of heaven and earth, for although you have hidden these things from the wise and the learned you have revealed them to little ones. Yes, Father, such has been your gracious will. All things have been handed over to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son wishes to reveal him. Come to me, all you who labor and are burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am meek and humble of heart; and you will find rest for yourselves. For my yoke is easy, and my burden light.”
+<strong>Prayer over the Offerings</strong>
+Graciously accept, O Lord, the gifts we bring, and grant that, filled with the same spirit of charity with which you endowed Saint Louise, we may serve you and our neighbor. Through Christ our Lord.
+<strong>Communion Antiphon (Mt 25:40)</strong>
+The Lord says: Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.
+<strong>Prayer after Communion</strong>
+Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the example of Saint Louise, we may be attentive to the needs of all and so become witnesses to your love in the world. Through Christ our Lord.`,
+        es: `<strong>MISA</strong>
+<strong>Antífona de entrada (Prov 31, 20. 26)</strong>
+Alarga su palma al desvalido y tiende sus manos al pobre. Abre su boca a la sabiduría, y su lengua enseña la piedad.
+<strong>Oración colecta</strong>
+Oh, Dios, Padre de las misericordias, que hiciste de santa Luisa una madre para los pobres, concédenos, te rogamos, que, imitando su caridad, sirvamos a Cristo en nuestros hermanos necesitados y así merezcamos ser parte de tu Reino. Por nuestro Señor Jesucristo, tu Hijo.
+<strong>Lectura (Prov 31, 10-13, 19-20, 30-31)</strong>
+<em>Lectura del libro de los Proverbios.</em>
+Una mujer fuerte, ¿quién la hallará? Vale mucho más que las perlas. Su marido se fía de ella, y no le faltan riquezas. Le trae el bien y no el mal, todos los días de su vida. Busca la lana y el lino, y los trabaja con la destreza de sus manos. Aplica sus manos a la rueca, y sus dedos manejan el huso. Tiende su mano al pobre, y alarga sus brazos al necesitado. Engañosa es la gracia, vana la hermosura; la mujer que teme al Señor, ésa será alabada. Dadle el fruto de sus manos, y que en las puertas la alaben sus obras.
+<strong>Salmo responsorial (Sal 34)</strong>
+<strong>R. El Señor escucha el clamor de los pobres.</strong>
+Bendigo al Señor en todo momento, su alabanza está siempre en mi boca. Mi alma se gloría en el Señor: que los humildes lo escuchen y se alegren. <strong>R.</strong>
+Engrandeced conmigo al Señor, ensalcemos juntos su nombre. Consulté al Señor, y me respondió, me libró de todas mis ansias. <strong>R.</strong>
+Contempladlo, y quedaréis radiantes, vuestro rostro no se avergonzará. Si el afligido invoca al Señor, él lo escucha y lo salva de sus angustias. <strong>R.</strong>
+<strong>Aclamación del Evangelio (Mt 11, 28)</strong>
+Aleluya, aleluya. Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré, dice el Señor. Aleluya, aleluya.
+<strong>Evangelio (Mt 11, 25-30)</strong>
+<strong>Lectura del santo Evangelio según san Mateo.</strong>
+En aquel tiempo, exclamó Jesús: «Te doy gracias, Padre, Señor de cielo y tierra, porque has escondido estas cosas a los sabios y entendidos y se las has revelado a la gente sencilla. Sí, Padre, así te ha parecido mejor. Todo me lo ha entregado mi Padre, y nadie conoce al Hijo más que el Padre, y nadie conoce al Padre sino el Hijo y aquel a quien el Hijo se lo quiera revelar. Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré. Cargad con mi yugo y aprended de mí, que soy manso y humble de corazón, y encontraréis descanso para vuestras almas. Porque mi yugo es llevadero y mi carga ligera».
+<strong>Oración sobre las ofrendas</strong>
+Acepta con bondad, Señor, los dones que te presentamos, y concédenos que, llenos del mismo espíritu de caridad con que dotaste a santa Luisa, te sirvamos a ti y a nuestro prójimo. Por Cristo, nuestro Señor.
+<strong>Antífona de comunión (Mt 25, 40)</strong>
+Dice el Señor: En verdad os digo que cuanto hicisteis a uno de estos mis hermanos más pequeños, a mí me lo hicisteis.
+<strong>Oración después de la comunión</strong>
+Renovados por el Cuerpo y la Sangre de tu Hijo, te pedimos, Señor, que, siguiendo el ejemplo de santa Luisa, estemos atentos a las necesidades de todos y así nos convirtamos en testigos de tu amor en el mundo. Por Cristo, nuestro Señor.`,
+        fr: `<strong>MESSE</strong>
+<strong>Antienne d'ouverture (Pr 31, 20. 26)</strong>
+Elle ouvre sa main au malheureux et tend les bras au pauvre. Elle ouvre la bouche avec sagesse, et une leçon de bonté est sur sa langue.
+<strong>Prière d'ouverture</strong>
+Dieu, Père des miséricordes, qui as fait de sainte Louise une mère pour les pauvres, accorde-nous, nous t'en prions, qu'à l'imitation de sa charité, nous servions le Christ dans nos frères et sœurs dans le besoin et méritions ainsi de faire partie de ton Royaume. Par Jésus Christ, ton Fils.
+<strong>Lecture (Pr 31, 10-13, 19-20, 30-31)</strong>
+<em>Lecture du livre des Proverbes.</em>
+Une femme vaillante, qui la trouvera ? Elle est infiniment plus précieuse que les perles. Le cœur de son mari a confiance en elle, et les profits ne lui feront pas défaut. Elle lui fait du bien, et non du mal, tous les jours de sa vie. Elle se procure de la laine et du lin, et travaille d'une main joyeuse. Elle met la main à la quenouille, et ses doigts tiennent le fuseau. Elle tend la main au malheureux, et ouvre ses bras à l'indigent. La grâce est trompeuse, et la beauté est vaine ; la femme qui craint le Seigneur est celle qui sera louée. Donnez-lui du fruit de ses mains, et qu'aux portes ses œuvres la louent.
+<strong>Psaume responsorial (Ps 34)</strong>
+<strong>R. Le Seigneur entend le cri des pauvres.</strong>
+Je bénirai le Seigneur en tout temps, sa louange sans cesse à ma bouche. Je me glorifierai dans le Seigneur : que les pauvres m'entendent et soient en fête ! <strong>R.</strong>
+Magnifiez avec moi le Seigneur, exaltons tous ensemble son nom. J'ai cherché le Seigneur, il m'a répondu, et de toutes mes frayeurs il m'a délivré. <strong>R.</strong>
+Qui regarde vers lui resplendira, sans ombre ni trouble au visage. Un pauvre crie, le Seigneur entend, et il le sauve de toutes ses angoisses. <strong>R.</strong>
+<strong>Acclamation de l'Évangile (Mt 11, 28)</strong>
+Alléluia, alléluia. Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos, dit le Seigneur. Alléluia, alléluia.
+<strong>Évangile (Mt 11, 25-30)</strong>
+<strong>Lecture du saint Évangile selon saint Matthieu.</strong>
+En ce temps-là, Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : ce que tu as caché aux sages et aux savants, tu l'as révélé aux tout-petits. Oui, Père, tu l'as voulu ainsi dans ta bienveillance. Tout m'a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler. Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger. »
+<strong>Prière sur les offrandes</strong>
+Accepte avec bonté, Seigneur, les dons que nous t'apportons, et accorde-nous, remplis du même esprit de charité dont tu as doté sainte Louise, de te servir, toi et notre prochain. Par le Christ, notre Seigneur.
+<strong>Antienne de la communion (Mt 25, 40)</strong>
+Le Seigneur dit : Amen, je vous le dis, chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait.
+<strong>Prière après la communion</strong>
+Renouvelés par le Corps et le Sang de ton Fils, nous te prions, Seigneur, qu'à l'exemple de sainte Louise, nous soyons attentifs aux besoins de tous et devenions ainsi témoins de ton amour dans le monde. Par le Christ, notre Seigneur.`,
+        la: `<strong>MISSA</strong>
+<strong>Antiphona ad introitum (Pr 31, 20. 26)</strong>
+Manum suam aperuit inopi et palmas suas extendit ad pauperem. Os suum aperuit sapientiae, et lex clementiae in lingua eius.
+<strong>Collecta</strong>
+Deus, Pater misericordiarum, qui sanctam Ludovicam matrem pauperibus fecisti, concede, quaesumus, ut, eius caritatem imitantes, Christo in fratribus nostris egentibus serviamus et sic regni tui participes esse mereamur. Per Dominum nostrum Iesum Christum Filium tuum.
+<strong>Lectio (Pr 31, 10-13, 19-20, 30-31)</strong>
+<em>Lectio libri Proverbiorum.</em>
+Mulierem fortem quis inveniet? Procul et de ultimis finibus pretium eius. Confidit in ea cor viri sui et spoliis non indigebit. Reddet ei bonum et non malum omnibus diebus vitae suae. Quaesivit lanam et linum et operata est consilio manuum suarum. Manum suam misit ad fortia, et digiti eius apprehenderunt fusum. Manum suam aperuit inopi et palmas suas extendit ad pauperem. Fallax gratia et vana est pulchritudo; mulier timens Dominum, ipsa laudabitur. Date ei de fructu manuum suarum, et laudent eam in portis opera eius.
+<strong>Psalmus responsorius (Ps 34)</strong>
+<strong>R. Dominus exaudit clamorem pauperum.</strong>
+Benedicam Dominum in omni tempore; semper laus eius in ore meo. In Domino laudabitur anima mea; audiant mansueti et laetentur. <strong>R.</strong>
+Magnificate Dominum mecum, et exaltemus nomen eius in idipsum. Exquisivi Dominum, et exaudivit me, et ex omnibus tribulationibus meis eripuit me. <strong>R.</strong>
+Accedite ad eum et illuminamini, et facies vestrae non confundentur. Iste pauper clamavit, et Dominus exaudivit eum, et de omnibus tribulationibus eius salvavit eum. <strong>R.</strong>
+<strong>Acclamatio ad Evangelium (Mt 11, 28)</strong>
+Alleluia, alleluia. Venite ad me, omnes, qui laboratis et onerati estis, et ego reficiam vos, dicit Dominus. Alleluia, alleluia.
+<strong>Evangelium (Mt 11, 25-30)</strong>
+<strong>Lectio sancti Evangelii secundum Matthaeum.</strong>
+In illo tempore respondens Iesus dixit: «Confiteor tibi, Pater, Domine caeli et terrae, quia abscondisti haec a sapientibus et prudentibus et revelasti ea parvulis. Ita, Pater, quoniam sic fuit placitum ante te. Omnia mihi tradita sunt a Patre meo; et nemo novit Filium nisi Pater, neque Patrem quis novit nisi Filius et cui voluerit Filius revelare. Venite ad me, omnes, qui laboratis et onerati estis, et ego reficiam vos. Tollite iugum meum super vos et discite a me, quia mitis sum et humilis corde, et invenietis requiem animabus vestris. Iugum enim meum suave est, et onus meum leve».
+<strong>Oratio super oblata</strong>
+Oblata, Domine, munera benigne suscipe, et concede, ut eodem caritatis spiritu, quo sanctam Ludovicam implevisti, tibi et proximo serviamus. Per Christum Dominum nostrum.
+<strong>Antiphona ad communionem (Mt 25, 40)</strong>
+Dicit Dominus: Amen dico vobis: Quamdiu fecisteis uni de his fratribus meis minimis, mihi fecisteis.
+<strong>Post communionem</strong>
+Corpore et Sanguine Filii tui refecti, quaesumus, Domine, ut, exemplo sanctae Ludovicae, omnium necessitatibus attenti, testes tui in mundo amoris efficiamur. Per Christum Dominum nostrum.`
+      },
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
   },
   {
-    id: 'blessed-marguerite-rutan',
-    date: '04-09',
+    id: 'bl-charles-dominique-albini',
+    date: '05-21',
     title: {
-        vi: 'Chân Phước Magarita Rutan',
-        en: 'Blessed Marguerite Rutan',
-        es: 'Beata Margarita Rutan',
-        fr: 'Bienheureuse Marguerite Rutan',
-        la: 'Beata Margarita Rutan'
-    },
-    subtitle: {
-        vi: 'Nữ tu, Tử đạo',
-        en: 'Virgin, Martyr',
-        es: 'Virgen y Mártir',
-        fr: 'Vierge et Martyre',
-        la: 'Virgo et Martyr'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Chân phước Magarita Rutan sinh năm 1736 tại Metz, Pháp. Ngài gia nhập Tu Hội Nữ Tử Bác Ái và cống hiến đời mình phục vụ người bệnh và người nghèo. Ngài được sai đến Dax và trở thành Bề trên của bệnh viện tại đó.
-Trong cuộc Cách mạng Pháp, Sơ Magarita và các nữ tu khác đã bị tố cáo là "phản cách mạng" vì đức tin và lòng bác ái của họ, khi họ chăm sóc cho tất cả mọi người không phân biệt. Mặc dù phải đối mặt với nhiều áp lực và nguy hiểm, Sơ vẫn kiên quyết trung thành với Giáo hội và sứ vụ của mình.
-Ngài bị bắt và bị kết án tử hình. Ngài bị xử chém bằng máy chém vào ngày 9 tháng 4 năm 1794. Ngài được Đức Giáo Hoàng Bênêđictô XVI phong chân phước vào năm 2011.`,
-          en: `<strong>Biography</strong>
-Blessed Marguerite Rutan was born in 1736 in Metz, France. She entered the Company of the Daughters of Charity and dedicated her life to serving the sick and the poor. She was sent to Dax and became the superior of the hospital there.
-During the French Revolution, Sister Marguerite and her fellow sisters were accused of being "counter-revolutionaries" because of their faith and their charity, as they cared for everyone without distinction. Despite facing much pressure and danger, she remained firm in her loyalty to the Church and her mission.
-She was arrested and condemned to death. She was executed by guillotine on April 9, 1794. She was beatified by Pope Benedict XVI in 2011.`,
-          es: `<strong>Biografía</strong>
-La Beata Margarita Rutan nació en 1736 en Metz, Francia. Entró en la Compañía de las Hijas de la Caridad y dedicó su vida a servir a los enfermos y a los pobres. Fue enviada a Dax y se convirtió en la superiora del hospital de allí.
-Durante la Revolución Francesa, Sor Margarita y sus compañeras fueron acusadas de ser "contrarrevolucionarias" por su fe y su caridad, ya que cuidaban a todos sin distinción. A pesar de enfrentar mucha presión y peligro, se mantuvo firme en su lealtad a la Iglesia y a su misión.
-Fue arrestada y condenada a muerte. Fue ejecutada en la guillotina el 9 de abril de 1794. Fue beatificada por el Papa Benedicto XVI en 2011.`,
-          fr: `<strong>Biographie</strong>
-La bienheureuse Marguerite Rutan est née en 1736 à Metz, en France. Elle entra dans la Compagnie des Filles de la Charité et consacra sa vie au service des malades et des pauvres. Elle fut envoyée à Dax et y devint la supérieure de l'hôpital.
-Pendant la Révolution française, Sœur Marguerite et ses consœurs furent accusées d'être des "contre-révolutionnaires" en raison de leur foi et de leur charité, car elles soignaient tout le monde sans distinction. Malgré de nombreuses pressions et dangers, elle resta ferme dans sa fidélité à l'Église et à sa mission.
-Elle fut arrêtée et condamnée à mort. Elle fut exécutée par la guillotine le 9 avril 1794. Elle a été béatifiée par le pape Benoît XVI en 2011.`,
-          la: `<strong>Vita</strong>
-Beata Margarita Rutan nata est anno 1736 Mettis, in Gallia. Societatem Filiarum Caritatis ingressa est et vitam suam aegrotis et pauperibus serviens dedicavit. Aquae Augustae missa est et ibi superior hospitalis facta est.
-Inter Rerum Novarum Francicarum, Soror Margarita et sociae eius "contra-revolutionariae" accusatae sunt propter fidem et caritatem suam, cum omnes sine distinctione curarent. Quamvis multas pressuras et pericula pateretur, in fide erga Ecclesiam et missionem suam firma permansit.
-Comprehensa et ad mortem damnata est. Guillotina supplicio affecta est die 9 Aprilis 1794. A Papa Benedicto XVI anno 2011 beatificata est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-joan-antida-thouret',
-    date: '05-24',
-    title: {
-        vi: 'Thánh Gioanna An-ti-đa Thu-rê',
-        en: 'St. Joan Antida Thouret',
-        es: 'Santa Juana Antida Thouret',
-        fr: 'Sainte Jeanne-Antide Thouret',
-        la: 'Sancta Ioanna Antida Thouret'
-    },
-    subtitle: {
-        vi: 'Nữ tu',
-        en: 'Religious',
-        es: 'Religiosa',
-        fr: 'Religieuse',
-        la: 'Religiosa'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Gioanna An-ti-đa Thu-rê sinh năm 1765 tại Pháp. Ngài sớm cảm nhận được ơn gọi dâng mình cho Chúa và phục vụ người nghèo. Ngài đã gia nhập Tu Hội Nữ Tử Bác Ái tại Paris. Tuy nhiên, cuộc Cách mạng Pháp đã buộc Tu Hội phải giải tán, và Sơ Gioanna phải trở về quê nhà.
-Không nản lòng, ngài tiếp tục công việc phục vụ, mở một trường học và một bếp ăn cho người nghèo. Năm 1799, tại Besançon, ngài đã thành lập một Tu hội mới, Dòng các Nữ tu Bác Ái Besançon, theo Tu luật của Thánh Vinh Sơn Phaolô. Tu hội của ngài nhanh chóng phát triển và lan rộng sang nhiều quốc gia.
-Ngài qua đời tại Naples, Ý, vào ngày 24 tháng 8 năm 1826. Ngài được Đức Giáo Hoàng Piô XI phong thánh vào năm 1934.`,
-          en: `<strong>Biography</strong>
-Saint Joan Antida Thouret was born in 1765 in France. She soon felt the call to consecrate herself to God and to serve the poor. She joined the Company of the Daughters of Charity in Paris. However, the French Revolution forced the Company to dissolve, and Sister Joan had to return to her hometown.
-Undeterred, she continued her work of service, opening a school and a soup kitchen for the poor. In 1799, in Besançon, she founded a new congregation, the Sisters of Charity of Besançon, under the Rule of Saint Vincent de Paul. Her congregation grew rapidly and spread to many countries.
-She died in Naples, Italy, on August 24, 1826. She was canonized by Pope Pius XI in 1934.`,
-          es: `<strong>Biografía</strong>
-Santa Juana Antida Thouret nació en 1765 en Francia. Pronto sintió la llamada a consagrarse a Dios y a servir a los pobres. Se unió a la Compañía de las Hijas de la Caridad en París. Sin embargo, la Revolución Francesa obligó a la Compañía a disolverse, y Sor Juana tuvo que regresar a su ciudad natal.
-Sin desanimarse, continuó su trabajo de servicio, abriendo una escuela y un comedor para los pobres. En 1799, en Besanzón, fundó una nueva congregación, las Hermanas de la Caridad de Besanzón, bajo la Regla de San Vicente de Paúl. Su congregación creció rápidamente y se extendió a muchos países.
-Murió en Nápoles, Italia, el 24 de agosto de 1826. Fue canonizada por el Papa Pío XI en 1934.`,
-          fr: `<strong>Biographie</strong>
-Sainte Jeanne-Antide Thouret est née en 1765 en France. Elle sentit bientôt l'appel à se consacrer à Dieu et à servir les pauvres. Elle entra dans la Compagnie des Filles de la Charité à Paris. Cependant, la Révolution française força la Compagnie à se dissoudre, et Sœur Jeanne dut retourner dans sa ville natale.
-Sans se décourager, elle poursuivit son œuvre de service, ouvrant une école et une soupe populaire pour les pauvres. En 1799, à Besançon, elle fonda une nouvelle congrégation, les Sœurs de la Charité de Besançon, sous la Règle de saint Vincent de Paul. Sa congrégation connut une croissance rapide et s'étendit à de nombreux pays.
-Elle mourut à Naples, en Italie, le 24 août 1826. Elle fut canonisée par le pape Pie XI en 1934.`,
-          la: `<strong>Vita</strong>
-Sancta Ioanna Antida Thouret nata est anno 1765 in Gallia. Mox vocationem sensit ad se Deo consecrandam et pauperibus serviendum. Societatem Filiarum Caritatis Lutetiae ingressa est. Tamen, Rerum Novarum Francicarum Societatem dissolvi coegit, et Soror Ioanna in patriam redire debuit.
-Non territa, opus suum servitii continuavit, scholam et coquinam publicam pauperibus aperiens. Anno 1799, Vesuntione, novam congregationem condidit, Sorores Caritatis Vesuntinenses, sub Regula Sancti Vincentii a Paulo. Congregatio eius cito crevit et in multas nationes diffusa est.
-Neapoli, in Italia, die 24 Augusti 1826 obiit. A Papa Pio XI anno 1934 canonizata est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'blessed-marta-wiecka',
-    date: '05-30',
-    title: {
-        vi: 'Chân Phước Mác-ta Vi-ét-cka',
-        en: 'Blessed Marta Wiecka',
-        es: 'Beata Marta Wiecka',
-        fr: 'Bienheureuse Marta Wiecka',
-        la: 'Beata Martha Wiecka'
-    },
-    subtitle: {
-        vi: 'Nữ tu, Tử đạo Bác Ái',
-        en: 'Religious, Martyr of Charity',
-        es: 'Religiosa, Mártir de la Caridad',
-        fr: 'Religieuse, Martyre de la Charité',
-        la: 'Religiosa, Martyr Caritatis'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Chân phước Mác-ta Vi-ét-cka sinh năm 1874 tại Ba Lan. Ngài gia nhập Tu Hội Nữ Tử Bác Ái và phục vụ tại nhiều bệnh viện khác nhau. Ngài được biết đến với lòng yêu mến sâu sắc đối với Thánh Thể và sự chăm sóc dịu dàng dành cho các bệnh nhân.
-Khi đang phục vụ tại Sniatyn (nay thuộc Ukraina), một trận dịch sốt phát ban đã bùng phát. Một người đàn ông trẻ, một nhân viên bệnh viện có vợ con, được giao nhiệm vụ khử trùng phòng của một bệnh nhân mắc bệnh. Sơ Mác-ta, vì lo sợ cho sự an toàn của người đàn ông này, đã tình nguyện làm công việc đó thay anh.
-Ngài đã bị nhiễm bệnh và qua đời sau một thời gian ngắn vào ngày 30 tháng 5 năm 1904, ở tuổi 30. Hành động anh hùng của ngài là một chứng tá hùng hồn về đức ái, sẵn sàng hy sinh mạng sống mình vì người khác. Ngài được Đức Giáo Hoàng Bênêđictô XVI phong chân phước vào năm 2008.`,
-          en: `<strong>Biography</strong>
-Blessed Marta Wiecka was born in 1874 in Poland. She joined the Company of the Daughters of Charity and served in various hospitals. She was known for her deep love for the Eucharist and her tender care for the sick.
-While serving in Sniatyn (now in Ukraine), a typhus epidemic broke out. A young man, a hospital worker with a wife and child, was assigned to disinfect the room of a patient with the disease. Sister Marta, fearing for the man's safety, volunteered to do the job in his place.
-She contracted the disease and died shortly after on May 30, 1904, at the age of 30. Her heroic act was a powerful witness to charity, willing to lay down her life for another. She was beatified by Pope Benedict XVI in 2008.`,
-          es: `<strong>Biografía</strong>
-La Beata Marta Wiecka nació en 1874 en Polonia. Se unió a la Compañía de las Hijas de la Caridad y sirvió en varios hospitales. Era conocida por su profundo amor a la Eucaristía y su tierno cuidado de los enfermos.
-Mientras servía en Sniatyn (ahora en Ucrania), estalló una epidemia de tifus. A un joven, un trabajador del hospital con esposa e hijo, se le asignó la tarea de desinfectar la habitación de un paciente con la enfermedad. Sor Marta, temiendo por la seguridad del hombre, se ofreció voluntaria para hacer el trabajo en su lugar.
-Contrajo la enfermedad y murió poco después, el 30 de mayo de 1904, a la edad de 30 años. Su acto heroico fue un poderoso testimonio de caridad, dispuesta a dar su vida por otro. Fue beatificada por el Papa Benedicto XVI en 2008.`,
-          fr: `<strong>Biographie</strong>
-La bienheureuse Marta Wiecka est née en 1874 en Pologne. Elle entra dans la Compagnie des Filles de la Charité et servit dans divers hôpitaux. Elle était connue pour son amour profond de l'Eucharistie et son soin tendre pour les malades.
-Alors qu'elle servait à Sniatyn (aujourd'hui en Ukraine), une épidémie de typhus éclata. Un jeune homme, un employé de l'hôpital avec une femme et un enfant, fut chargé de désinfecter la chambre d'un patient atteint de la maladie. Sœur Marta, craignant pour la sécurité de l'homme, se porta volontaire pour faire le travail à sa place.
-Elle contracta la maladie et mourut peu de temps après, le 30 mai 1904, à l'âge de 30 ans. Son acte héroïque fut un puissant témoignage de charité, prête à donner sa vie pour un autre. Elle a été béatifiée par le pape Benoît XVI en 2008.`,
-          la: `<strong>Vita</strong>
-Beata Martha Wiecka nata est anno 1874 in Polonia. Societatem Filiarum Caritatis ingressa est et in variis nosocomiis servivit. Nota erat ob profundum amorem erga Eucharistiam et teneram curam erga aegrotos.
-Dum Sniatyni (nunc in Ucraina) serviebat, epidemia typhi exarsit. Iuveni, operario nosocomii cum uxore et filio, mandatum est ut cubiculum patientis morbo affecti desiniceret. Soror Martha, de salute viri timens, voluntarie opus in eius loco suscepit.
-Morbum contraxit et paulo post obiit die 30 Maii 1904, aetatis suae 30. Actus eius heroicus potens testimonium caritatis fuit, parata ad vitam suam pro alio deponendam. A Papa Benedicto XVI anno 2008 beatificata est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-justin-de-jacobis',
-    date: '07-31',
-    title: {
-        vi: 'Thánh Gút-ti-nô đờ Gia-cô-bít',
-        en: 'St. Justin de Jacobis',
-        es: 'San Justino de Jacobis',
-        fr: 'Saint Justin de Jacobis',
-        la: 'Sanctus Iustinus de Iacobis'
-    },
-    subtitle: {
-        vi: 'Giám mục',
-        en: 'Bishop',
-        es: 'Obispo',
-        fr: 'Évêque',
-        la: 'Episcopus'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Justin de Jacobis sinh ngày 9 tháng 10 năm 1800 tại San Fele, Ý. Ngài gia nhập Tu Hội Truyền Giáo năm 1818 và được thụ phong linh mục năm 1824. Sau nhiều năm phục vụ tại Ý, ngài được sai đến Ethiopia làm nhà truyền giáo vào năm 1839.
-Tại Ethiopia, cha Justin đã làm việc không mệt mỏi để củng cố đức tin Công giáo và hòa giải các cộng đoàn Kitô hữu. Ngài sống một cuộc đời khó nghèo, giản dị, gần gũi với người dân và tôn trọng sâu sắc văn hóa địa phương. Ngài đã thành lập chủng viện, đào tạo các linh mục bản xứ và dịch các sách phụng vụ sang tiếng Amharic.
-Năm 1847, ngài được bổ nhiệm làm Giám mục hiệu tòa Nilopolis và Đại diện Tông tòa Abyssinia. Ngài phải đối mặt với nhiều khó khăn và bách hại, nhưng ngài luôn kiên vững trong đức tin và lòng bác ái. Ngài qua đời vì kiệt sức vào ngày 31 tháng 7 năm 1860. Ngài được Đức Giáo Hoàng Phaolô VI phong thánh vào ngày 26 tháng 10 năm 1975.`,
-          en: `<strong>Biography</strong>
-Saint Justin de Jacobis was born on October 9, 1800, in San Fele, Italy. He joined the Congregation of the Mission in 1818 and was ordained a priest in 1824. After several years of service in Italy, he was sent to Ethiopia as a missionary in 1839.
-In Ethiopia, Father Justin worked tirelessly to strengthen the Catholic faith and reconcile Christian communities. He lived a life of poverty and simplicity, close to the people and with deep respect for the local culture. He founded a seminary, trained native priests, and translated liturgical books into the Amharic language.
-In 1847, he was appointed Titular Bishop of Nilopolis and Apostolic Vicar of Abyssinia. He faced many difficulties and persecutions, but he always remained steadfast in faith and charity. He died of exhaustion on July 31, 1860. He was canonized by Pope Paul VI on October 26, 1975.`,
-          es: `<strong>Biografía</strong>
-San Justino de Jacobis nació el 9 de octubre de 1800 en San Fele, Italia. Se unió a la Congregación de la Misión en 1818 y fue ordenado sacerdote en 1824. Después de varios años de servicio en Italia, fue enviado a Etiopía como misionero en 1839.
-En Etiopía, el Padre Justino trabajó incansablemente para fortalecer la fe católica y reconciliar a las comunidades cristianas. Vivió una vida de pobreza y sencillez, cercano a la gente y con un profundo respeto por la cultura local. Fundó un seminario, formó a sacerdotes nativos y tradujo libros litúrgicos al idioma amhárico.
-En 1847, fue nombrado Obispo Titular de Nilopolis y Vicario Apostólico de Abisinia. Enfrentó muchas dificultades y persecuciones, pero siempre se mantuvo firme en la fe y la caridad. Murió de agotamiento el 31 de julio de 1860. Fue canonizado por el Papa Pablo VI el 26 de octubre de 1975.`,
-          fr: `<strong>Biographie</strong>
-Saint Justin de Jacobis est né le 9 octobre 1800 à San Fele, en Italie. Il entra dans la Congrégation de la Mission en 1818 et fut ordonné prêtre en 1824. Après plusieurs années de service en Italie, il fut envoyé en Éthiopie comme missionnaire en 1839.
-En Éthiopie, le Père Justin travailla sans relâche pour renforcer la foi catholique et réconcilier les communautés chrétiennes. Il vécut une vie de pauvreté et de simplicité, proche des gens et avec un profond respect pour la culture locale. Il fonda un séminaire, forma des prêtres autochtones et traduisit des livres liturgiques en langue amharique.
-En 1847, il fut nommé évêque titulaire de Nilopolis et vicaire apostolique d'Abyssinie. Il fit face à de nombreuses difficultés et persécutions, mais il resta toujours ferme dans la foi et la charité. Il mourut d'épuisement le 31 juillet 1860. Il fut canonisé par le pape Paul VI le 26 octobre 1975.`,
-          la: `<strong>Vita</strong>
-Sanctus Iustinus de Iacobis natus est die 9 Octobris 1800 in San Fele, Italia. Congregationem Missionis anno 1818 intravit et presbyter anno 1824 ordinatus est. Post plures annos servitii in Italia, anno 1839 missionarius in Aethiopiam missus est.
-In Aethiopia, Pater Iustinus indefesse laboravit ad fidem catholicam firmandam et communitates christianas reconciliandas. Vitam paupertatis et simplicitatis vixit, populo proximus et magno cum respectu erga culturam localem. Seminarium condidit, presbyteros indigenas instituit et libros liturgicos in linguam Amharicam transtulit.
-Anno 1847, Episcopus titularis Nilopolitanus et Vicarius Apostolicus Abyssiniae nominatus est. Multas difficultates et persecutiones passus est, sed semper in fide et caritate firmus permansit. Lassitudine obiit die 31 Iulii 1860. A Papa Paulo VI canonizatus est die 26 Octobris 1975.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'blessed-ghebre-michael',
-    date: '08-30',
-    title: {
-        vi: 'Chân Phước Ghê-brê Mi-ca-en',
-        en: 'Blessed Ghebre Michael',
-        es: 'Beato Gebre Miguel',
-        fr: 'Bienheureux Ghebre Michael',
-        la: 'Beatus Gabra Michael'
-    },
-    subtitle: {
-        vi: 'Linh mục, Tử đạo',
-        en: 'Priest, Martyr',
-        es: 'Sacerdote y Mártir',
-        fr: 'Prêtre et Martyr',
-        la: 'Presbyter et Martyr'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Chân phước Ghebre Michael sinh khoảng năm 1791 tại Ethiopia. Là một tu sĩ Chính Thống Ethiopia, ngài nổi tiếng về sự uyên bác và đời sống thánh thiện. Sau khi gặp gỡ thánh Justin de Jacobis, ngài đã bị thuyết phục bởi sự thật của đức tin Công giáo và đã gia nhập Giáo hội Công giáo.
-Sau khi trở thành linh mục Công giáo, cha Ghebre Michael đã dũng cảm rao giảng Tin Mừng và bảo vệ đức tin, bất chấp sự chống đối và bách hại. Ngài bị bắt, bị tra tấn dã man và bị kết án tử hình. Ngài đã trung thành với Chúa Kitô cho đến cùng và chịu tử đạo vào ngày 28 tháng 8 năm 1855. Ngài được Đức Giáo Hoàng Piô X phong chân phước vào năm 1926.`,
-          en: `<strong>Biography</strong>
-Blessed Ghebre Michael was born around 1791 in Ethiopia. As an Ethiopian Orthodox monk, he was renowned for his learning and holy life. After meeting Saint Justin de Jacobis, he was convinced of the truth of the Catholic faith and joined the Catholic Church.
-After becoming a Catholic priest, Father Ghebre Michael courageously preached the Gospel and defended the faith, despite opposition and persecution. He was arrested, brutally tortured, and sentenced to death. He remained faithful to Christ to the end and was martyred on August 28, 1855. He was beatified by Pope Pius X in 1926.`,
-          es: `<strong>Biografía</strong>
-El Beato Gebre Miguel nació alrededor de 1791 en Etiopía. Como monje ortodoxo etíope, fue reconocido por su erudición y vida santa. Después de conocer a San Justino de Jacobis, se convenció de la verdad de la fe católica y se unió a la Iglesia Católica.
-Después de convertirse en sacerdote católico, el Padre Gebre Miguel predicó valientemente el Evangelio y defendió la fe, a pesar de la oposición y la persecución. Fue arrestado, brutalmente torturado y sentenciado a muerte. Permaneció fiel a Cristo hasta el final y fue martirizado el 28 de agosto de 1855. Fue beatificado por el Papa Pío X en 1926.`,
-          fr: `<strong>Biographie</strong>
-Le bienheureux Ghebre Michael est né vers 1791 en Éthiopie. Moine orthodoxe éthiopien, il était réputé pour son savoir et sa vie sainte. Après avoir rencontré saint Justin de Jacobis, il fut convaincu de la vérité de la foi catholique et rejoignit l'Église catholique.
-Devenu prêtre catholique, le père Ghebre Michael prêcha courageusement l'Évangile et défendit la foi, malgré l'opposition et la persécution. Il fut arrêté, brutalement torturé et condamné à mort. Il resta fidèle au Christ jusqu'à la fin et fut martyrisé le 28 août 1855. Il fut béatifié par le pape Pie X en 1926.`,
-          la: `<strong>Vita</strong>
-Beatus Gabra Michael natus est circa annum 1791 in Aethiopia. Monachus orthodoxus Aethiops, doctrina et sancta vita clarus erat. Postquam Sanctum Iustinum de Iacobis convenit, de veritate fidei catholicae persuasus est et Ecclesiam Catholicam intravit.
-Postquam presbyter catholicus factus est, Pater Gabra Michael audacter Evangelium praedicavit et fidem defendit, non obstante oppositione et persecutione. Comprehensus, crudeliter tortus et ad mortem damnatus est. Christo usque in finem fidelis permansit et die 28 Augusti 1855 martyrium passus est. A Papa Pio X anno 1926 beatificatus est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'blessed-frederic-ozanam',
-    date: '09-09',
-    title: {
-        vi: 'Chân Phước Phê-rê-đê-ric Ô-za-nam',
-        en: 'Blessed Frederic Ozanam',
-        es: 'Beato Federico Ozanam',
-        fr: 'Bienheureux Frédéric Ozanam',
-        la: 'Beatus Fridericus Ozanam'
-    },
-    subtitle: {
-        vi: 'Giáo dân',
-        en: 'Layman',
-        es: 'Laico',
-        fr: 'Laïc',
-        la: 'Laicus'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Antoine-Frédéric Ozanam sinh ngày 23 tháng 4 năm 1813 tại Milan, Ý. Ông là một học giả, luật sư, nhà báo và là người sáng lập chính của Hội Bác Ái Vinh Sơn (Society of Saint Vincent de Paul).
-Lớn lên trong một gia đình Công giáo sùng đạo, Frédéric đã sớm có một đức tin sâu sắc và lòng yêu mến người nghèo. Khi là sinh viên tại Sorbonne ở Paris, ông và một nhóm bạn đã thành lập Hội Bác Ái Vinh Sơn vào năm 1833 để phục vụ những người nghèo khổ trong thành phố một cách trực tiếp.
-Frédéric Ozanam là một người chồng và người cha mẫu mực, một giáo sư lỗi lạc và một người Công giáo dấn thân. Ông đã viết nhiều tác phẩm về lịch sử, văn học và các vấn đề xã hội, luôn bảo vệ chân lý của đức tin và phẩm giá của con người. Ông qua đời tại Marseille vào ngày 8 tháng 9 năm 1853. Ông được Đức Thánh Cha Gioan Phaolô II phong chân phước tại Paris vào ngày 22 tháng 8 năm 1997.`,
-          en: `<strong>Biography</strong>
-Antoine-Frédéric Ozanam was born on April 23, 1813, in Milan, Italy. He was a scholar, lawyer, journalist, and the main founder of the Society of Saint Vincent de Paul.
-Raised in a devout Catholic family, Frédéric developed a deep faith and love for the poor from an early age. As a student at the Sorbonne in Paris, he and a group of friends founded the Society of Saint Vincent de Paul in 1833 to directly serve the city's poor.
-Frédéric Ozanam was a model husband and father, a brilliant professor, and a committed Catholic. He wrote numerous works on history, literature, and social issues, always defending the truth of the faith and the dignity of the human person. He died in Marseille on September 8, 1853. He was beatified by Pope John Paul II in Paris on August 22, 1997.`,
-          es: `<strong>Biografía</strong>
-Antoine-Frédéric Ozanam nació el 23 de abril de 1813 en Milán, Italia. Fue un erudito, abogado, periodista y el principal fundador de la Sociedad de San Vicente de Paúl.
-Criado en una devota familia católica, Federico desarrolló desde temprana edad una profunda fe y amor por los pobres. Como estudiante en la Sorbona de París, él y un grupo de amigos fundaron la Sociedad de San Vicente de Paúl en 1833 para servir directamente a los pobres de la ciudad.
-Federico Ozanam fue un esposo y padre modelo, un profesor brillante y un católico comprometido. Escribió numerosas obras sobre historia, literatura y cuestiones sociales, defendiendo siempre la verdad de la fe y la dignidad de la persona humana. Murió en Marsella el 8 de septiembre de 1853. Fue beatificado por el Papa Juan Pablo II en París el 22 de agosto de 1997.`,
-          fr: `<strong>Biographie</strong>
-Antoine-Frédéric Ozanam est né le 23 avril 1813 à Milan, en Italie. Il était un érudit, un avocat, un journaliste et le principal fondateur de la Société de Saint-Vincent-de-Paul.
-Élevé dans une famille catholique dévouée, Frédéric a développé très jeune une foi profonde et un amour pour les pauvres. Étudiant à la Sorbonne à Paris, il fonde avec un groupe d'amis la Société de Saint-Vincent-de-Paul en 1833 pour servir directement les pauvres de la ville.
-Frédéric Ozanam était un mari et un père modèle, un brillant professeur et un catholique engagé. Il a écrit de nombreux ouvrages sur l'histoire, la littérature et les questions sociales, défendant toujours la vérité de la foi et la dignité de la personne humaine. Il est décédé à Marseille le 8 septembre 1853. Il a été béatifié par le pape Jean-Paul II à Paris le 22 août 1997.`,
-          la: `<strong>Vita</strong>
-Antonius Fridericus Ozanam natus est die 23 Aprilis 1813 Mediolani, in Italia. Fuit vir doctus, iurisconsultus, diurnarius et praecipuus conditor Societatis Sancti Vincentii a Paulo.
-In devota familia catholica educatus, Fridericus ab ineunte aetate profundam fidem et amorem erga pauperes evolvit. Cum studens esset in Sorbona Lutetiae, ipse et coetus amicorum Societatem Sancti Vincentii a Paulo anno 1833 condiderunt ut pauperibus urbis directe servirent.
-Fridericus Ozanam fuit exemplar coniugis et patris, professor clarissimus et catholicus devotus. Multa opera de historia, litteratura et quaestionibus socialibus scripsit, semper veritatem fidei et dignitatem personae humanae defendens. Massiliae obiit die 8 Septembris 1853. A Papa Ioanne Paulo II Lutetiae beatificatus est die 22 Augusti 1997.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-john-gabriel-perboyre',
-    date: '09-11',
-    title: {
-        vi: 'Thánh Gioan Ga-bri-en Péc-boa',
-        en: 'St. John Gabriel Perboyre',
-        es: 'San Juan Gabriel Perboyre',
-        fr: 'Saint Jean-Gabriel Perboyre',
-        la: 'Sanctus Ioannes Gabriel Perboyre'
-    },
-    subtitle: {
-        vi: 'Linh mục, Tử đạo',
-        en: 'Priest, Martyr',
-        es: 'Sacerdote y Mártir',
-        fr: 'Prêtre et Martyr',
-        la: 'Presbyter et Martyr'
-    },
-    type: 'Lễ kính',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Gioan Gabriel Perboyre sinh ngày 6 tháng 1 năm 1802 tại Pháp. Ngài gia nhập Tu Hội Truyền Giáo và được thụ phong linh mục năm 1826. Với lòng khao khát truyền giáo, ngài đã được sai đến Trung Quốc vào năm 1835.
-Tại Trung Quốc, cha Gioan Gabriel đã hăng say rao giảng Tin Mừng, rửa tội cho nhiều người và chăm sóc các cộng đoàn Kitô hữu. Ngài đã phải đối mặt với nhiều khó khăn và nguy hiểm. Trong cuộc bách hại năm 1839, ngài bị bắt, bị tra tấn dã man và cuối cùng bị xử tử bằng cách treo cổ vào ngày 11 tháng 9 năm 1840, giống như Thầy của mình là Đức Giêsu.
-Ngài được Đức Giáo Hoàng Lêô XIII phong chân phước năm 1889 và được Đức Giáo Hoàng Gioan Phaolô II phong thánh vào ngày 2 tháng 6 năm 1996.`,
-          en: `<strong>Biography</strong>
-Saint John Gabriel Perboyre was born on January 6, 1802, in France. He joined the Congregation of the Mission and was ordained a priest in 1826. With a desire for missionary work, he was sent to China in 1835.
-In China, Father John Gabriel zealously preached the Gospel, baptized many people, and cared for Christian communities. He faced many hardships and dangers. During the persecution of 1839, he was arrested, brutally tortured, and finally executed by strangulation on September 11, 1840, in a manner similar to his Master, Jesus.
-He was beatified by Pope Leo XIII in 1889 and canonized by Pope John Paul II on June 2, 1996.`,
-          es: `<strong>Biografía</strong>
-San Juan Gabriel Perboyre nació el 6 de enero de 1802 en Francia. Se unió a la Congregación de la Misión y fue ordenado sacerdote en 1826. Con un deseo de trabajo misionero, fue enviado a China en 1835.
-En China, el Padre Juan Gabriel predicó celosamente el Evangelio, bautizó a muchas personas y cuidó de las comunidades cristianas. Enfrentó muchas dificultades y peligros. Durante la persecución de 1839, fue arrestado, brutalmente torturado y finalmente ejecutado por estrangulamiento el 11 de septiembre de 1840, de manera similar a su Maestro, Jesús.
-Fue beatificado por el Papa León XIII en 1889 y canonizado por el Papa Juan Pablo II el 2 de junio de 1996.`,
-          fr: `<strong>Biographie</strong>
-Saint Jean-Gabriel Perboyre est né le 6 janvier 1802 en France. Il entra dans la Congrégation de la Mission et fut ordonné prêtre en 1826. Désireux de partir en mission, il fut envoyé en Chine en 1835.
-En Chine, le père Jean-Gabriel prêcha l'Évangile avec zèle, baptisa de nombreuses personnes et prit soin des communautés chrétiennes. Il fit face à de nombreuses difficultés et dangers. Lors de la persécution de 1839, il fut arrêté, brutalement torturé et finalement exécuté par strangulation le 11 septembre 1840, à la manière de son Maître, Jésus.
-Il fut béatifié par le pape Léon XIII en 1889 et canonisé par le pape Jean-Paul II le 2 juin 1996.`,
-          la: `<strong>Vita</strong>
-Sanctus Ioannes Gabriel Perboyre natus est die 6 Ianuarii 1802 in Gallia. Congregationem Missionis intravit et presbyter anno 1826 ordinatus est. Missionis desiderio flagrans, anno 1835 in Sinas missus est.
-In Sinis, Pater Ioannes Gabriel Evangelium studiose praedicavit, multos baptizavit et communitates christianas curavit. Multas difficultates et pericula passus est. Inter persecutionem anni 1839, comprehensus, crudeliter tortus et tandem strangulatione die 11 Septembris 1840 executus est, ad instar Magistri sui, Iesu.
-A Papa Leone XIII anno 1889 beatificatus est et a Papa Ioanne Paulo II die 2 Iunii 1996 canonizatus est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-vincent-de-paul-main',
-    date: '09-27',
-    title: {
-        vi: 'Thánh Vinh Sơn Phaolô',
-        en: 'St. Vincent de Paul',
-        es: 'San Vicente de Paúl',
-        fr: 'Saint Vincent de Paul',
-        la: 'Sanctus Vincentius a Paulo'
-    },
-    subtitle: {
-        vi: 'Linh mục, Đấng Sáng Lập',
-        en: 'Priest, Founder',
-        es: 'Sacerdote, Fundador',
-        fr: 'Prêtre, Fondateur',
-        la: 'Presbyter, Fundator'
-    },
-    type: 'Đại lễ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Vinh Sơn Phaolô sinh năm 1581 tại Pouy, Pháp, trong một gia đình nông dân. Sau khi thụ phong linh mục, ngài đã trải qua một cuộc khủng hoảng đức tin và một thời gian làm nô lệ. Những kinh nghiệm này đã biến đổi ngài sâu sắc và khơi dậy trong ngài một tình yêu mãnh liệt đối với người nghèo.
-Ngài đã cống hiến trọn đời mình để phục vụ những người bị bỏ rơi nhất trong xã hội: người nghèo, bệnh nhân, trẻ mồ côi, tù nhân, người tị nạn. Ngài đã thành lập Tu Hội Truyền Giáo (các cha Laza) để rao giảng Tin Mừng cho người nghèo ở các vùng nông thôn và để đào tạo các linh mục. Cùng với Thánh Lu-i-sa đờ Ma-ri-lắc, ngài đã sáng lập Tu Hội Nữ Tử Bác Ái, những nữ tu đầu tiên phục vụ người nghèo ngay giữa đời.
-Thánh Vinh Sơn được biết đến như là "Nhà tổ chức vĩ đại của đức ái". Tầm nhìn và các công cuộc của ngài đã đặt nền móng cho công tác xã hội hiện đại. Ngài qua đời tại Paris vào ngày 27 tháng 9 năm 1660. Ngài được Đức Giáo Hoàng Bênêđictô XIII phong thánh vào năm 1737 và được Đức Giáo Hoàng Lêô XIII đặt làm Bổn mạng của tất cả các hội bác ái Công giáo.`,
-          en: `<strong>Biography</strong>
-Saint Vincent de Paul was born in 1581 in Pouy, France, to a peasant family. After his priestly ordination, he experienced a crisis of faith and a period of slavery. These experiences profoundly transformed him and ignited in him an intense love for the poor.
-He dedicated his entire life to serving the most abandoned in society: the poor, the sick, orphans, prisoners, and refugees. He founded the Congregation of the Mission (the Lazarists) to evangelize the rural poor and to form priests. With Saint Louise de Marillac, he founded the Company of the Daughters of Charity, the first non-cloistered sisters to serve the poor in the midst of the world.
-Saint Vincent is known as the "Great Apostle of Charity." His vision and his works laid the foundations for modern social work. He died in Paris on September 27, 1660. He was canonized by Pope Benedict XIII in 1737 and was named Patron of all Catholic charities by Pope Leo XIII.`,
-          es: `<strong>Biografía</strong>
-San Vicente de Paúl nació en 1581 en Pouy, Francia, en una familia de campesinos. Después de su ordenación sacerdotal, experimentó una crisis de fe y un período de esclavitud. Estas experiencias lo transformaron profundamente y encendieron en él un intenso amor por los pobres.
-Dedicó toda su vida a servir a los más abandonados de la sociedad: los pobres, los enfermos, los huérfanos, los prisioneros y los refugiados. Fundó la Congregación de la Misión (los Lazaristas) para evangelizar a los pobres de las zonas rurales y para formar a los sacerdotes. Con Santa Luisa de Marillac, fundó la Compañía de las Hijas de la Caridad, las primeras hermanas no enclaustradas que servían a los pobres en medio del mundo.
-San Vicente es conocido como el "Gran Apóstol de la Caridad". Su visión y sus obras sentaron las bases del trabajo social moderno. Murió en París el 27 de septiembre de 1660. Fue canonizado por el Papa Benedicto XIII en 1737 y nombrado Patrono de todas las obras de caridad católicas por el Papa León XIII.`,
-          fr: `<strong>Biographie</strong>
-Saint Vincent de Paul est né en 1581 à Pouy, en France, dans une famille de paysans. Après son ordination sacerdotale, il a connu une crise de foi et une période d'esclavage. Ces expériences l'ont profondément transformé et ont allumé en lui un amour intense pour les pauvres.
-Il a consacré toute sa vie au service des plus abandonnés de la société : les pauvres, les malades, les orphelins, les prisonniers et les réfugiés. Il a fondé la Congrégation de la Mission (les Lazaristes) pour évangéliser les pauvres des campagnes et pour former les prêtres. Avec sainte Louise de Marillac, il a fondé la Compagnie des Filles de la Charité, les premières sœurs non cloîtrées à servir les pauvres au milieu du monde.
-Saint Vincent est connu comme le "Grand Apôtre de la Charité". Sa vision et ses œuvres ont jeté les bases du travail social moderne. Il est décédé à Paris le 27 septembre 1660. Il a été canonisé par le pape Benoît XIII en 1737 et a été nommé Patron de toutes les œuvres de charité catholiques par le pape Léon XIII.`,
-          la: `<strong>Vita</strong>
-Sanctus Vincentius a Paulo natus est anno 1581 in Pouy, Gallia, in familia rustica. Post ordinationem presbyteralem, crisim fidei et tempus servitutis expertus est. Hae experientiae eum profunde mutaverunt et in eo intensum amorem erga pauperes accenderunt.
-Totam vitam suam dedicavit serviendo maxime derelictis in societate: pauperibus, aegrotis, orphanis, captivis et profugis. Congregationem Missionis (Lazaristas) condidit ad evangelizandos pauperes rurales et ad formandos presbyteros. Cum Sancta Ludovica de Marillac, Societatem Filiarum Caritatis condidit, primas sorores non claustratas quae pauperibus in medio mundi serviebant.
-Sanctus Vincentius notus est ut "Magnus Caritatis Apostolus". Visio eius et opera eius fundamenta posuerunt operis socialis moderni. Lutetiae obiit die 27 Septembris 1660. A Papa Benedicto XIII anno 1737 canonizatus est et a Papa Leone XIII Patronus omnium operum caritatis catholicorum nominatus est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'vincentian-martyrs-of-spain',
-    date: '11-06',
-    title: {
-        vi: 'Các Thánh Tử Đạo Vinh Sơn tại Tây Ban Nha',
-        en: 'Vincentian Martyrs of Spain',
-        es: 'Mártires Vicencianos de España',
-        fr: 'Martyrs Vincentiens d\'Espagne',
-        la: 'Martyres Vincentiani Hispaniae'
-    },
-    subtitle: {
-        vi: 'Linh mục, Tu sĩ và Giáo dân',
-        en: 'Priests, Religious and Laity',
-        es: 'Sacerdotes, Religiosos y Laicos',
-        fr: 'Prêtres, Religieux et Laïcs',
-        la: 'Presbyteri, Religiosi et Laici'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Lễ này tưởng nhớ đông đảo các thành viên của Gia đình Vinh Sơn - bao gồm các linh mục và tu huynh Tu Hội Truyền Giáo, các Nữ Tử Bác Ái, và các thành viên giáo dân của các hội đoàn Vinh Sơn - đã bị giết vì đức tin trong cuộc Nội chiến Tây Ban Nha (1936-1939).
-Trong thời kỳ bách hại tôn giáo khốc liệt này, họ đã phải đối mặt với sự lựa chọn giữa việc chối bỏ đức tin hoặc chịu chết. Với lòng can đảm phi thường, họ đã chọn trung thành với Chúa Kitô cho đến cùng. Tấm gương của họ là một lời nhắc nhở mạnh mẽ về sự cao cả của ơn gọi Kitô hữu và là một nguồn cảm hứng cho chúng ta sống đức tin của mình một cách triệt để. Hàng chục vị đã được Giáo hội tuyên phong chân phước.`,
-          en: `<strong>Biography</strong>
-This feast commemorates the numerous members of the Vincentian Family—including priests and brothers of the Congregation of the Mission, Daughters of Charity, and lay members of Vincentian associations—who were killed for their faith during the Spanish Civil War (1936-1939).
-During this period of intense religious persecution, they were faced with the choice of renouncing their faith or facing death. With extraordinary courage, they chose to remain faithful to Christ to the end. Their example is a powerful reminder of the greatness of the Christian vocation and an inspiration for us to live our faith radically. Dozens of them have been beatified by the Church.`,
-          es: `<strong>Biografía</strong>
-Esta fiesta conmemora a los numerosos miembros de la Familia Vicenciana —incluyendo sacerdotes y hermanos de la Congregación de la Misión, Hijas de la Caridad y miembros laicos de las asociaciones vicencianas— que fueron asesinados por su fe durante la Guerra Civil Española (1936-1939).
-Durante este período de intensa persecución religiosa, se enfrentaron a la elección de renunciar a su fe o enfrentar la muerte. Con un coraje extraordinario, eligieron permanecer fieles a Cristo hasta el final. Su ejemplo es un poderoso recordatorio de la grandeza de la vocación cristiana y una inspiración para que vivamos nuestra fe radicalmente. Decenas de ellos han sido beatificados por la Iglesia.`,
-          fr: `<strong>Biographie</strong>
-Cette fête commémore les nombreux membres de la Famille vincentienne - prêtres et frères de la Congrégation de la Mission, Filles de la Charité et membres laïcs des associations vincentiennes - qui ont été tués pour leur foi pendant la guerre civile espagnole (1936-1939).
-Au cours de cette période d'intense persécution religieuse, ils ont été confrontés au choix de renoncer à leur foi ou d'affronter la mort. Avec un courage extraordinaire, ils ont choisi de rester fidèles au Christ jusqu'à la fin. Leur exemple est un puissant rappel de la grandeur de la vocation chrétienne et une inspiration pour nous de vivre notre foi radicalement. Des dizaines d'entre eux ont été béatifiés par l'Église.`,
-          la: `<strong>Vita</strong>
-Hoc festum commemorat numerosos sodales Familiae Vincentianae — inter quos presbyteri et fratres Congregationis Missionis, Filiae Caritatis et sodales laici consociationum Vincentianarum — qui propter fidem suam inter Bellum Civile Hispanicum (1936-1939) interfecti sunt.
-Hoc tempore vehementis persecutionis religiosae, electionem inter fidem suam abnegandam aut mortem subeundam habuerunt. Animo extraordinario, Christo usque in finem fideles manere elegerunt. Exemplum eorum potens est commemoratio magnitudinis vocationis christianae et inspiratio nobis ad fidem nostram radicaliter vivendam. Decem ex iis ab Ecclesia beatificati sunt.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'all-saints-vincentian-family',
-    date: '11-09',
-    title: {
-        vi: 'Lễ Các Thánh trong Gia Đình Vinh Sơn',
-        en: 'Feast of All Saints of the Vincentian Family',
-        es: 'Fiesta de Todos los Santos de la Familia Vicenciana',
-        fr: 'Fête de Tous les Saints de la Famille Vincentienne',
-        la: 'Festum Omnium Sanctorum Familiae Vincentianae'
-    },
-    subtitle: {
-        vi: 'Đại lễ',
-        en: 'Solemnity',
-        es: 'Solemnidad',
-        fr: 'Solennité',
-        la: 'Sollemnitas'
-    },
-    type: 'Đại lễ',
-    sections: {
-        biography: {
-          vi: `<strong>Giới thiệu</strong>
-Hôm nay, Gia đình Vinh Sơn hân hoan mừng kính không chỉ các vị thánh và chân phước đã được Giáo hội chính thức tôn phong, mà còn vô số những thành viên khác - linh mục, tu huynh, nữ tu và giáo dân - những người đã sống theo đặc sủng của Thánh Vinh Sơn một cách âm thầm và anh hùng.
-Họ là những người đã nhận ra Chúa Kitô nơi người nghèo, đã dành trọn cuộc đời để phục vụ những người bị bỏ rơi nhất, và đã trở thành những chứng nhân sống động của Tin Mừng Tình Thương. Lễ này là một lời mời gọi chúng ta noi gương các ngài, tiếp tục sứ mạng của Thánh Vinh Sơn trong thế giới ngày nay, và tin tưởng rằng chúng ta cũng được mời gọi nên thánh qua việc phục vụ khiêm tốn và bác ái.`,
-          en: `<strong>Introduction</strong>
-Today, the Vincentian Family joyfully celebrates not only the saints and blessed officially recognized by the Church, but also the countless other members—priests, brothers, sisters, and laity—who lived the Vincentian charism in a hidden and heroic way.
-They are the ones who recognized Christ in the poor, who dedicated their lives to serving the most abandoned, and who became living witnesses of the Gospel of Charity. This feast is an invitation for us to follow their example, to continue the mission of St. Vincent in today's world, and to trust that we too are called to holiness through humble and charitable service.`,
-          es: `<strong>Introducción</strong>
-Hoy, la Familia Vicenciana celebra con alegría no solo a los santos y beatos reconocidos oficialmente por la Iglesia, sino también a los innumerables otros miembros —sacerdotes, hermanos, hermanas y laicos— que vivieron el carisma vicenciano de una manera oculta y heroica.
-Ellos son los que reconocieron a Cristo en los pobres, los que dedicaron sus vidas a servir a los más abandonados y los que se convirtieron en testigos vivos del Evangelio de la Caridad. Esta fiesta es una invitación para que sigamos su ejemplo, para que continuemos la misión de San Vicente en el mundo de hoy y para que confiemos en que también nosotros estamos llamados a la santidad a través del servicio humilde y caritativo.`,
-          fr: `<strong>Introduction</strong>
-Aujourd'hui, la Famille vincentienne célèbre avec joie non seulement les saints et les bienheureux officiellement reconnus par l'Église, mais aussi les innombrables autres membres - prêtres, frères, sœurs et laïcs - qui ont vécu le charisme vincentien de manière cachée et héroïque.
-Ce sont eux qui ont reconnu le Christ dans les pauvres, qui ont consacré leur vie au service des plus abandonnés et qui sont devenus des témoins vivants de l'Évangile de la Charité. Cette fête est une invitation à suivre leur exemple, à poursuivre la mission de saint Vincent dans le monde d'aujourd'hui et à croire que nous aussi, nous sommes appelés à la sainteté par un service humble et charitable.`,
-          la: `<strong>Introductio</strong>
-Hodie, Familia Vincentiana cum gaudio celebrat non solum sanctos et beatos ab Ecclesia publice agnitos, sed etiam innumerabiles alios sodales — presbyteros, fratres, sorores et laicos — qui charisma Vincentianum modo abscondito et heroico vixerunt.
-Ipsi sunt qui Christum in pauperibus agnoverunt, qui vitam suam maxime derelictis serviendo dedicaverunt, et qui vivi testes Evangelii Caritatis facti sunt. Hoc festum invitatio est nobis ad eorum exemplum sequendum, ad missionem Sancti Vincentii in mundo hodierno continuandam, et ad confidendum nos quoque ad sanctitatem per humile et caritativum servitium vocari.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'our-lady-of-miraculous-medal',
-    date: '11-27',
-    title: {
-        vi: 'Đức Trinh Nữ Maria Ảnh Phép Lạ',
-        en: 'Our Lady of the Miraculous Medal',
-        es: 'Nuestra Señora de la Medalla Milagrosa',
-        fr: 'Notre-Dame de la Médaille Miraculeuse',
-        la: 'Beata Maria Virgo a Sacro Numismate'
-    },
-    subtitle: {
-        vi: '',
-        en: '',
-        es: '',
-        fr: '',
-        la: ''
-    },
-    type: 'Lễ kính',
-    sections: {
-        biography: {
-          vi: `<strong>Lịch sử</strong>
-Lễ này kỷ niệm các cuộc hiện ra của Đức Trinh Nữ Maria với Thánh Catarina Labouré, một tập sinh Nữ Tử Bác Ái, tại nhà nguyện ở Rue du Bac, Paris, vào năm 1830.
-Trong các cuộc hiện ra này, Đức Mẹ đã tỏ mình đứng trên một quả địa cầu, với các tia sáng ân sủng chiếu tỏa từ đôi tay, và một dòng chữ bao quanh: "Ôi Maria vô nhiễm nguyên tội, xin cầu cho chúng con là kẻ chạy đến cùng Mẹ". Đức Mẹ đã yêu cầu đúc một mẫu ảnh theo mẫu này, và hứa ban nhiều ơn lành cho những ai đeo ảnh với lòng tin.
-Mẫu ảnh nhanh chóng được phổ biến khắp thế giới và được gọi là "Ảnh Hay Phép Lạ" vì vô số ơn lành và phép lạ nhận được qua lời chuyển cầu của Đức Mẹ. Lễ này tôn vinh Đức Maria là Đấng Vô Nhiễm Nguyên Tội, là Mẹ và là Đấng Trung Gian các ơn thánh.`,
-          en: `<strong>History</strong>
-This feast commemorates the apparitions of the Blessed Virgin Mary to Saint Catherine Labouré, a novice of the Daughters of Charity, in the chapel on the Rue du Bac, Paris, in 1830.
-During these apparitions, Our Lady appeared standing on a globe, with rays of grace streaming from her hands, and surrounded by the inscription: "O Mary, conceived without sin, pray for us who have recourse to thee." She requested that a medal be struck according to this model, promising great graces to those who wear it with confidence.
-The medal quickly spread throughout the world and became known as the "Miraculous Medal" because of the countless graces and miracles obtained through Our Lady's intercession. This feast honors Mary as the Immaculate Conception, Mother, and Mediatrix of all graces.`,
-          es: `<strong>Historia</strong>
-Esta fiesta conmemora las apariciones de la Santísima Virgen María a Santa Catalina Labouré, una novicia de las Hijas de la Caridad, en la capilla de la Rue du Bac, París, en 1830.
-Durante estas apariciones, Nuestra Señora se apareció de pie sobre un globo, con rayos de gracia emanando de sus manos, y rodeada por la inscripción: "Oh María, sin pecado concebida, ruega por nosotros que recurrimos a ti". Ella solicitó que se acuñara una medalla según este modelo, prometiendo grandes gracias a quienes la lleven con confianza.
-La medalla se difundió rápidamente por todo el mundo y se conoció como la "Medalla Milagrosa" debido a las innumerables gracias y milagros obtenidos por la intercesión de Nuestra Señora. Esta fiesta honra a María como la Inmaculada Concepción, Madre y Mediadora de todas las gracias.`,
-          fr: `<strong>Histoire</strong>
-Cette fête commémore les apparitions de la Très Sainte Vierge Marie à sainte Catherine Labouré, novice des Filles de la Charité, dans la chapelle de la rue du Bac, à Paris, en 1830.
-Au cours de ces apparitions, Notre-Dame est apparue debout sur un globe, des rayons de grâce jaillissant de ses mains, et entourée de l'inscription : "Ô Marie, conçue sans péché, priez pour nous qui avons recours à vous". Elle a demandé qu'une médaille soit frappée selon ce modèle, promettant de grandes grâces à ceux qui la porteraient avec confiance.
-La médaille s'est rapidement répandue dans le monde entier et est devenue connue sous le nom de "Médaille Miraculeuse" en raison des innombrables grâces et miracles obtenus par l'intercession de Notre-Dame. Cette fête honore Marie comme l'Immaculée Conception, Mère et Médiatrice de toutes les grâces.`,
-          la: `<strong>Historia</strong>
-Hoc festum apparitiones Beatae Mariae Virginis Sanctae Catharinae Labouré, noviciae Filiarum Caritatis, in sacello ad Rue du Bac, Lutetiae, anno 1830 commemorat.
-Inter has apparitiones, Domina Nostra stans super globum apparuit, radiis gratiae e manibus eius fluentibus, et circumdata inscriptione: "O Maria, sine labe concepta, ora pro nobis qui ad te confugimus." Petivit ut numisma secundum hoc exemplar cuderetur, magnas gratias promittens iis qui illud cum fiducia gererent.
-Numisma cito per totum mundum diffusum est et "Numisma Miraculosum" notum factum est propter innumerabiles gratias et miracula per intercessionem Dominae Nostrae obtenta. Hoc festum Mariam honorat ut Immaculatam Conceptionem, Matrem et Mediatricem omnium gratiarum.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'st-catherine-laboure',
-    date: '11-28',
-    title: {
-        vi: 'Thánh Ca-ta-ri-na La-bu-rê',
-        en: 'St. Catherine Labouré',
-        es: 'Santa Catalina Labouré',
-        fr: 'Sainte Catherine Labouré',
-        la: 'Sancta Catharina Labouré'
-    },
-    subtitle: {
-        vi: 'Nữ tu',
-        en: 'Religious',
-        es: 'Religiosa',
-        fr: 'Religieuse',
-        la: 'Religiosa'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Thánh Catherine Labouré sinh ngày 2 tháng 5 năm 1806 tại Pháp. Ngài gia nhập Tu Hội Nữ Tử Bác Ái năm 1830. Chính trong năm đó, ngài đã được diễm phúc thấy Đức Trinh Nữ Maria hiện ra nhiều lần tại nhà nguyện ở Rue du Bac, Paris.
-Trong các lần hiện ra, Đức Mẹ đã trao cho ngài sứ mệnh đúc một mẫu ảnh, sau này được gọi là "Ảnh Hay Phép Lạ", với lời hứa ban nhiều ơn lành cho những ai tin tưởng đeo ảnh này. Sơ Catherine đã sống một cuộc đời âm thầm, khiêm tốn, phục vụ người già và bệnh tật trong suốt 46 năm. Ngài đã giữ bí mật về các cuộc hiện ra cho đến gần cuối đời.
-Ngài qua đời ngày 31 tháng 12 năm 1876. Thi hài không hư nát của ngài được đặt tại nhà nguyện Rue du Bac. Ngài được Đức Giáo Hoàng Piô XII phong thánh vào năm 1947.`,
-          en: `<strong>Biography</strong>
-Saint Catherine Labouré was born on May 2, 1806, in France. She joined the Company of the Daughters of Charity in 1830. In that same year, she was graced with several apparitions of the Blessed Virgin Mary in the chapel on the Rue du Bac, Paris.
-During the apparitions, Our Lady entrusted her with the mission of having a medal struck, which later became known as the "Miraculous Medal," with the promise of great graces for those who wear it with confidence. Sister Catherine lived a hidden and humble life, serving the elderly and the sick for 46 years. She kept the secret of the apparitions until near the end of her life.
-She died on December 31, 1876. Her incorrupt body rests in the chapel on the Rue du Bac. She was canonized by Pope Pius XII in 1947.`,
-          es: `<strong>Biografía</strong>
-Santa Catalina Labouré nació el 2 de mayo de 1806 en Francia. Se unió a la Compañía de las Hijas de la Caridad en 1830. En ese mismo año, fue agraciada con varias apariciones de la Santísima Virgen María en la capilla de la Rue du Bac, París.
-Durante las apariciones, Nuestra Señora le confió la misión de hacer acuñar una medalla, que más tarde se conoció como la "Medalla Milagrosa", con la promesa de grandes gracias para quienes la lleven con confianza. Sor Catalina vivió una vida oculta y humilde, sirviendo a los ancianos y enfermos durante 46 años. Guardó el secreto de las apariciones hasta casi el final de su vida.
-Murió el 31 de diciembre de 1876. Su cuerpo incorrupto descansa en la capilla de la Rue du Bac. Fue canonizada por el Papa Pío XII en 1947.`,
-          fr: `<strong>Biographie</strong>
-Sainte Catherine Labouré est née le 2 mai 1806 en France. Elle entra dans la Compagnie des Filles de la Charité en 1830. La même année, elle eut la grâce de plusieurs apparitions de la Très Sainte Vierge Marie dans la chapelle de la rue du Bac, à Paris.
-Au cours des apparitions, Notre-Dame lui confia la mission de faire frapper une médaille, qui devint plus tard connue sous le nom de "Médaille Miraculeuse", avec la promesse de grandes grâces pour ceux qui la porteraient avec confiance. Sœur Catherine a vécu une vie cachée et humble, servant les personnes âgées et les malades pendant 46 ans. Elle a gardé le secret des apparitions jusqu'à la fin de sa vie.
-Elle est décédée le 31 décembre 1876. Son corps incorrompu repose dans la chapelle de la rue du Bac. Elle a été canonisée par le pape Pie XII en 1947.`,
-          la: `<strong>Vita</strong>
-Sancta Catharina Labouré nata est die 2 Maii 1806 in Gallia. Societatem Filiarum Caritatis anno 1830 intravit. Eodem anno, pluribus apparitionibus Beatae Virginis Mariae in sacello ad Rue du Bac, Lutetiae, gratia affecta est.
-Inter apparitiones, Domina Nostra ei missionem concredidit numisma cudendi, quod postea "Numisma Miraculosum" notum factum est, cum promissione magnarum gratiarum pro iis qui illud cum fiducia gererent. Soror Catharina vitam occultam et humilem vixit, senibus et aegrotis per 46 annos serviens. Secretum apparitionum usque ad finem vitae suae servavit.
-Obiit die 31 Decembris 1876. Corpus eius incorruptum in sacello ad Rue du Bac iacet. A Papa Pio XII anno 1947 canonizata est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
-    },
-  },
-  {
-    id: 'blessed-marcantonio-durando',
-    date: '12-10',
-    title: {
-        vi: 'Chân Phước Mác-can-tô-ni-ô Đu-ran-đô',
-        en: 'Blessed Marcantonio Durando',
-        es: 'Beato Marcantonio Durando',
-        fr: 'Bienheureux Marcantonio Durando',
-        la: 'Beatus Marcus Antonius Durando'
+        vi: 'Chân phước Sác-lơ Đô-mi-nic An-bi-ni',
+        en: 'Bl. Charles-Dominique Albini',
+        es: 'Beato Carlos Domingo Albini',
+        fr: 'Bienheureux Charles-Dominique Albini',
+        la: 'Beatus Carolus Dominicus Albini'
     },
     subtitle: {
         vi: 'Linh mục',
         en: 'Priest',
         es: 'Sacerdote',
         fr: 'Prêtre',
-        la: 'Presbyter'
+        la: 'Sacerdos'
     },
     type: 'Lễ nhớ',
     sections: {
-        biography: {
-          vi: `<strong>Tiểu sử</strong>
-Chân phước Mác-can-tô-ni-ô Đu-ran-đô sinh năm 1801 tại miền bắc nước Ý. Ngài gia nhập Tu Hội Truyền Giáo và được thụ phong linh mục năm 1824. Lòng nhiệt thành truyền giáo của ngài rất lớn, nhưng vì lý do sức khỏe, ngài không thể đi đến các miền đất xa xôi.
-Thay vào đó, ngài đã trở thành một nhà truyền giáo vĩ đại ngay tại quê hương mình. Ngài tổ chức các cuộc đại phúc, giảng dạy và giải tội không mệt mỏi. Ngài đặc biệt quan tâm đến việc phục vụ các Nữ Tử Bác Ái và các hội viên của Hội Bác Ái Vinh Sơn.
-Nhận thấy nhu cầu của những thiếu nữ nghèo và bị bỏ rơi, ngài đã thành lập Dòng các Nữ tu Nazareth vào năm 1865 để chăm sóc và giáo dục họ. Ngài qua đời vào ngày 10 tháng 12 năm 1880. Ngài được Đức Giáo Hoàng Gioan Phaolô II phong chân phước vào năm 2002.`,
-          en: `<strong>Biography</strong>
-Blessed Marcantonio Durando was born in 1801 in northern Italy. He joined the Congregation of the Mission and was ordained a priest in 1824. His missionary zeal was great, but for health reasons, he could not go to foreign missions.
-Instead, he became a great missionary in his own homeland. He organized popular missions, preached, and heard confessions tirelessly. He had a special concern for serving the Daughters of Charity and the members of the Society of Saint Vincent de Paul.
-Seeing the needs of poor and abandoned girls, he founded the Congregation of the Nazarene Sisters in 1865 to care for and educate them. He died on December 10, 1880. He was beatified by Pope John Paul II in 2002.`,
-          es: `<strong>Biografía</strong>
-El Beato Marcantonio Durando nació en 1801 en el norte de Italia. Se unió a la Congregación de la Misión y fue ordenado sacerdote en 1824. Su celo misionero era grande, pero por razones de salud, no pudo ir a misiones extranjeras.
-En cambio, se convirtió en un gran misionero en su propia patria. Organizó misiones populares, predicó y confesó incansablemente. Tenía una preocupación especial por servir a las Hijas de la Caridad y a los miembros de la Sociedad de San Vicente de Paúl.
-Viendo las necesidades de las niñas pobres y abandonadas, fundó la Congregación de las Hermanas Nazarenas en 1865 para cuidarlas y educarlas. Murió el 10 de diciembre de 1880. Fue beatificado por el Papa Juan Pablo II en 2002.`,
-          fr: `<strong>Biographie</strong>
-Le bienheureux Marcantonio Durando est né en 1801 dans le nord de l'Italie. Il entra dans la Congrégation de la Mission et fut ordonné prêtre en 1824. Son zèle missionnaire était grand, mais pour des raisons de santé, il ne put se rendre dans les missions étrangères.
-Au lieu de cela, il devint un grand missionnaire dans sa propre patrie. Il organisa des missions populaires, prêcha et confessa sans relâche. Il se souciait particulièrement de servir les Filles de la Charité et les membres de la Société de Saint-Vincent-de-Paul.
-Voyant les besoins des jeunes filles pauvres et abandonnées, il fonda la Congrégation des Sœurs Nazaréennes en 1865 pour s'occuper d'elles et les éduquer. Il mourut le 10 décembre 1880. Il a été béatifié par le pape Jean-Paul II en 2002.`,
-          la: `<strong>Vita</strong>
-Beatus Marcus Antonius Durando natus est anno 1801 in Italia septentrionali. Congregationem Missionis ingressus est et presbyter anno 1824 ordinatus est. Zelus eius missionarius magnus erat, sed ob rationes sanitatis, ad missiones exteras ire non potuit.
-Proinde, magnus missionarius in patria sua factus est. Missiones populares ordinavit, praedicavit et confessiones indefesse audivit. Specialem curam habuit de Fíliabus Caritatis et sodalibus Societatis Sancti Vincentii a Paulo serviendo.
-Videntes necessitates puellarum pauperum et derelictarum, Congregationem Sororum Nazarenarum anno 1865 condidit ad eas curandas et educandas. Obiit die 10 Decembris 1880. A Papa Ioanne Paulo II anno 2002 beatificatus est.`
-        },
-        massReadings: placeholder,
-        officeOfReadings: placeholder,
-        lauds: placeholder,
-        middayPrayer: placeholder,
-        vespers: placeholder,
-        compline: placeholder,
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'st-joan-antide-thouret',
+    date: '05-23',
+    title: {
+        vi: 'Thánh Nữ Gio-an An-ti-đơ Tu-rê',
+        en: 'St. Joan Antide Thouret',
+        es: 'Santa Juana Antida Thouret',
+        fr: 'Sainte Jeanne-Antide Thouret',
+        la: 'Sancta Ioanna Antida Thouret'
     },
+    subtitle: {
+        vi: 'Nữ tu, Sáng lập Dòng Nữ Tử Bác Ái Besançon',
+        en: 'Religious, Foundress of the Sisters of Charity of Besançon',
+        es: 'Religiosa, Fundadora de las Hermanas de la Caridad de Besanzón',
+        fr: 'Religieuse, Fondatrice des Sœurs de la Charité de Besançon',
+        la: 'Religiosa, Fundatrix Sororum Caritatis Vesuntionensium'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-marta-anna-wiecka',
+    date: '05-30',
+    title: {
+        vi: 'Chân phước Mác-ta An-na Viek-ca',
+        en: 'Bl. Marta Anna Wiecka',
+        es: 'Beata Marta Ana Wiecka',
+        fr: 'Bienheureuse Marta Anna Wiecka',
+        la: 'Beata Martha Anna Wiecka'
+    },
+    subtitle: {
+        vi: 'Nữ Tử Bác Ái',
+        en: 'Daughter of Charity',
+        es: 'Hija de la Caridad',
+        fr: 'Fille de la Charité',
+        la: 'Filia Caritatis'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-justin-de-jacobis',
+    date: '07-31',
+    title: {
+      vi: 'Chân phước Gius-ti-nô đờ Gia-cô-bít',
+      en: 'Bl. Justin de Jacobis',
+      es: 'Beato Justino de Jacobis',
+      fr: 'Bienheureux Justin de Jacobis',
+      la: 'Beatus Iustinus de Iacobis'
+    },
+    subtitle: {
+      vi: 'Giám mục',
+      en: 'Bishop',
+      es: 'Obispo',
+      fr: 'Évêque',
+      la: 'Episcopus'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-ceferino-gimenez-malla',
+    date: '08-04',
+    title: {
+      vi: 'Chân phước Ceferino Giménez Malla',
+      en: 'Bl. Ceferino Giménez Malla',
+      es: 'Beato Ceferino Giménez Malla',
+      fr: 'Bienheureux Ceferino Giménez Malla',
+      la: 'Beatus Ceferinus Giménez Malla'
+    },
+    subtitle: {
+      vi: 'Giáo dân, Tử đạo',
+      en: 'Layman, Martyr',
+      es: 'Laico, Mártir',
+      fr: 'Laïc, Martyr',
+      la: 'Laicus, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: '<strong>Tiểu sử</strong><br>Còn được gọi là "El Pelé", ngài là một người Romani Tây Ban Nha, một nhà buôn ngựa và là một người Công giáo sùng đạo. Là thành viên của Hiệp hội Thánh Vinh Sơn Phaolô, ngài nổi tiếng về sự trung thực, lòng bác ái và đức tin sâu sắc. Trong Nội chiến Tây Ban Nha, ngài bị bắt vì bảo vệ một linh mục và bị xử tử vì từ chối chối bỏ đức tin của mình, tay cầm một tràng chuỗi Mân Côi. Ngài là người Romani đầu tiên được phong chân phước và là thánh bổn mạng cho dân tộc của ngài.',
+        en: '<strong>Biography</strong><br>Known as "El Pelé," he was a Spanish Romani, a horse trader, and a devout Catholic. A member of the Society of St. Vincent de Paul, he was known for his honesty, charity, and deep faith. During the Spanish Civil War, he was arrested for defending a priest and was executed for refusing to renounce his faith, holding a rosary in his hand. He is the first Romani person to be beatified and serves as a patron for his people.',
+        es: '<strong>Biografía</strong><br>Conocido como "El Pelé", fue un gitano español, tratante de caballos y católico devoto. Miembro de la Sociedad de San Vicente de Paúl, era conocido por su honestidad, caridad y profunda fe. Durante la Guerra Civil Española, fue arrestado por defender a un sacerdote y fue ejecutado por negarse a renunciar a su fe, sosteniendo un rosario en su mano. Es la primera persona de etnia gitana en ser beatificada y sirve como patrón para su pueblo.',
+        fr: '<strong>Biographie</strong><br>Connu sous le nom de "El Pelé", il était un Rom espagnol, marchand de chevaux et fervent catholique. Membre de la Société de Saint-Vincent-de-Paul, il était connu pour son honnêteté, sa charité et sa foi profonde. Pendant la guerre civile espagnole, il fut arrêté pour avoir défendu un prêtre et fut exécuté pour avoir refusé de renoncer à sa foi, un chapelet à la main. Il est le premier Rom à être béatifié et sert de patron à son peuple.',
+        la: '<strong>Vita</strong><br>Cognomento "El Pelé" notus, fuit Hispanus e gente Romani, equorum mercator et catholicus devotus. Societatis Sancti Vincentii a Paulo sodalis, honestate, caritate et fide profunda innotuit. Inter Bellum Civile Hispanicum, pro defensione sacerdotis comprehensus est et, quia fidem suam abnegare recusavit, manu sua rosarium tenens, supplicio affectus est. Primus est ex gente Romani beatificatus et patronus populi sui colitur.'
+      },
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-ghebre-michael',
+    date: '08-30',
+    title: {
+        vi: 'Chân phước Ghèbre Michael',
+        en: 'Bl. Ghebre Michael',
+        es: 'Beato Ghebre Michael',
+        fr: 'Bienheureux Ghebre Michael',
+        la: 'Beatus Ghebre Michael'
+    },
+    subtitle: {
+        vi: 'Linh mục, Tử đạo',
+        en: 'Priest, Martyr',
+        es: 'Sacerdote, Mártir',
+        fr: 'Prêtre, Martyr',
+        la: 'Sacerdos, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-louis-joseph-francois',
+    date: '09-02',
+    title: {
+        vi: 'Chân phước Lu-i Giu-se Phan-xi-cô và các bạn tử đạo',
+        en: 'Bl. Louis-Joseph François and Companions, Martyrs',
+        es: 'Beatos Luis José François y Compañeros, Mártires',
+        fr: 'Bienheureux Louis-Joseph François et compagnons, Martyrs',
+        la: 'Beati Ludovicus Iosephus François et Socii Martyres'
+    },
+    subtitle: {
+        vi: 'Các linh mục Tu hội Truyền giáo, tử đạo',
+        en: 'Priests of the Congregation of the Mission, Martyrs',
+        es: 'Sacerdotes de la Congregación de la Misión, Mártires',
+        fr: 'Prêtres de la Congrégation de la Mission, Martyrs',
+        la: 'Sacerdotes Congregationis Missionis, Martyres'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-vincentian-martyrs-spain',
+    date: '09-06',
+    title: {
+        vi: 'Các Chân phước Tử đạo Vinh Sơn tại Tây Ban Nha',
+        en: 'Blessed Vincentian Martyrs of Spain',
+        es: 'Beatos Mártires Vicencianos de España',
+        fr: 'Bienheureux Martyrs Vincentiens d\'Espagne',
+        la: 'Beati Martyres Vincentiani Hispaniae'
+    },
+    subtitle: {
+        vi: 'Linh mục, Tu sĩ, Nữ tu và Giáo dân',
+        en: 'Priests, Brothers, Sisters and Laity',
+        es: 'Sacerdotes, Hermanos, Hermanas y Laicos',
+        fr: 'Prêtres, Frères, Sœurs et Laïcs',
+        la: 'Sacerdotes, Fratres, Sorores et Laici'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-frederic-ozanam',
+    date: '09-09',
+    title: {
+      vi: 'Chân phước Frê-đê-ric Ô-za-nam',
+      en: 'Bl. Frederic Ozanam',
+      es: 'Beato Federico Ozanam',
+      fr: 'Bienheureux Frédéric Ozanam',
+      la: 'Beatus Fridericus Ozanam'
+    },
+    subtitle: {
+      vi: 'Giáo dân',
+      en: 'Layman',
+      es: 'Laico',
+      fr: 'Laïc',
+      la: 'Laicus'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'st-john-gabriel-perboyre',
+    date: '09-11',
+    title: {
+      vi: 'Thánh Gio-an Ga-bri-en Péc-boa',
+      en: 'St. John Gabriel Perboyre',
+      es: 'San Juan Gabriel Perboyre',
+      fr: 'Saint Jean-Gabriel Perboyre',
+      la: 'Sanctus Ioannes Gabriel Perboyre'
+    },
+    subtitle: {
+      vi: 'Linh mục, Tử đạo',
+      en: 'Priest, Martyr',
+      es: 'Sacerdote, Mártir',
+      fr: 'Prêtre, Martyr',
+      la: 'Sacerdos, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: placeholder,
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'st-vincent-de-paul',
+    date: '09-27',
+    title: {
+      vi: 'Thánh Vinh-Sơn Phao-lô',
+      en: 'St. Vincent de Paul',
+      es: 'San Vicente de Paúl',
+      fr: 'Saint Vincent de Paul',
+      la: 'Sanctus Vincentius a Paulo'
+    },
+    subtitle: {
+      vi: 'Linh mục, Sáng lập Tu hội Truyền giáo và Nữ Tử Bác Ái',
+      en: 'Priest, Founder of the Congregation of the Mission and the Daughters of Charity',
+      es: 'Sacerdote, Fundador de la Congregación de la Misión y de las Hijas de la Caridad',
+      fr: 'Prêtre, Fondateur de la Congrégation de la Mission et des Filles de la Charité',
+      la: 'Sacerdos, Fundator Congregationis Missionis et Filiarum Caritatis'
+    },
+    type: 'Đại lễ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+Thánh Vinh Sơn Phaolô sinh năm 1581 tại làng Pouy, nước Pháp, trong một gia đình nông dân nghèo. Với trí thông minh và lòng đạo đức, ngài được gửi đi học và thụ phong linh mục năm 1600.
+Những năm đầu đời linh mục của ngài đầy biến động, bao gồm cả việc bị cướp biển bắt và bán làm nô lệ ở Tunis. Sau khi thoát khỏi, ngài trở về Pháp và bắt đầu nhận ra ơn gọi sâu sắc của mình là phục vụ người nghèo. Ngài làm tuyên úy cho các gia đình quý tộc, nhưng trái tim ngài luôn hướng về những người bị bỏ rơi.
+Năm 1617, tại Folleville, ngài nhận thấy sự thiếu thốn về mặt thiêng liêng của dân chúng nông thôn, một kinh nghiệm đã thúc đẩy ngài thành lập các hội Truyền giáo. Năm 1625, ngài chính thức thành lập Tu hội Truyền giáo (còn gọi là các cha Lazarist hay Vincentians) với mục đích rao giảng Tin Mừng cho người nghèo ở nông thôn và đào tạo hàng giáo sĩ.
+Nhận thấy nhu cầu của những người nghèo khổ và bệnh tật trong các thành phố, ngài đã cùng với Thánh Lu-y-sa đờ Ma-ri-lắc thành lập Tu hội Nữ Tử Bác Ái vào năm 1633. Đây là một hình thức tu trì mới mẻ, nơi các nữ tu sống giữa đời để phục vụ những người khốn khổ nhất.
+Thánh Vinh Sơn được biết đến như là "Người Cha của người nghèo" và là một nhà tổ chức bác ái vĩ đại. Ngài đã thành lập vô số công cuộc bác ái: giúp đỡ trẻ bị bỏ rơi, chăm sóc bệnh nhân, cứu trợ nạn nhân chiến tranh, phục vụ các tù nhân khổ sai.
+Ngài qua đời tại Paris vào ngày 27 tháng 9 năm 1660. Tinh thần bác ái và sự phục vụ người nghèo của ngài đã lan rộng khắp thế giới qua các tu hội và tổ chức do ngài sáng lập. Ngài được Đức Giáo Hoàng Bênêđictô XIII phong thánh năm 1737 và được Đức Giáo Hoàng Lêô XIII tôn làm bổn mạng các Hội Bác ái.`,
+        en: `<strong>Biography</strong>
+St. Vincent de Paul was born in 1581 in the village of Pouy, France, to a poor peasant family. With his intelligence and piety, he was sent to study and was ordained a priest in 1600.
+His early years as a priest were tumultuous, including being captured by pirates and sold into slavery in Tunis. After his escape, he returned to France and began to recognize his deep calling to serve the poor. He served as a chaplain to noble families, but his heart was always with the abandoned.
+In 1617, in Folleville, he recognized the spiritual destitution of the country people, an experience that prompted him to establish Missions. In 1625, he officially founded the Congregation of the Mission (also known as the Lazarists or Vincentians) with the purpose of evangelizing the rural poor and training clergy.
+Seeing the needs of the sick and poor in the cities, he, along with St. Louise de Marillac, founded the Company of the Daughters of Charity in 1633. This was a new form of religious life, where the sisters lived in the world to serve the most miserable.
+St. Vincent became known as "The Father of the Poor" and a great organizer of charity. He established countless charitable works: helping abandoned children, caring for the sick, providing relief to war victims, and serving galley slaves.
+He died in Paris on September 27, 1660. His spirit of charity and service to the poor has spread throughout the world through the congregations and organizations he founded. He was canonized by Pope Benedict XIII in 1737 and declared Patron of all works of charity by Pope Leo XIII.`,
+        es: `<strong>Biografía</strong>
+San Vicente de Paúl nació en 1581 en el pueblo de Pouy, Francia, en una familia de campesinos pobres. Con su inteligencia y piedad, fue enviado a estudiar y fue ordenado sacerdote en 1600.
+Sus primeros años como sacerdote fueron tumultuosos, incluyendo su captura por piratas y su venta como esclavo en Túnez. Tras su escape, regresó a Francia y comenzó a reconocer su profunda vocación de servir a los pobres. Sirvió como capellán de familias nobles, pero su corazón siempre estuvo con los abandonados.
+En 1617, en Folleville, reconoció la miseria espiritual de la gente del campo, una experiencia que lo impulsó a establecer Misiones. En 1625, fundó oficialmente la Congregación de la Misión (también conocidos como Lazaristas o Vicencianos) con el propósito de evangelizar a los pobres del campo y formar al clero.
+Viendo las necesidades de los enfermos y pobres en las ciudades, él, junto con Santa Luisa de Marillac, fundó la Compañía de las Hijas de la Caridad en 1633. Esta fue una nueva forma de vida religiosa, donde las hermanas vivían en el mundo para servir a los más desdichados.
+San Vicente se hizo conocido como "El Padre de los Pobres" y un gran organizador de la caridad. Estableció innumerables obras de caridad: ayudar a niños abandonados, cuidar a los enfermos, proporcionar alivio a las víctimas de la guerra y servir a los galeotes.
+Murió en París el 27 de septiembre de 1660. Su espíritu de caridad y servicio a los pobres se ha extendido por todo el mundo a través de las congregaciones y organizaciones que fundó. Fue canonizado por el Papa Benedicto XIII en 1737 y declarado Patrono de todas las obras de caridad por el Papa León XIII.`,
+        fr: `<strong>Biographie</strong>
+Saint Vincent de Paul est né en 1581 dans le village de Pouy, en France, dans une famille de paysans pauvres. Doué d'intelligence et de piété, il fut envoyé étudier et fut ordonné prêtre en 1600.
+Ses premières années de sacerdoce furent tumultueuses, y compris sa capture par des pirates et sa vente comme esclave à Tunis. Après son évasion, il retourna en France et commença à reconnaître sa profonde vocation de servir les pauvres. Il fut aumônier de familles nobles, mais son cœur était toujours avec les abandonnés.
+En 1617, à Folleville, il prit conscience de la misère spirituelle des gens de la campagne, une expérience qui le poussa à établir des Missions. En 1625, il fonda officiellement la Congrégation de la Mission (également connue sous le nom de Lazaristes ou Vincentiens) dans le but d'évangéliser les pauvres des campagnes et de former le clergé.
+Voyant les besoins des malades et des pauvres dans les villes, il fonda, avec sainte Louise de Marillac, la Compagnie des Filles de la Charité en 1633. C'était une nouvelle forme de vie religieuse, où les sœurs vivaient dans le monde pour servir les plus misérables.
+Saint Vincent devint connu comme "Le Père des Pauvres" et un grand organisateur de la charité. Il créa d'innombrables œuvres de charité : aide aux enfants abandonnés, soins aux malades, secours aux victimes de la guerre et service des galériens.
+Il mourut à Paris le 27 septembre 1660. Son esprit de charité et de service aux pauvres s'est répandu dans le monde entier à travers les congrégations et les organisations qu'il a fondées. Il fut canonisé par le pape Benoît XIII en 1737 et déclaré Patron de toutes les œuvres de charité par le pape Léon XIII.`,
+        la: `<strong>Vita</strong>
+Sanctus Vincentius a Paulo natus est anno 1581 in vico Pouy, in Gallia, ex familia paupere rustica. Intellectu et pietate praeditus, ad studia missus est et anno 1600 sacerdos ordinatus est.
+Primi anni sacerdotii eius tumultuosi fuerunt, inter quos a piratis captus et in Tunete in servitutem venditus est. Postquam effugit, in Galliam rediit et profundam suam vocationem ad serviendum pauperibus agnoscere coepit. Cappellanus familiis nobilibus inservivit, sed cor eius semper cum derelictis erat.
+Anno 1617, in Folleville, spiritualem egestatem rusticorum agnovit, quae experientia eum ad Missiones instituendas impulit. Anno 1625, Congregationem Missionis (etiam Lazaristas vel Vincentianos dictam) officialiter fundavit, eo consilio ut pauperes rusticos evangelizaret et clerum institueret.
+Necessitates infirmorum et pauperum in urbibus videns, una cum Sancta Ludovica de Marillac, Societatem Filiarum Caritatis anno 1633 fundavit. Haec nova forma vitae religiosae fuit, ubi sorores in saeculo vivebant ut miserrimis servirent.
+Sanctus Vincentius "Pater Pauperum" et magnus caritatis ordinator notus factus est. Innumerabilia opera caritatis instituit: auxilium pueris derelictis, curam infirmorum, subsidium victimis belli et servitium in triremibus damnatorum.
+Lutetiae Parisiorum obiit die 27 Septembris 1660. Spiritus eius caritatis et servitii erga pauperes per congregationes et societates ab eo fundatas in toto orbe diffusus est. A Benedicto Papa XIII anno 1737 canonizatus est et a Leone Papa XIII Patronus omnium operum caritatis declaratus est.`
+      },
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+<strong>Ca nhập lễ (Lc 4, 18)</strong>
+Thần Khí Chúa ngự trên tôi, vì Chúa đã xức dầu tấn phong tôi, để tôi loan báo Tin Mừng cho kẻ nghèo hèn.
+<strong>Lời nguyện nhập lễ</strong>
+Lạy Thiên Chúa toàn năng hằng hữu, Chúa đã ban cho thánh Vinh Sơn linh mục lòng nhân ái của Chúa, để ngài chăm lo cho người nghèo và đào tạo hàng giáo sĩ. Xin cho chúng con, khi thấm nhuần tinh thần của ngài, cũng biết yêu mến những gì ngài đã yêu mến, và thực hành những gì ngài đã dạy. Chúng con cầu xin.
+<strong>Bài đọc (1 Cr 1, 26-31)</strong>
+<em>Bài trích thư thứ nhất của thánh Phaolô tông đồ gửi tín hữu Côrintô.</em>
+Thưa anh em, anh em thử nghĩ lại xem: khi anh em được Chúa kêu gọi, thì trong anh em đâu có mấy người khôn ngoan về phần xác, đâu có mấy người quyền thế, mấy người quý phái. Song những gì thế gian cho là điên dại, thì Thiên Chúa đã chọn để hạ nhục những kẻ khôn ngoan, và những gì thế gian cho là yếu kém, thì Thiên Chúa đã chọn để hạ nhục những kẻ hùng mạnh; những gì thế gian cho là hèn mạt không đáng kể, là không có, thì Thiên Chúa đã chọn để hủy diệt những gì hiện có, hầu không một phàm nhân nào dám tự phụ trước mặt Người. Phần anh em, chính nhờ Thiên Chúa mà anh em được hiện hữu trong Đức Kitô Giêsu, Đấng đã trở nên sự khôn ngoan của chúng ta, sự khôn ngoan đến từ Thiên Chúa, Đấng đã làm cho chúng ta được công chính, được thánh hóa và cứu chuộc. Như vậy, đúng như lời đã chép: Ai tự hào thì hãy tự hào trong Chúa.
+<strong>Đáp ca (Tv 111)</strong>
+<strong>Đ. Phúc thay người biết thương xót và cho vay mượn.</strong>
+Phúc thay người sợ Chúa, hằng vui thú với lề luật Người. Giống dõi người sẽ hùng cường trên mặt đất, dòng dõi kẻ ngay lành được Chúa thương giáng phúc. <strong>Đ.</strong>
+Người nhân hậu thì gặp được may mắn, vì biết đắn đo cân nhắc mọi việc mình làm. Người công chính sẽ không bao giờ nao núng, và được muôn đời ghi nhớ. <strong>Đ.</strong>
+Lòng nhân hậu, người chia cơm sẻ áo cho người nghèo khó. Đức công chính của người tồn tại muôn đời, và uy thế người vươn cao rực rỡ. <strong>Đ.</strong>
+<strong>Tung hô Tin Mừng (Lc 4, 18)</strong>
+Ha-lê-lu-i-a. Ha-lê-lu-i-a. Chúa đã sai tôi đi loan báo Tin Mừng cho người nghèo, công bố cho kẻ bị giam cầm biết họ được tha, cho người mù biết họ được sáng mắt. Ha-lê-lu-i-a.
+<strong>Tin Mừng (Mt 25, 31-40)</strong>
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu.</strong>
+Khi ấy, Đức Giêsu nói với các môn đệ rằng: “Khi Con Người đến trong vinh quang của Người, có tất cả các thiên sứ theo hầu, bấy giờ Người sẽ ngự trên ngai vinh hiển của Người. Các dân thiên hạ sẽ được tập hợp cả lại trước mặt Người, và Người sẽ tách riêng họ ra, như mục tử tách biệt chiên với dê. Người sẽ cho chiên đứng bên phải Người, còn dê ở bên trái. Bấy giờ Đức Vua sẽ phán cùng những người ở bên phải rằng: “Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng Vương Quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. Vì xưa Ta đói, các ngươi đã cho ăn; Ta khát, các ngươi đã cho uống; Ta là khách lạ, các ngươi đã tiếp rước; Ta trần truồng, các ngươi đã cho mặc; Ta đau yếu, các ngươi đã thăm viếng; Ta ngồi tù, các ngươi đến hỏi han”. Bấy giờ những người công chính sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói mà cho ăn, khát mà cho uống; có bao giờ đã thấy Chúa là khách lạ mà tiếp rước; hoặc trần truồng mà cho mặc? Có bao giờ chúng con đã thấy Chúa đau yếu hoặc ngồi tù, mà đến hỏi han đâu?”. Đức Vua sẽ đáp lại rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
+<strong>Lời nguyện tiến lễ</strong>
+Lạy Chúa, xin thương nhận lễ vật chúng con dâng trong ngày lễ kính thánh Vinh Sơn, và cho chúng con biết noi gương ngài, hiến dâng trọn cả cuộc đời để làm vinh danh Chúa và cứu độ muôn dân. Chúng con cầu xin.
+<strong>Ca hiệp lễ (Tv 9, 10)</strong>
+Chúa là nơi ẩn náu cho người bị áp bức, là nơi nương tựa trong lúc gian truân.
+<strong>Lời nguyện hiệp lễ</strong>
+Lạy Chúa, chúng con vừa cử hành hy lễ tình yêu của Đức Kitô. Xin cho chúng con, trong ngày lễ kính thánh Vinh Sơn, được đầy tràn sức mạnh của bí tích này, để luôn sẵn sàng loan báo Tin Mừng cho người nghèo. Chúng con cầu xin.`,
+        en: `<strong>MASS</strong>
+<strong>Entrance Antiphon (Lk 4:18)</strong>
+The Spirit of the Lord is upon me, for he has anointed me to bring good news to the poor.
+<strong>Collect</strong>
+O God, who for the relief of the poor and the formation of the clergy endowed the Priest Saint Vincent de Paul with apostolic virtues, grant, we pray, that, afire with that same spirit, we may love what he loved and put into practice what he taught. Through our Lord Jesus Christ, your Son.
+<strong>Reading (1 Cor 1:26-31)</strong>
+<em>A reading from the first Letter of Saint Paul to the Corinthians.</em>
+Consider your own calling, brothers. Not many of you were wise by human standards, not many were powerful, not many were of noble birth. Rather, God chose the foolish of the world to shame the wise, and God chose the weak of the world to shame the strong, and God chose the lowly and despised of the world, those who count for nothing, to reduce to nothing those who are something, so that no human being might boast before God. It is due to him that you are in Christ Jesus, who became for us wisdom from God, as well as righteousness, sanctification, and redemption, so that, as it is written, “Whoever boasts, should boast in the Lord.”
+<strong>Responsorial Psalm (Ps 112)</strong>
+<strong>R. Blessed the man who is gracious and lends to those in need.</strong>
+Blessed the man who fears the LORD, who greatly delights in his commands. His descendants shall be mighty in the land, the generation of the upright will be blessed. <strong>R.</strong>
+Well for the man who is gracious and lends, who conducts his affairs with justice. He shall never be moved; the just one shall be in everlasting remembrance. <strong>R.</strong>
+Lavishly he gives to the poor; his generosity shall endure forever; his horn shall be exalted in glory. <strong>R.</strong>
+<strong>Gospel Acclamation (Lk 4:18)</strong>
+Alleluia, alleluia. The Lord sent me to bring glad tidings to the poor and to proclaim liberty to captives. Alleluia, alleluia.
+<strong>Gospel (Mt 25:31-40)</strong>
+<strong>A reading from the holy Gospel according to Matthew.</strong>
+Jesus said to his disciples: “When the Son of Man comes in his glory, and all the angels with him, he will sit upon his glorious throne, and all the nations will be assembled before him. And he will separate them one from another, as a shepherd separates the sheep from the goats. He will place the sheep on his right and the goats on his left. Then the king will say to those on his right, ‘Come, you who are blessed by my Father. Inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, a stranger and you welcomed me, naked and you clothed me, ill and you cared for me, in prison and you visited me.’ Then the righteous will answer him and say, ‘Lord, when did we see you hungry and feed you, or thirsty and give you drink? When did we see you a stranger and welcome you, or naked and clothe you? When did we see you ill or in prison, and visit you?’ And the king will say to them in reply, ‘Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.’”
+<strong>Prayer over the Offerings</strong>
+Accept, O Lord, this sacrifice on the feast of Saint Vincent, and grant that we who celebrate the mystery of the Lord’s passion may imitate what we now enact. Through Christ our Lord.
+<strong>Communion Antiphon (Ps 9:10)</strong>
+The Lord is a stronghold for the oppressed, a stronghold in times of trouble.
+<strong>Prayer after Communion</strong>
+Having received the sacrament of salvation, we ask, O Lord, on the feast of Saint Vincent, that we, who have partaken of the one bread, may stand as one in your love, and so bring the Good News to the poor. Through Christ our Lord.`,
+        es: `<strong>MISA</strong>
+<strong>Antífona de entrada (Lc 4, 18)</strong>
+El Espíritu del Señor está sobre mí, porque me ha ungido para anunciar la Buena Nueva a los pobres.
+<strong>Oración colecta</strong>
+Oh, Dios, que para el alivio de los pobres y la formación del clero dotaste al presbítero san Vicente de Paúl de virtudes apostólicas, concédenos, te rogamos, que, inflamados por ese mismo espíritu, amemos lo que él amó y pongamos en práctica lo que enseñó. Por nuestro Señor Jesucristo, tu Hijo.
+<strong>Lectura (1 Cor 1, 26-31)</strong>
+<em>Lectura de la primera carta del apóstol san Pablo a los Corintios.</em>
+Hermanos, considerad vuestra vocación. No hay muchos sabios según la carne, ni muchos poderosos, ni muchos de noble cuna. Al contrario, Dios eligió lo necio del mundo para avergonzar a los sabios, y Dios eligió lo débil del mundo para avergonzar a los fuertes, y Dios eligió lo vil y despreciado del mundo, lo que no cuenta, para anular a lo que es, para que nadie pueda gloriarse ante Dios. Por él estáis en Cristo Jesús, que se ha hecho para nosotros sabiduría de Dios, justicia, santificación y redención, para que, como está escrito: «El que se gloría, que se gloríe en el Señor».
+<strong>Salmo responsorial (Sal 112)</strong>
+<strong>R. Dichoso el que se compadece y presta.</strong>
+Dichoso el que teme al Señor y ama de corazón sus mandatos. Su linaje será poderoso en la tierra, la descendencia del justo será bendita. <strong>R.</strong>
+Dichoso el que se compadece y presta, y administra rectamente sus asuntos. El justo jamás vacilará, su recuerdo será perpetuo. <strong>R.</strong>
+Reparte limosna a los pobres; su caridad es constante, sin falta, y alzará la frente con dignidad. <strong>R.</strong>
+<strong>Aclamación del Evangelio (Lc 4, 18)</strong>
+Aleluya, aleluya. El Señor me ha enviado para dar la Buena Noticia a los pobres, para anunciar la libertad a los cautivos. Aleluya, aleluya.
+<strong>Evangelio (Mt 25, 31-40)</strong>
+<strong>Lectura del santo Evangelio según san Mateo.</strong>
+En aquel tiempo, dijo Jesús a sus discípulos: «Cuando venga en su gloria el Hijo del hombre, y todos los ángeles con él, se sentará en el trono de su gloria y serán reunidas ante él todas las naciones. Él separará a unos de otros, como un pastor separa las ovejas de las cabras. Y pondrá las ovejas a su derecha y las cabras a su izquierda. Entonces dirá el rey a los de su derecha: “Venid, benditos de mi Padre; heredad el reino preparado para vosotros desde la creación del mundo. Porque tuve hambre y me disteis de comer, tuve sed y me disteis de beber, fui forastero y me hospedasteis, estuve desnudo y me vestisteis, enfermo y me visitasteis, en la cárcel y vinisteis a verme”. Entonces los justos le contestarán: “Señor, ¿cuándo te vimos con hambre y te alimentamos, o con sed y te dimos de beber?; ¿cuándo te vimos forastero y te hospedamos, o desnudo y te vestimos?; ¿cuándo te vimos enfermo o en la cárcel y fuimos a verte?”. Y el rey les dirá: “Os aseguro que cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis”».
+<strong>Oración sobre las ofrendas</strong>
+Acepta, Señor, este sacrificio en la fiesta de san Vicente, y concédenos que, al celebrar el misterio de la pasión del Señor, imitemos lo que ahora realizamos. Por Cristo, nuestro Señor.
+<strong>Antífona de comunión (Sal 9, 10)</strong>
+El Señor es un baluarte para el oprimido, un baluarte en tiempos de angustia.
+<strong>Oración después de la comunión</strong>
+Habiendo recibido el sacramento de la salvación, te pedimos, oh Señor, en la fiesta de san Vicente, que nosotros, que hemos participado del único pan, permanezcamos como uno solo en tu amor, y así llevemos la Buena Nueva a los pobres. Por Cristo, nuestro Señor.`,
+        fr: `<strong>MESSE</strong>
+<strong>Antienne d'ouverture (Lc 4, 18)</strong>
+L'Esprit du Seigneur est sur moi, car il m'a oint pour annoncer la Bonne Nouvelle aux pauvres.
+<strong>Prière d'ouverture</strong>
+Dieu qui, pour le soulagement des pauvres et la formation du clergé, as comblé le prêtre saint Vincent de Paul de vertus apostoliques, accorde-nous, nous t'en prions, qu'enflammés du même esprit, nous aimions ce qu'il a aimé et mettions en pratique ce qu'il a enseigné. Par Jésus Christ, ton Fils.
+<strong>Lecture (1 Co 1, 26-31)</strong>
+<em>Lecture de la première lettre de saint Paul apôtre aux Corinthiens.</em>
+Frères, considérez votre appel. Il n'y a pas parmi vous beaucoup de sages selon la chair, ni beaucoup de puissants, ni beaucoup de gens de haute naissance. Au contraire, ce qu'il y a de fou dans le monde, voilà ce que Dieu a choisi pour couvrir de confusion les sages ; ce qu'il y a de faible dans le monde,`,
+      },
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'all-vincentian-saints',
+    date: '11-13',
+    title: {
+      vi: 'Lễ Các Thánh trong Gia đình Vinh Sơn',
+      en: 'Feast of All Saints of the Vincentian Family',
+      es: 'Fiesta de Todos los Santos de la Familia Vicenciana',
+      fr: 'Fête de Tous les Saints de la Famille Vincentienne',
+      la: 'Festum Omnium Sanctorum Familiae Vincentianae'
+    },
+    subtitle: {
+      vi: 'Kính nhớ các Thánh và Chân phước',
+      en: 'In memory of all Saints and Blesseds',
+      es: 'En memoria de todos los Santos y Beatos',
+      fr: 'En mémoire de tous les Saints et Bienheureux',
+      la: 'In memoria omnium Sanctorum et Beatorum'
+    },
+    type: 'Lễ kính',
+    sections: {
+      biography: {
+        vi: '<strong>Tiểu sử</strong><br>Ngày lễ này tôn vinh sự thánh thiện được tìm thấy trong toàn thể Gia đình Vinh Sơn rộng lớn. Lễ này tôn vinh tất cả các vị thánh đã được tuyên thánh, các chân phước, và vô số các thành viên vô danh—linh mục, tu sĩ, nữ tu, và giáo dân—những người đã sống đặc sủng bác ái và truyền giáo của Vinh Sơn với nhân đức anh hùng. Đây là một ngày để tạ ơn vì tấm gương của các ngài và để cầu xin sự chuyển cầu của các ngài khi chúng ta tiếp tục sứ mạng của Thánh Vinh Sơn Phaolô trong việc phục vụ Đức Kitô nơi người nghèo.',
+        en: '<strong>Biography</strong><br>This feast celebrates the holiness found throughout the vast Vincentian Family. It honors all the canonized saints, blesseds, and the countless unknown members—priests, brothers, sisters, and laity—who lived the Vincentian charism of charity and evangelization with heroic virtue. It is a day to give thanks for their example and to ask for their intercession as we continue the mission of St. Vincent de Paul in serving Christ in the person of the poor.',
+        es: '<strong>Biografía</strong><br>Esta fiesta celebra la santidad que se encuentra en toda la vasta Familia Vicenciana. Honra a todos los santos canonizados, a los beatos y a los innumerables miembros desconocidos —sacerdotes, hermanos, hermanas y laicos— que vivieron el carisma vicenciano de caridad y evangelización con virtud heroica. Es un día para dar gracias por su ejemplo y para pedir su intercesión mientras continuamos la misión de San Vicente de Paúl de servir a Cristo en la persona de los pobres.',
+        fr: '<strong>Biographie</strong><br>Cette fête célèbre la sainteté présente dans toute la vaste Famille Vincentienne. Elle honore tous les saints canonisés, les bienheureux et les innombrables membres inconnus —prêtres, frères, sœurs et laïcs— qui ont vécu le charisme vincentien de charité et d\'évangélisation avec une vertu héroïque. C\'est un jour pour rendre grâce pour leur exemple et pour demander leur intercession alors que nous poursuivons la mission de saint Vincent de Paul de servir le Christ en la personne des pauvres.',
+        la: '<strong>Vita</strong><br>Hoc festum sanctitatem in tota ampla Familia Vincentiana inventam celebrat. Honorat omnes sanctos canonizatos, beatos, et innumerabiles sodales ignotos —sacerdotes, fratres, sorores et laicos— qui charisma Vincentianum caritatis et evangelizationis cum virtute heroica vixerunt. Dies est ad gratias agendas pro eorum exemplo et ad eorum intercessionem petendam, dum missionem Sancti Vincentii a Paulo in serviendo Christo in persona pauperum continuamus.'
+      },
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'our-lady-miraculous-medal',
+    date: '11-27',
+    title: {
+      vi: 'Đức Mẹ Ban Ơn (Mẫu Ảnh Hay Làm Phép Lạ)',
+      en: 'Our Lady of the Miraculous Medal',
+      es: 'Nuestra Señora de la Medalla Milagrosa',
+      fr: 'Notre-Dame de la Médaille Miraculeuse',
+      la: 'Beata Maria Virgo a Sacro Numismate'
+    },
+    subtitle: {
+      vi: 'Lễ hiện ra của Đức Trinh Nữ Maria',
+      en: 'Apparition of the Blessed Virgin Mary',
+      es: 'Aparición de la Santísima Virgen María',
+      fr: 'Apparition de la Bienheureuse Vierge Marie',
+      la: 'Apparitio Beatae Mariae Virginis'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: '<strong>Lịch sử</strong><br>Lễ này kỷ niệm các lần Đức Trinh Nữ Maria hiện ra với Thánh Nữ Ca-ta-ri-na La-bu-rê, một Nữ Tử Bác Ái, vào năm 1830 tại nhà nguyện trên đường Rue du Bac ở Paris. Trong các lần hiện ra này, Mẹ Maria đã tiết lộ mẫu thiết kế của một mẫu ảnh và yêu cầu làm ra nó. Mẫu ảnh này, nay được gọi là Mẫu Ảnh Hay Làm Phép Lạ, có hình Mẹ Maria đứng trên quả địa cầu, với các tia sáng phát ra từ tay Mẹ, và dòng chữ: "Lạy Mẹ Maria vô nhiễm nguyên tội, xin cầu cho chúng con là kẻ chạy đến cùng Mẹ". Mặt sau có hình một cây thánh giá và chữ "M" lồng vào nhau, với Thánh Tâm Chúa Giêsu và Trái Tim Vô Nhiễm Mẹ Maria bên dưới. Mẫu ảnh nhanh chóng lan truyền khắp thế giới, gắn liền với vô số các ơn hoán cải, chữa lành và bảo vệ, do đó có tên gọi phổ biến này. Lòng sùng kính này là trung tâm của linh đạo Gia đình Vinh Sơn.',
+        en: '<strong>History</strong><br>This feast commemorates the apparitions of the Blessed Virgin Mary to Saint Catherine Labouré, a Daughter of Charity, in 1830 at the chapel on Rue du Bac in Paris. During these apparitions, Mary revealed the design of a medal and asked that it be struck. The medal, now known as the Miraculous Medal, features Mary standing on a globe, with rays of light streaming from her hands, and the inscription: "O Mary, conceived without sin, pray for us who have recourse to thee." The reverse shows a cross and the letter "M" intertwined, with the Sacred Heart of Jesus and the Immaculate Heart of Mary below. The medal quickly spread throughout the world, associated with numerous conversions, healings, and protections, earning it its popular name. This devotion is central to the spirituality of the Vincentian Family.',
+        es: '<strong>Historia</strong><br>Esta fiesta conmemora las apariciones de la Santísima Virgen María a Santa Catalina Labouré, una Hija de la Caridad, en 1830 en la capilla de la Rue du Bac en París. Durante estas apariciones, María reveló el diseño de una medalla y pidió que se acuñara. La medalla, ahora conocida como la Medalla Milagrosa, presenta a María de pie sobre un globo, con rayos de luz que emanan de sus manos, y la inscripción: "Oh María, sin pecado concebida, ruega por nosotros que recurrimos a ti". El reverso muestra una cruz y la letra "M" entrelazadas, con el Sagrado Corazón de Jesús y el Inmaculado Corazón de María debajo. La medalla se difundió rápidamente por todo el mundo, asociada con numerosas conversiones, curaciones y protecciones, ganándose su nombre popular. Esta devoción es central en la espiritualidad de la Familia Vicenciana.',
+        fr: '<strong>Histoire</strong><br>Cette fête commémore les apparitions de la Bienheureuse Vierge Marie à sainte Catherine Labouré, une Fille de la Charité, en 1830 à la chapelle de la rue du Bac à Paris. Au cours de ces apparitions, Marie a révélé le dessin d\'une médaille et a demandé qu\'elle soit frappée. La médaille, maintenant connue sous le nom de Médaille Miraculeuse, représente Marie debout sur un globe, des rayons de lumière émanant de ses mains, et l\'inscription : "Ô Marie, conçue sans péché, priez pour nous qui avons recours à vous". Le revers montre une croix et la lettre "M" entrelacées, avec le Sacré-Cœur de Jésus et le Cœur Immaculé de Marie en dessous. La médaille s\'est rapidement répandue dans le monde entier, associée à de nombreuses conversions, guérisons et protections, ce qui lui a valu son nom populaire. Cette dévotion est au cœur de la spiritualité de la Famille Vincentienne.',
+        la: '<strong>Historia</strong><br>Hoc festum apparitiones Beatae Mariae Virginis ad Sanctam Catharinam Labouré, Filiam Caritatis, anno 1830 in sacello ad Rue du Bac Lutetiae Parisiorum commemorat. In his apparitionibus, Maria formam numismatis revelavit et ut cuderetur petiit. Numisma, nunc Sacrum Numisma Miraculosum notum, Mariam super globum stantem effingit, cum radiis lucis e manibus eius fluentibus, et inscriptione: "O Maria, sine labe concepta, ora pro nobis qui ad te confugimus". Aversa pars crucem et litteram "M" inter se implexas ostendit, cum Sacratissimo Corde Iesu et Immaculato Corde Mariae infra. Numisma celeriter per orbem terrarum diffusum est, cum plurimis conversionibus, sanationibus et praesidiis coniunctum, unde nomen populare accepit. Haec devotio centralis est in spiritualitate Familiae Vincentianae.'
+      },
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'st-catherine-laboure',
+    date: '11-28',
+    title: {
+      vi: 'Thánh Nữ Ca-ta-ri-na La-bu-rê',
+      en: 'St. Catherine Labouré',
+      es: 'Santa Catalina Labouré',
+      fr: 'Sainte Catherine Labouré',
+      la: 'Sancta Catharina Labouré'
+    },
+    subtitle: {
+      vi: 'Nữ Tử Bác Ái, Thị nhân',
+      en: 'Daughter of Charity, Visionary',
+      es: 'Hija de la Caridad, Vidente',
+      fr: 'Fille de la Charité, Visionnaire',
+      la: 'Filia Caritatis, Visionaria'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: '<strong>Tiểu sử</strong><br>Là một Nữ Tử Bác Ái khiêm tốn tại Paris, vào năm 1830, thánh nữ đã được diễm phúc thấy Đức Trinh Nữ Maria hiện ra, và Mẹ đã chỉ dẫn ngài làm một mẫu ảnh. Mẫu ảnh này, được biết đến với tên gọi Mẫu Ảnh Hay Làm Phép Lạ, đã nhanh chóng lan rộng khắp thế giới, trở thành một biểu tượng của đức tin và là nguồn mạch của vô số ân sủng. Thánh Ca-ta-ri-na đã dành phần còn lại của cuộc đời mình để âm thầm phục vụ người già và người bệnh, và những lần được thị kiến của ngài vẫn là một bí mật cho đến khi ngài sắp qua đời.',
+        en: '<strong>Biography</strong><br>A humble Daughter of Charity in Paris, in 1830 she received visions of the Blessed Virgin Mary, who instructed her to have a medal created. This medal, known as the Miraculous Medal, spread rapidly throughout the world, becoming a symbol of faith and a source of countless graces. Catherine spent the rest of her life in quiet service to the elderly and sick, her visionary experiences remaining a secret until shortly before her death.',
+        es: '<strong>Biografía</strong><br>Humilde Hija de la Caridad en París, en 1830 recibió visiones de la Santísima Virgen María, quien le instruyó que se creara una medalla. Esta medalla, conocida como la Medalla Milagrosa, se difundió rápidamente por todo el mundo, convirtiéndose en un símbolo de fe y una fuente de innumerables gracias. Catalina pasó el resto de su vida en un servicio silencioso a los ancianos y enfermos, manteniendo sus experiencias visionarias en secreto hasta poco antes de su muerte.',
+        fr: '<strong>Biographie</strong><br>Humble Fille de la Charité à Paris, elle reçut en 1830 des visions de la Sainte Vierge Marie, qui lui demanda de faire frapper une médaille. Cette médaille, connue sous le nom de Médaille Miraculeuse, se répandit rapidement dans le monde entier, devenant un symbole de foi et une source de grâces innombrables. Catherine passa le reste de sa vie au service discret des personnes âgées et des malades, ses expériences visionnaires restant secrètes jusqu\'à peu de temps avant sa mort.',
+        la: '<strong>Vita</strong><br>Humilis Filia Caritatis Lutetiae Parisiorum, anno 1830 apparitiones Beatae Virginis Mariae accepit, quae eam instruxit ut numisma cudendum curaret. Hoc numisma, nomine Numismatis Miraculosi notum, celeriter per totum orbem diffusum est, symbolum fidei et fons gratiarum innumerabilium factum. Catharina reliquam vitam suam in quieto servitio senum et aegrotorum transegit, visionariis suis experimentis usque paulo ante mortem secretis manentibus.'
+      },
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'founding-dc',
+    date: '11-29',
+    title: {
+      vi: 'Kỷ niệm Thành lập Tu hội Nữ Tử Bác Ái',
+      en: 'Commemoration of the Founding of the Daughters of Charity',
+      es: 'Conmemoración de la Fundación de las Hijas de la Caridad',
+      fr: 'Commémoration de la Fondation des Filles de la Charité',
+      la: 'Commemoratio Fundationis Filiarum Caritatis'
+    },
+    subtitle: {
+      vi: 'Ngày 29 tháng 11 năm 1633',
+      en: 'November 29, 1633',
+      es: '29 de noviembre de 1633',
+      fr: '29 novembre 1633',
+      la: '29 Novembris 1633'
+    },
+    type: 'Kỷ niệm',
+    sections: {
+      biography: {
+        vi: '<strong>Lịch sử</strong><br>Vào ngày 29 tháng 11 năm 1633, dưới sự hướng dẫn của Thánh Vinh Sơn Phaolô và Thánh Lu-y-sa đờ Ma-ri-lắc, các Nữ Tử Bác Ái đầu tiên đã dâng hiến cuộc đời mình cho Thiên Chúa để phục vụ những người nghèo nhất trong những người nghèo. Cộng đoàn mới này mang tính cách mạng: họ không phải là các nữ tu dòng kín mà là "những người tôi tớ của người nghèo", những người có "các đường phố của thành thị làm tu viện". Sự thành lập của họ đã đánh dấu một thời điểm quan trọng trong lịch sử đời sống tu trì tông đồ cho phụ nữ trong Giáo Hội.',
+        en: '<strong>History</strong><br>On November 29, 1633, under the guidance of St. Vincent de Paul and St. Louise de Marillac, the first Daughters of Charity dedicated their lives to God to serve the poorest of the poor. This new community was revolutionary: they were not cloistered nuns but "servants of the poor" who had "the streets of the city for their cloister." Their foundation marked a pivotal moment in the history of apostolic religious life for women in the Church.',
+        es: '<strong>Historia</strong><br>El 29 de noviembre de 1633, bajo la guía de San Vicente de Paúl y Santa Luisa de Marillac, las primeras Hijas de la Caridad dedicaron sus vidas a Dios para servir a los más pobres de los pobres. Esta nueva comunidad fue revolucionaria: no eran monjas de clausura sino "siervas de los pobres" que tenían "las calles de la ciudad por claustro". Su fundación marcó un momento crucial en la historia de la vida religiosa apostólica para las mujeres en la Iglesia.',
+        fr: '<strong>Histoire</strong><br>Le 29 novembre 1633, sous la direction de saint Vincent de Paul et de sainte Louise de Marillac, les premières Filles de la Charité consacrèrent leur vie à Dieu pour servir les plus pauvres des pauvres. Cette nouvelle communauté était révolutionnaire : elles n\'étaient pas des religieuses cloîtrées mais des "servantes des pauvres" qui avaient "pour cloître les rues de la ville". Leur fondation marqua un moment décisif dans l\'histoire de la vie religieuse apostolique féminine dans l\'Église.',
+        la: '<strong>Historia</strong><br>Die 29 Novembris 1633, sub ductu Sanctorum Vincentii a Paulo et Ludovicae de Marillac, primae Filiae Caritatis vitam suam Deo dicaverunt ad pauperrimos serviendum. Haec nova communitas revolutionaria fuit: non moniales clausurae sed "servae pauperum" erant, quae "plateas civitatis pro claustro" habebant. Fundatio earum momentum praecipuum in historia vitae religiosae apostolicae pro mulieribus in Ecclesia notavit.'
+      },
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+  },
+  {
+    id: 'bl-marcantonio-durando',
+    date: '12-10',
+    title: {
+      vi: 'Chân phước Marcantonio Durando',
+      en: 'Bl. Marcantonio Durando',
+      es: 'Beato Marcantonio Durando',
+      fr: 'Bienheureux Marcantonio Durando',
+      la: 'Beatus Marcus Antonius Durando'
+    },
+    subtitle: {
+      vi: 'Linh mục',
+      en: 'Priest',
+      es: 'Sacerdote',
+      fr: 'Prêtre',
+      la: 'Sacerdos'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: '<strong>Tiểu sử</strong><br>Là một linh mục Tu hội Truyền giáo đến từ miền bắc nước Ý, ngài là một nhà truyền giáo và nhà giảng thuyết không mệt mỏi. Vô cùng xúc động trước hoàn cảnh của các thiếu nữ gặp nguy hiểm, ngài đã thành lập Dòng các Nữ tu Nazarene vào năm 1865 để phục vụ họ. Ngài được biết đến với lòng sùng kính sâu sắc Cuộc Thương Khó của Chúa Kitô và sự tận tâm nhiệt thành với sứ mạng Vinh Sơn là phục vụ cả nhu cầu thiêng liêng và vật chất của người nghèo.',
+        en: '<strong>Biography</strong><br>A Vincentian priest from northern Italy, he was a tireless missionary and preacher. Deeply moved by the plight of young girls at risk, he founded the Congregation of the Nazarene Sisters in 1865 to serve them. He was known for his profound devotion to the Passion of Christ and his zealous dedication to the Vincentian mission of serving both the spiritual and material needs of the poor.',
+        es: '<strong>Biografía</strong><br>Sacerdote vicenciano del norte de Italia, fue un misionero y predicador incansable. Profundamente conmovido por la situación de las jóvenes en riesgo, fundó la Congregación de las Hermanas Nazarenas en 1865 para servirlas. Fue conocido por su profunda devoción a la Pasión de Cristo y su celosa dedicación a la misión vicenciana de servir las necesidades espirituales y materiales de los pobres.',
+        fr: '<strong>Biographie</strong><br>Prêtre vincentien du nord de l\'Italie, il fut un missionnaire et un prédicateur infatigable. Profondément ému par le sort des jeunes filles en danger, il fonda la Congrégation des Sœurs Nazaréennes en 1865 pour les servir. Il était connu pour sa profonde dévotion à la Passion du Christ et son dévouement zélé à la mission vincentienne de servir les besoins spirituels et matériels des pauvres.',
+        la: '<strong>Vita</strong><br>Sacerdos Vincentianus ex Italia septentrionali, missionarius et praedicator infatigabilis fuit. Profunde commotus sorte puellarum in periculo versantium, Congregationem Sororum Nazarenarum anno 1865 ad eis serviendum condidit. Notus erat ob profundam devotionem suam erga Passionem Christi et zelantem dedicationem missioni Vincentianae, scilicet serviendi necessitatibus tam spiritualibus quam materialibus pauperum.'
+      },
+      massReadings: placeholder,
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
   }
 ];
