@@ -117,51 +117,52 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
 
   return (
     <div className="animate-fade-in">
-        {mainSections && mainSections.length > 0 && (
-            <div className="mb-8">
-                <div className="flex items-center space-x-3 overflow-x-auto pb-4 -mx-4 px-4 main-sections-scrollbar-hide">
-                    {mainSections.map((section) => (
-                        <button
-                            key={section.id}
-                            onClick={() => onSelectMainSection(section.id)}
-                            className="flex-shrink-0 whitespace-nowrap px-5 py-2 rounded-full bg-[var(--bg-secondary)] border border-[var(--bg-tertiary)] text-[var(--text-secondary)] font-semibold text-sm hover:bg-[var(--bg-tertiary)] hover:text-[var(--text-primary)] hover:border-[var(--border-accent)]/50 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)] focus:ring-offset-2 focus:ring-offset-[var(--bg-primary)]"
-                        >
-                            {getML(section.title)}
-                        </button>
-                    ))}
-                </div>
-            </div>
-        )}
-
-      {feasts.length > 0 && (
-        <div className="sticky md:sticky top-[80px] z-[5] bg-[var(--bg-primary)] py-4 mb-6 -mx-4 px-4">
-            <div className="flex flex-col gap-4">
-              <div className="flex flex-col sm:flex-row items-center gap-4">
-                <div className="relative flex-grow w-full">
-                  <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-                    <i className="fas fa-search text-[var(--text-secondary)]"></i>
-                  </div>
-                  <input
-                    type="text"
-                    placeholder={getML({ vi: "Tìm lễ...", en: "Search feasts..." })}
-                    value={searchTerm}
-                    onChange={handleSearchChange}
-                    className="w-full bg-[var(--bg-secondary)] text-[var(--text-primary)] border border-[var(--bg-tertiary)] rounded-lg shadow-sm py-3 px-4 pl-12 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)] focus:border-[var(--border-accent)] transition-all duration-300"
-                    aria-label={getML({ vi: "Tìm kiếm lễ", en: "Search for feasts" })}
-                  />
-                </div>
-                {isAdmin && (
-                      <button
-                          onClick={onAddNewFeast}
-                          className="bg-blue-500/20 text-blue-300 px-4 py-3 rounded-lg hover:bg-blue-500/30 transition-colors duration-300 font-semibold flex items-center flex-shrink-0 w-full justify-center sm:w-auto"
-                      >
-                          <i className="fas fa-plus mr-2"></i><span>{getML({ vi: 'Thêm Lễ', en: 'Add Feast' })}</span>
-                      </button>
-                  )}
+      {/* Sticky Control Panel */}
+      <div className="sticky top-[80px] z-20 bg-[var(--bg-primary)]/95 backdrop-blur-sm -mx-4 sm:mx-0 sm:rounded-xl shadow-lg mb-6">
+        <div className="p-4 md:p-6 space-y-4">
+          <div className="flex flex-col sm:flex-row items-center gap-4">
+            <div className="relative flex-grow w-full">
+              <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                <i className="fas fa-search text-[var(--text-secondary)]"></i>
               </div>
-              
-              <div>
-                <div className="flex items-center space-x-3 overflow-x-auto pb-2 -mx-4 px-4 filter-scrollbar-hide">
+              <input
+                type="text"
+                placeholder={getML({ vi: "Tìm lễ...", en: "Search feasts..." })}
+                value={searchTerm}
+                onChange={handleSearchChange}
+                className="w-full bg-[var(--bg-secondary)] text-[var(--text-primary)] border border-[var(--bg-tertiary)] rounded-lg shadow-sm py-3 px-4 pl-12 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)] focus:border-[var(--border-accent)] transition-all duration-300"
+                aria-label={getML({ vi: "Tìm kiếm lễ", en: "Search for feasts" })}
+              />
+            </div>
+            {isAdmin && (
+                  <button
+                      onClick={onAddNewFeast}
+                      className="bg-blue-500/20 text-blue-300 px-4 py-3 rounded-lg hover:bg-blue-500/30 transition-colors duration-300 font-semibold flex items-center flex-shrink-0 w-full justify-center sm:w-auto"
+                  >
+                      <i className="fas fa-plus mr-2"></i><span>{getML({ vi: 'Thêm Lễ', en: 'Add Feast' })}</span>
+                  </button>
+              )}
+          </div>
+          
+          <div>
+            <div className="flex items-center space-x-3 overflow-x-auto pb-2 -mx-4 px-4 sm:-mx-6 sm:px-6 filter-scrollbar-hide">
+                {/* Main Sections (Prayers, etc.) as Pills */}
+                {mainSections.map((section) => (
+                    <button
+                      key={section.id}
+                      onClick={() => onSelectMainSection(section.id)}
+                      className={`${getFilterButtonStyle(false)} flex items-center gap-2`}
+                    >
+                        <i className={`fas ${section.icon} text-sm text-[var(--text-accent)]`}></i>
+                        <span>{getML(section.title)}</span>
+                    </button>
+                ))}
+                
+                {mainSections.length > 0 && feasts.length > 0 && <div className="h-6 w-px bg-[var(--bg-tertiary)] flex-shrink-0"></div>}
+
+                {/* Feast Type Filters */}
+                {feasts.length > 0 && (
+                  <>
                     <button onClick={() => handleTypeSelect('all')} className={getFilterButtonStyle(selectedType === 'all')}>
                       {getML({ vi: 'Tất cả', en: 'All' })}
                     </button>
@@ -170,15 +171,16 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
                             {getML(type.name)}
                         </button>
                     ))}
-                </div>
-              </div>
+                  </>
+                )}
             </div>
+          </div>
         </div>
-      )}
+      </div>
 
       {paginatedFeasts.length > 0 ? (
         <div className="space-y-3">
-          {paginatedFeasts.map((feast) => {
+          {paginatedFeasts.map((feast, index) => {
             const isToday = feast.date === todayString;
             const isTomorrow = feast.date === tomorrowString;
             const feastTypeData = feastTypes.find(ft => ft.name.vi === feast.type);
@@ -187,9 +189,10 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
               <div
                 key={feast.id}
                 onClick={() => onSelectFeast(feast)}
-                className="group bg-[var(--bg-secondary)] rounded-lg p-4 flex items-center space-x-4 transition-all duration-300 border border-[var(--bg-tertiary)] hover:border-[var(--border-accent)] hover:shadow-lg hover:shadow-[var(--border-accent)]/10 cursor-pointer transform hover:-translate-y-0.5"
+                className="group animate-list-item bg-[var(--bg-secondary)] rounded-lg p-4 flex items-center space-x-4 transition-all duration-300 border border-[var(--bg-tertiary)] hover:border-[var(--border-accent)] hover:shadow-lg hover:shadow-[var(--border-accent)]/20 cursor-pointer transform hover:-translate-y-1"
                 role="button"
                 aria-label={`${getML({ vi: 'Chọn', en: 'Select' })} ${getML(feast.title)}`}
+                style={{ animationDelay: `${index * 50}ms` }}
               >
                 <div className="flex-shrink-0 w-16 h-16 rounded-lg bg-[var(--bg-tertiary)] flex flex-col items-center justify-center text-center transition-colors duration-300 group-hover:bg-[var(--highlight-bg)]">
                     <p className="text-2xl font-bold text-[var(--text-accent)]">{feast.date.split('-')[1]}</p>
@@ -197,7 +200,7 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
                 </div>
                 
                 <div className="flex-grow">
-                  <h3 className="text-lg font-semibold text-[var(--text-primary)]">{getML(feast.title)}</h3>
+                  <h3 className="text-lg font-bold text-[var(--text-primary)]">{getML(feast.title)}</h3>
                   {feast.subtitle && getML(feast.subtitle) && <p className="text-sm text-[var(--text-secondary)] italic">{getML(feast.subtitle)}</p>}
                    <div className="flex items-center flex-wrap gap-2 mt-2">
                       {isToday && (
@@ -245,10 +248,25 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
         />
       )}
       <style>{`
-            .main-sections-scrollbar-hide::-webkit-scrollbar { display: none; }
-            .main-sections-scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
             .filter-scrollbar-hide::-webkit-scrollbar { display: none; }
             .filter-scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+            
+            @keyframes fade-in-up {
+              from {
+                opacity: 0;
+                transform: translateY(20px);
+              }
+              to {
+                opacity: 1;
+                transform: translateY(0);
+              }
+            }
+
+            .animate-list-item {
+              opacity: 0;
+              animation: fade-in-up 0.5s ease-out forwards;
+              animation-fill-mode: forwards;
+            }
       `}</style>
     </div>
   );
