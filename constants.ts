@@ -1,4 +1,4 @@
-import type { SectionConfig } from './types';
+import type { SectionConfig } from './types.ts';
 
 export const SECTIONS_CONFIG: SectionConfig[] = [
   { key: 'biography', icon: 'fa-book-open', title: { vi: 'Tiểu Sử', en: 'Biography' } },

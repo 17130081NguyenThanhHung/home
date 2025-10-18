@@ -1,5 +1,5 @@
 import React from 'react';
-import type { MultilingualString } from '../types';
+import type { MultilingualString } from '../types.ts';
 
 interface SectionViewProps {
   feastTitle: string;

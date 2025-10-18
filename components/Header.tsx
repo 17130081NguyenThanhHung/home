@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
-import type { Theme } from '../App';
-import ThemeSwitcher from './ThemeSwitcher';
-import type { MultilingualString, LanguageConfig } from '../types';
-import { getMultilingualText } from '../utils/multilingual';
+import type { Theme } from '../App.tsx';
+import ThemeSwitcher from './ThemeSwitcher.tsx';
+import type { MultilingualString, LanguageConfig } from '../types.ts';
+import { getMultilingualText } from '../utils/multilingual.ts';
 
 interface HeaderProps {
   onGoBack: () => void;

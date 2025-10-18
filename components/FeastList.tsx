@@ -1,6 +1,6 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import type { Feast, FeastType, MainSection, MultilingualString } from '../types';
-import Pagination from './Pagination';
+import type { Feast, FeastType, MainSection, MultilingualString } from '../types.ts';
+import Pagination from './Pagination.tsx';
 
 interface FeastListProps {
   feasts: Feast[];

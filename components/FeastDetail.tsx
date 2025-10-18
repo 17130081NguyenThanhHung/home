@@ -1,6 +1,6 @@
 import React from 'react';
-import type { Feast, SectionKey, MultilingualString, SectionConfig } from '../types';
-import { getMultilingualText } from '../utils/multilingual';
+import type { Feast, SectionKey, MultilingualString, SectionConfig } from '../types.ts';
+import { getMultilingualText } from '../utils/multilingual.ts';
 
 interface FeastDetailProps {
   feast: Feast;

@@ -1,28 +1,28 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
-import type { Feast, FeastType, SectionKey, MultilingualString, GenericContent, MainSection, LanguageConfig, SectionConfig, AboutContent } from './types';
+import type { Feast, FeastType, SectionKey, MultilingualString, GenericContent, MainSection, LanguageConfig, SectionConfig, AboutContent } from './types.ts';
 
 // Components
-import Header from './components/Header';
-import Footer from './components/Footer';
-import FeastList from './components/FeastList';
-import FeastDetail from './components/FeastDetail';
-import SectionView from './components/SectionView';
-import GenericContentList from './components/PrayerList';
-import GenericContentDetail from './components/PrayerDetail';
-import AboutPage from './components/AboutPage';
-import Spinner from './components/Spinner';
-import ScrollToTopButton from './components/ScrollToTopButton';
-import AdminLogin from './components/AdminLogin';
-import AdminPanelModal from './components/AdminPanelModal';
-import EditFeastModal from './components/EditFeastModal';
-import EditSectionModal from './components/EditSectionModal';
-import EditGenericContentModal from './components/EditPrayerModal';
+import Header from './components/Header.tsx';
+import Footer from './components/Footer.tsx';
+import FeastList from './components/FeastList.tsx';
+import FeastDetail from './components/FeastDetail.tsx';
+import SectionView from './components/SectionView.tsx';
+import GenericContentList from './components/PrayerList.tsx';
+import GenericContentDetail from './components/PrayerDetail.tsx';
+import AboutPage from './components/AboutPage.tsx';
+import Spinner from './components/Spinner.tsx';
+import ScrollToTopButton from './components/ScrollToTopButton.tsx';
+import AdminLogin from './components/AdminLogin.tsx';
+import AdminPanelModal from './components/AdminPanelModal.tsx';
+import EditFeastModal from './components/EditFeastModal.tsx';
+import EditSectionModal from './components/EditSectionModal.tsx';
+import EditGenericContentModal from './components/EditPrayerModal.tsx';
 
 
 // Data & Constants
-import { FEASTS as initialFeasts } from './data';
-import { SECTIONS_CONFIG } from './constants';
-import { getMultilingualText as getMLText } from './utils/multilingual';
+import { FEASTS as initialFeasts } from './data.ts';
+import { SECTIONS_CONFIG } from './constants.ts';
+import { getMultilingualText as getMLText } from './utils/multilingual.ts';
 
 // Types to export
 export type Theme = 'classic' | 'light' | 'dark' | 'black' | 'light-blue' | 'wood';
