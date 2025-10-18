@@ -28,9 +28,12 @@ const ThemeSwitcher: React.FC<ThemeSwitcherProps> = ({ currentTheme, onThemeChan
       onClick={onClose}
     >
       <div 
-        className="bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-sm"
+        className="relative bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-sm"
         onClick={(e) => e.stopPropagation()}
       >
+        <button type="button" onClick={onClose} className="absolute top-3 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-3xl h-10 w-10 flex items-center justify-center rounded-full hover:bg-[var(--bg-tertiary)] transition-colors z-10" aria-label="Đóng">
+            &times;
+        </button>
         <h3 className="text-xl font-semibold text-center mb-6 text-[var(--text-primary)]">Chọn Giao Diện</h3>
         <div className="grid grid-cols-2 gap-4">
           {THEMES.map((theme) => (

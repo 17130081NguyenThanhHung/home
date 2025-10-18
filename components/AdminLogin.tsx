@@ -32,9 +32,12 @@ const AdminLogin: React.FC<AdminLoginProps> = ({ onClose, onLoginAttempt, getML,
       onClick={onClose}
     >
       <div
-        className="bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-8 w-full max-w-xs"
+        className="relative bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-8 w-full max-w-xs"
         onClick={(e) => e.stopPropagation()}
       >
+        <button type="button" onClick={onClose} className="absolute top-3 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-3xl h-10 w-10 flex items-center justify-center rounded-full hover:bg-[var(--bg-tertiary)] transition-colors z-10" aria-label={getML({ vi: 'Đóng', en: 'Close' })}>
+            &times;
+        </button>
         <h3 className="text-xl font-semibold text-center mb-4 text-[var(--text-primary)]">
             {getML({ vi: 'Đăng Nhập Admin', en: 'Admin Login' })}
         </h3>
