@@ -274,6 +274,10 @@ const App: React.FC = () => {
     }
     return false;
   };
+
+  const handleLogout = () => {
+    setIsAdmin(false);
+  };
   
   const handleSaveSettings = (newSettings: Partial<AppSettings>) => {
     setSettings(s => {
@@ -555,6 +559,7 @@ const App: React.FC = () => {
         currentTheme={settings.theme}
         onAdminClick={() => isAdmin ? setShowAdminPanel(true) : setShowAdminLogin(true)}
         isAdmin={isAdmin}
+        onLogout={handleLogout}
         logoUrl={settings.logoUrl}
         title={settings.headerTitle}
         subtitle={settings.headerSubtitle}

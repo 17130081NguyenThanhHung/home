@@ -121,7 +121,10 @@ const EditGenericContentModal: React.FC<EditGenericContentModalProps> = ({ item,
 
   return (
     <div className="fixed inset-0 bg-black/70 z-[60] flex items-center justify-center p-4 print:hidden" onClick={handleClose}>
-      <div className="bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-2xl max-h-[90vh] flex flex-col" onClick={(e) => e.stopPropagation()}>
+      <div className="relative bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-2xl max-h-[90vh] flex flex-col" onClick={(e) => e.stopPropagation()}>
+        <button type="button" onClick={handleClose} className="absolute top-3 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-3xl h-10 w-10 flex items-center justify-center rounded-full hover:bg-[var(--bg-tertiary)] transition-colors z-10" aria-label="Đóng">
+            &times;
+        </button>
         <h3 className="text-xl font-semibold text-center mb-6 text-[var(--text-primary)]">
             {item?.id ? `Sửa Mục '${title}'` : `Thêm Mục Mới cho '${title}'`}
         </h3>

@@ -12,6 +12,7 @@ interface HeaderProps {
   defaultLanguage: string;
   onLanguageChange: (langCode: string) => void;
   onAdminClick: () => void;
+  onLogout: () => void;
   isAdmin: boolean;
   logoUrl: string;
   title: MultilingualString;
@@ -30,6 +31,7 @@ const Header: React.FC<HeaderProps> = ({
   defaultLanguage,
   onLanguageChange,
   onAdminClick,
+  onLogout,
   isAdmin,
   logoUrl,
   title,
@@ -42,11 +44,14 @@ const Header: React.FC<HeaderProps> = ({
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isLangMenuOpen, setIsLangMenuOpen] = useState(false);
   const [showThemeSwitcher, setShowThemeSwitcher] = useState(false);
+  const [isAdminMenuOpen, setIsAdminMenuOpen] = useState(false);
   
   const menuRef = useRef<HTMLDivElement>(null);
   const buttonRef = useRef<HTMLButtonElement>(null);
   const langMenuRef = useRef<HTMLDivElement>(null);
   const langButtonRef = useRef<HTMLButtonElement>(null);
+  const adminMenuRef = useRef<HTMLDivElement>(null);
+  const adminButtonRef = useRef<HTMLButtonElement>(null);
   
   const getML = (textObj: MultilingualString | undefined) => getMultilingualText(textObj, currentLanguage, defaultLanguage);
 
@@ -57,6 +62,9 @@ const Header: React.FC<HeaderProps> = ({
       }
       if (langMenuRef.current && !langMenuRef.current.contains(event.target as Node) && langButtonRef.current && !langButtonRef.current.contains(event.target as Node)) {
         setIsLangMenuOpen(false);
+      }
+      if (adminMenuRef.current && !adminMenuRef.current.contains(event.target as Node) && adminButtonRef.current && !adminButtonRef.current.contains(event.target as Node)) {
+        setIsAdminMenuOpen(false);
       }
     };
     document.addEventListener('mousedown', handleClickOutside);
@@ -115,9 +123,29 @@ const Header: React.FC<HeaderProps> = ({
             <button onClick={onAboutClick} className="menu-btn" aria-label={getML({ vi: "Về ứng dụng", en: "About the app" })}>
               <i className="fas fa-info-circle"></i>
             </button>
-            <button onClick={onAdminClick} className={`menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}`} aria-label="Admin Panel">
-              <i className="fas fa-user-shield"></i>
-            </button>
+            <div className="relative">
+              <button ref={adminButtonRef} onClick={() => isAdmin ? setIsAdminMenuOpen(prev => !prev) : onAdminClick()} className={`menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}`} aria-label="Admin Menu">
+                <i className="fas fa-user-shield"></i>
+              </button>
+              {isAdmin && isAdminMenuOpen && (
+                <div ref={adminMenuRef} className="absolute right-0 mt-2 w-48 bg-[var(--bg-secondary)] rounded-lg shadow-xl py-1 text-sm">
+                  <a
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); onAdminClick(); setIsAdminMenuOpen(false); }}
+                    className="flex items-center px-4 py-2 text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)] hover:text-[var(--text-primary)]"
+                  >
+                    <i className="fas fa-cogs fa-fw mr-2"></i> {getML({ vi: 'Bảng Điều Khiển', en: 'Admin Panel' })}
+                  </a>
+                  <a
+                    href="#"
+                    onClick={(e) => { e.preventDefault(); onLogout(); setIsAdminMenuOpen(false); }}
+                    className="flex items-center px-4 py-2 text-red-400 hover:bg-red-500/10"
+                  >
+                    <i className="fas fa-sign-out-alt fa-fw mr-2"></i> {getML({ vi: 'Đăng Xuất', en: 'Logout' })}
+                  </a>
+                </div>
+              )}
+            </div>
           </nav>
 
           {/* Mobile Menu Button */}
@@ -147,8 +175,13 @@ const Header: React.FC<HeaderProps> = ({
                 <i className="fas fa-info-circle w-6"></i><span>{getML({ vi: "Về Ứng Dụng", en: "About App" })}</span>
               </button>
               <button onClick={() => { onAdminClick(); setIsMenuOpen(false); }} className={`mobile-menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}`}>
-                <i className="fas fa-user-shield w-6"></i><span>Admin</span>
+                <i className="fas fa-user-shield w-6"></i><span>{isAdmin ? getML({ vi: 'Bảng Điều Khiển', en: 'Admin Panel' }) : 'Admin'}</span>
               </button>
+              {isAdmin && (
+                  <button onClick={() => { onLogout(); setIsMenuOpen(false); }} className="mobile-menu-btn text-red-400">
+                      <i className="fas fa-sign-out-alt w-6"></i><span>{getML({ vi: 'Đăng Xuất', en: 'Logout' })}</span>
+                  </button>
+              )}
             </nav>
           </div>
         )}

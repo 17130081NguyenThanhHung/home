@@ -144,16 +144,6 @@ const AdminPanelModal: React.FC<AdminPanelModalProps> = ({
             l.code === codeToToggle ? { ...l, enabled: !l.enabled } : l
         ));
     };
-    
-    const handleRemoveLanguage = (codeToRemove: string) => {
-        if (codeToRemove === defaultLanguage) {
-            alert(getML({vi: "Không thể xóa ngôn ngữ mặc định.", en: "Cannot delete the default language."}));
-            return;
-        }
-        if (window.confirm(getML({vi: `Bạn có chắc muốn xóa ngôn ngữ '${codeToRemove}' không? Tất cả bản dịch của ngôn ngữ này sẽ bị mất.`, en: `Are you sure you want to delete the '${codeToRemove}' language? All translations for this language will be lost.`}))) {
-            setLanguages(prev => prev.filter(l => l.code !== codeToRemove));
-        }
-    };
 
     const handleLanguageNameChange = (code: string, newName: string) => {
         setLanguages(prev => prev.map(l => l.code === code ? { ...l, name: newName } : l));
@@ -353,7 +343,7 @@ const AdminPanelModal: React.FC<AdminPanelModalProps> = ({
                 </div>
                 <div className="space-y-2">
                     {languages.map(lang => (
-                        <div key={lang.code} className="grid grid-cols-[auto_1fr_auto_auto] items-center gap-3">
+                        <div key={lang.code} className="grid grid-cols-[auto_1fr_auto] items-center gap-3">
                             <span className="font-mono text-sm bg-[var(--bg-tertiary)] px-2 py-1 rounded">{lang.code}</span>
                             <input type="text" value={lang.name} onChange={(e) => handleLanguageNameChange(lang.code, e.target.value)} className="input-style m-0" />
                             <label className="switch" title={lang.code === defaultLanguage ? getML({vi: "Không thể tắt ngôn ngữ mặc định", en: "Cannot disable default language"}) : (lang.enabled ? getML({vi: 'Bật', en: 'Enabled'}) : getML({vi: 'Tắt', en: 'Disabled'}))}>
@@ -365,9 +355,6 @@ const AdminPanelModal: React.FC<AdminPanelModalProps> = ({
                                 />
                                 <span className="slider round"></span>
                             </label>
-                            <button type="button" onClick={() => handleRemoveLanguage(lang.code)} className="px-3 py-2 rounded-md bg-red-500/20 text-red-300 hover:bg-red-500/30" disabled={lang.code === defaultLanguage}>
-                                {getML({ vi: 'Xóa', en: 'Delete' })}
-                            </button>
                         </div>
                     ))}
                 </div>
@@ -403,7 +390,10 @@ const AdminPanelModal: React.FC<AdminPanelModalProps> = ({
     return (
         <>
         <div className="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4 print:hidden" onClick={onClose}>
-            <div className="bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-3xl max-h-[90vh] flex flex-col" onClick={(e) => e.stopPropagation()}>
+            <div className="relative bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-3xl max-h-[90vh] flex flex-col" onClick={(e) => e.stopPropagation()}>
+                <button type="button" onClick={onClose} className="absolute top-3 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-3xl h-10 w-10 flex items-center justify-center rounded-full hover:bg-[var(--bg-tertiary)] transition-colors z-10" aria-label={getML({ vi: 'Đóng', en: 'Close' })}>
+                    &times;
+                </button>
                 <h3 className="text-xl font-semibold text-center mb-2 text-[var(--text-primary)]">{getML({ vi: 'Bảng Điều Khiển Admin', en: 'Admin Panel' })}</h3>
                 
                 {/* Tabs */}

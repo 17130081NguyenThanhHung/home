@@ -29,7 +29,10 @@ const EditSectionModal: React.FC<EditSectionModalProps> = ({ title, content, onC
 
   return (
     <div className="fixed inset-0 bg-black/70 z-50 flex items-center justify-center p-4 print:hidden" onClick={onClose}>
-      <div className="bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-4xl h-[90vh] flex flex-col" onClick={(e) => e.stopPropagation()}>
+      <div className="relative bg-[var(--bg-secondary)] rounded-xl shadow-2xl p-6 w-full max-w-4xl h-[90vh] flex flex-col" onClick={(e) => e.stopPropagation()}>
+        <button type="button" onClick={onClose} className="absolute top-3 right-3 text-[var(--text-secondary)] hover:text-[var(--text-primary)] text-3xl h-10 w-10 flex items-center justify-center rounded-full hover:bg-[var(--bg-tertiary)] transition-colors z-10" aria-label="Đóng">
+            &times;
+        </button>
         <h3 className="text-xl font-semibold text-center mb-2 text-[var(--text-primary)]">
             Sửa Mục: {title[activeLang] || title['vi']}
         </h3>

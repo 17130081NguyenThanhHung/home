@@ -17,6 +17,7 @@ const FEASTS_PER_PAGE = 13;
 
 const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes, getML, mainSections, onSelectMainSection, isAdmin, onAddNewFeast }) => {
   const [searchTerm, setSearchTerm] = useState('');
+  const [selectedType, setSelectedType] = useState<string>('all');
   const [currentPage, setCurrentPage] = useState(1);
   const languageCodeForDate = getML({vi: 'vi-VN', en: 'en-US'});
 
@@ -34,16 +35,21 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
   }, []);
 
   const filteredFeasts = useMemo(() => {
-    if (!searchTerm) return feasts;
+    const feastsByType = selectedType === 'all' 
+        ? feasts 
+        : feasts.filter(feast => feast.type === selectedType);
+
+    if (!searchTerm) return feastsByType;
+    
     const lowercasedFilter = searchTerm.toLowerCase();
-    return feasts.filter(feast => 
+    return feastsByType.filter(feast => 
         Object.values(feast.title).some(t => t.toLowerCase().includes(lowercasedFilter)) ||
         (feast.subtitle && Object.values(feast.subtitle).some(s => s.toLowerCase().includes(lowercasedFilter)))
     );
-  }, [feasts, searchTerm]);
+  }, [feasts, searchTerm, selectedType]);
 
   useEffect(() => {
-    if (searchTerm) {
+    if (searchTerm || selectedType !== 'all') {
       setCurrentPage(1);
       return;
     };
@@ -95,6 +101,19 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
       setCurrentPage(1); // Reset to first page on search
   };
 
+  const handleTypeSelect = (type: string) => {
+    setSelectedType(type);
+    setCurrentPage(1);
+  };
+
+  const getFilterButtonStyle = (isActive: boolean): string => {
+    const baseStyle = "flex-shrink-0 whitespace-nowrap px-4 py-2 rounded-full font-semibold text-sm transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-[var(--bg-primary)]";
+    if (isActive) {
+      return `${baseStyle} bg-[var(--text-accent)] text-[var(--bg-primary)] shadow-md focus:ring-[var(--text-accent)]`;
+    }
+    return `${baseStyle} bg-[var(--bg-secondary)] border border-[var(--bg-tertiary)] text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)] hover:text-[var(--text-primary)] hover:border-[var(--border-accent)]/50 focus:ring-[var(--border-accent)]`;
+  };
+
 
   return (
     <div className="animate-fade-in">
@@ -116,28 +135,43 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
 
       {feasts.length > 0 && (
         <div className="sticky md:sticky top-[80px] z-[5] bg-[var(--bg-primary)] py-4 mb-6 -mx-4 px-4">
-            <div className="flex items-center gap-4">
-              <div className="relative flex-grow">
-                <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-                  <i className="fas fa-search text-[var(--text-secondary)]"></i>
+            <div className="flex flex-col gap-4">
+              <div className="flex flex-col sm:flex-row items-center gap-4">
+                <div className="relative flex-grow w-full">
+                  <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                    <i className="fas fa-search text-[var(--text-secondary)]"></i>
+                  </div>
+                  <input
+                    type="text"
+                    placeholder={getML({ vi: "Tìm lễ...", en: "Search feasts..." })}
+                    value={searchTerm}
+                    onChange={handleSearchChange}
+                    className="w-full bg-[var(--bg-secondary)] text-[var(--text-primary)] border border-[var(--bg-tertiary)] rounded-lg shadow-sm py-3 px-4 pl-12 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)] focus:border-[var(--border-accent)] transition-all duration-300"
+                    aria-label={getML({ vi: "Tìm kiếm lễ", en: "Search for feasts" })}
+                  />
                 </div>
-                <input
-                  type="text"
-                  placeholder={getML({ vi: "Tìm lễ...", en: "Search feasts..." })}
-                  value={searchTerm}
-                  onChange={handleSearchChange}
-                  className="w-full bg-[var(--bg-secondary)] text-[var(--text-primary)] border border-[var(--bg-tertiary)] rounded-lg shadow-sm py-3 px-4 pl-12 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)] focus:border-[var(--border-accent)] transition-all duration-300"
-                  aria-label={getML({ vi: "Tìm kiếm lễ", en: "Search for feasts" })}
-                />
+                {isAdmin && (
+                      <button
+                          onClick={onAddNewFeast}
+                          className="bg-blue-500/20 text-blue-300 px-4 py-3 rounded-lg hover:bg-blue-500/30 transition-colors duration-300 font-semibold flex items-center flex-shrink-0 w-full justify-center sm:w-auto"
+                      >
+                          <i className="fas fa-plus mr-2"></i><span>{getML({ vi: 'Thêm Lễ', en: 'Add Feast' })}</span>
+                      </button>
+                  )}
               </div>
-               {isAdmin && (
-                    <button
-                        onClick={onAddNewFeast}
-                        className="bg-blue-500/20 text-blue-300 px-4 py-3 rounded-lg hover:bg-blue-500/30 transition-colors duration-300 font-semibold flex items-center flex-shrink-0"
-                    >
-                        <i className="fas fa-plus mr-2"></i><span>{getML({ vi: 'Thêm Lễ', en: 'Add Feast' })}</span>
+              
+              <div>
+                <div className="flex items-center space-x-3 overflow-x-auto pb-2 -mx-4 px-4 filter-scrollbar-hide">
+                    <button onClick={() => handleTypeSelect('all')} className={getFilterButtonStyle(selectedType === 'all')}>
+                      {getML({ vi: 'Tất cả', en: 'All' })}
                     </button>
-                )}
+                    {feastTypes.map(type => (
+                        <button key={type.name.vi} onClick={() => handleTypeSelect(type.name.vi)} className={getFilterButtonStyle(selectedType === type.name.vi)}>
+                            {getML(type.name)}
+                        </button>
+                    ))}
+                </div>
+              </div>
             </div>
         </div>
       )}
@@ -213,6 +247,8 @@ const FeastList: React.FC<FeastListProps> = ({ feasts, onSelectFeast, feastTypes
       <style>{`
             .main-sections-scrollbar-hide::-webkit-scrollbar { display: none; }
             .main-sections-scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+            .filter-scrollbar-hide::-webkit-scrollbar { display: none; }
+            .filter-scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
       `}</style>
     </div>
   );
