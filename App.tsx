@@ -448,23 +448,35 @@ const App: React.FC = () => {
   }, [view, selectedFeast, selectedSectionKey, selectedMainSectionId, selectedGenericContent]);
 
   const handleGoBack = () => {
-    if (view === 'feastList') return; // Cannot go back from the main list
-
-    const previousState = history.pop();
-    if (previousState) {
-        setView(previousState.view);
-        setSelectedFeast(previousState.feast || null);
-        setSelectedSectionKey(previousState.sectionKey || null);
-        setSelectedMainSectionId(previousState.mainSectionId || null);
-        setSelectedGenericContent(previousState.genericContent || null);
-        setHistory([...history]);
-    } else {
+    // If already at the main list or no history exists, reset to the default state.
+    if (view === 'feastList' || history.length === 0) {
         setView('feastList');
         setSelectedFeast(null);
         setSelectedSectionKey(null);
         setSelectedMainSectionId(null);
         setSelectedGenericContent(null);
+        setHistory([]);
+        window.scrollTo(0, 0);
+        return;
     }
+
+    // Get the state to return to from the end of the history array.
+    const previousState = history[history.length - 1];
+    
+    // Create a new history array without the last element.
+    // Using slice() is crucial for immutability, preventing direct state mutation.
+    const newHistory = history.slice(0, history.length - 1);
+
+    // Restore the view and selected items from the previous state.
+    setView(previousState.view);
+    setSelectedFeast(previousState.feast || null);
+    setSelectedSectionKey(previousState.sectionKey || null);
+    setSelectedMainSectionId(previousState.mainSectionId || null);
+    setSelectedGenericContent(previousState.genericContent || null);
+    
+    // Update the history state with the new, shorter array.
+    setHistory(newHistory);
+
     window.scrollTo(0, 0);
   };
   
@@ -508,12 +520,23 @@ const App: React.FC = () => {
     setSettings(s => {
       const combinedSettings = { ...s, ...newSettings };
   
+      // Sync mainSectionContents with the new mainSections list
       if (newSettings.mainSections) {
         const newContents = { ...combinedSettings.mainSectionContents };
+        const newSectionIds = new Set(newSettings.mainSections.map(sec => sec.id));
         let hasChanges = false;
         
+        // Remove contents for sections that no longer exist
+        for (const sectionId in newContents) {
+            if (!newSectionIds.has(sectionId)) {
+                delete newContents[sectionId];
+                hasChanges = true;
+            }
+        }
+        
+        // Add placeholders for newly added sections
         newSettings.mainSections.forEach(section => {
-          if (!newContents[section.id]) {
+          if (!newContents.hasOwnProperty(section.id)) {
             newContents[section.id] = [];
             hasChanges = true;
           }
@@ -607,22 +630,31 @@ const App: React.FC = () => {
     if (!selectedGenericContent || !selectedMainSectionId) return;
     const itemTitle = getML(selectedGenericContent.title);
     const confirmMsg = getML({
-      vi: `Bạn có chắc muốn xóa mục "${itemTitle}" không?`,
-      en: `Are you sure you want to delete the item "${itemTitle}"?`,
+        vi: `Bạn có chắc muốn xóa mục "${itemTitle}" không?`,
+        en: `Are you sure you want to delete the item "${itemTitle}"?`,
     });
 
     if (window.confirm(confirmMsg)) {
         const updatedContent = settings.mainSectionContents[selectedMainSectionId].filter(p => p.id !== selectedGenericContent.id);
+        
+        // Manually navigate back instead of using the generic handleGoBack,
+        // to ensure all state is updated in a single, clean render pass.
+        const previousState = history.length > 0 ? history[history.length - 1] : null;
+        const newHistory = history.slice(0, -1);
+
         setSettings(s => ({
-          ...s,
-          mainSectionContents: {
-            ...s.mainSectionContents,
-            [selectedMainSectionId]: updatedContent
-          }
+            ...s,
+            mainSectionContents: {
+                ...s.mainSectionContents,
+                [selectedMainSectionId]: updatedContent
+            }
         }));
-        handleGoBack();
+        setHistory(newHistory);
+        setView(previousState ? previousState.view : 'feastList'); // Default to feastList
+        setSelectedGenericContent(null); // Clear the selected item
+        window.scrollTo(0, 0);
     }
-  };
+};
 
   const getSectionTitle = (sectionKey: SectionKey): MultilingualString => {
       const config = settings.sectionsConfig.find(c => c.key === sectionKey);
@@ -725,7 +757,8 @@ const App: React.FC = () => {
             canNavigateNext={canNavigateSection('next')}
         />;
       case 'genericList':
-        return selectedMainSectionId && <GenericContentList 
+        return selectedMainSectionId && <GenericContentList
+          key={`generic-list-${(settings.mainSectionContents[selectedMainSectionId] || []).length}`}
           items={settings.mainSectionContents[selectedMainSectionId] || []} 
           onSelectItem={handleSelectGenericContent} 
           getML={getML}
@@ -759,6 +792,7 @@ const App: React.FC = () => {
       case 'feastList':
       default:
         return <FeastList
+          key={`feast-list-${sortedFeasts.length}`}
           feasts={sortedFeasts}
           onSelectFeast={handleSelectFeast}
           feastTypes={settings.feastTypes}
