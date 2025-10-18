@@ -88,7 +88,7 @@ const Header: React.FC<HeaderProps> = ({
                 <div className="w-10 h-10"></div> // Placeholder
             )}
             <div onClick={onTitleClick} className="flex items-center space-x-3 cursor-pointer">
-              {logoUrl && <img src={logoUrl} alt="Logo" className="h-10 w-10 rounded-full object-cover" />}
+              {logoUrl && <img src={logoUrl} alt="Logo" className="h-10 w-10 object-contain" />}
               <div>
                 <h1 className="text-xl font-bold text-[var(--text-accent)]">{getML(title)}</h1>
                 <p className="text-xs text-[var(--text-secondary)] hidden sm:block">{getML(subtitle)}</p>
